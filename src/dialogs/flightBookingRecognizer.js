@@ -24,27 +24,27 @@ class FlightBookingRecognizer {
     return await this.recognizer.recognize(context);
   }
 
-  getFromEntities(result) {
+  getFromEntities({ entities }) {
     let fromValue;
     let fromAirportValue;
-    if (result.entities.$instance.From) {
-      fromValue = result.entities.$instance.From[0].text;
+    if (entities.$instance.From) {
+      fromValue = entities.$instance.From[0].text;
     }
-    if (fromValue && result.entities.From[0].Airport) {
-      fromAirportValue = result.entities.From[0].Airport[0][0];
+    if (fromValue && entities.From[0].Airport) {
+      fromAirportValue = entities.From[0].Airport[0][0];
     }
 
     return { from: fromValue, airport: fromAirportValue };
   }
 
-  getToEntities(result) {
+  getToEntities({ entities }) {
     let toValue;
     let toAirportValue;
-    if (result.entities.$instance.To) {
-      toValue = result.entities.$instance.To[0].text;
+    if (entities.$instance.To) {
+      toValue = entities.$instance.To[0].text;
     }
-    if (toValue && result.entities.To[0].Airport) {
-      toAirportValue = result.entities.To[0].Airport[0][0];
+    if (toValue && entities.To[0].Airport) {
+      toAirportValue = entities.To[0].Airport[0][0];
     }
 
     return { to: toValue, airport: toAirportValue };
@@ -54,8 +54,8 @@ class FlightBookingRecognizer {
    * This value will be a TIMEX. And we are only interested in a Date so grab the first result and drop the Time part.
    * TIMEX is a format that represents DateTime expressions that include some ambiguity. e.g. missing a Year.
    */
-  getTravelDate(result) {
-    const datetimeEntity = result.entities.datetime;
+  getTravelDate({ entities }) {
+    const datetimeEntity = entities.datetime;
     if (!datetimeEntity || !datetimeEntity[0]) return undefined;
 
     const { timex } = datetimeEntity[0];

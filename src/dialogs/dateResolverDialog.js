@@ -64,11 +64,11 @@ class DateResolverDialog extends CancelAndHelpDialog {
     return await stepContext.endDialog(timex);
   }
 
-  async dateTimePromptValidator(promptContext) {
-    if (promptContext.recognized.succeeded) {
+  async dateTimePromptValidator({ recognized }) {
+    if (recognized.succeeded) {
       // This value will be a TIMEX. And we are only interested in a Date so grab the first result and drop the Time part.
       // TIMEX is a format that represents DateTime expressions that include some ambiguity. e.g. missing a Year.
-      const timex = promptContext.recognized.value[0].timex.split('T')[0];
+      const timex = recognized.value[0].timex.split('T')[0];
 
       // If this is a definite Date including year, month and day we are good otherwise reprompt.
       // A better solution might be to let the user know what part is actually missing.

@@ -140,14 +140,18 @@ class MainDialog extends ComponentDialog {
    * In some cases LUIS will recognize the From and To composite entities as a valid cities but the From and To Airport values
    * will be empty if those entity values can't be mapped to a canonical item in the Airport.
    */
-  async showWarningForUnsupportedCities(context, fromEntities, toEntities) {
+  async showWarningForUnsupportedCities(
+    context,
+    { from, airport: fromAirport },
+    { to, airport: toAirport },
+  ) {
     const unsupportedCities = [];
-    if (fromEntities.from && !fromEntities.airport) {
-      unsupportedCities.push(fromEntities.from);
+    if (from && !fromAirport) {
+      unsupportedCities.push(from);
     }
 
-    if (toEntities.to && !toEntities.airport) {
-      unsupportedCities.push(toEntities.to);
+    if (to && !toAirport) {
+      unsupportedCities.push(to);
     }
 
     if (unsupportedCities.length) {
