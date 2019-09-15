@@ -3,11 +3,12 @@
   "version": "0.0.1",
   "description": "An autonomous assistant for users of my site",
   "author": "Kevin Gonzalez <kev@typekev.com>",
-  "main": "./build/index.js",
+  "main": "index.js",
   "scripts": {
     "start": "node ./build/index.js",
     "watch": "nodemon ./build/index.js",
     "build": "babel src --out-dir build --copy-files",
+    "build:prod": "babel src --out-dir . --copy-files",
     "lint": "eslint src",
     "test": "jest src"
   },
