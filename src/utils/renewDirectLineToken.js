@@ -1,4 +1,4 @@
-module.exports = async function renewDirectLineToken(token) {
+export default async function renewDirectLineToken(token) {
   console.log(
     `Renewing Direct Line token using token "${token.substr(0, 3)}...${token.substr(-3)}"`,
   );
@@ -26,4 +26,4 @@ module.exports = async function renewDirectLineToken(token) {
   } else {
     throw new Error(`Direct Line service returned ${cres.status} while renewing token`);
   }
-};
+}

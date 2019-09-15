@@ -62,17 +62,14 @@ adapter.onTurnError = async (context, error) => {
 // A bot requires a state store to persist the dialog and user state between messages.
 let conversationState;
 
-let userState;
-
 // For local development, in-memory storage is used.
 // CAUTION: The Memory Storage used here is for local bot debugging only. When the bot
 // is restarted, anything stored in memory will be gone.
 const memoryStorage = new MemoryStorage();
 conversationState = new ConversationState(memoryStorage);
-userState = new UserState(memoryStorage);
+const userState = new UserState(memoryStorage);
 
 // If configured, pass in the FlightBookingRecognizer.  (Defining it externally allows it to be mocked for tests)
-let luisRecognizer;
 const { LuisAppId, LuisAPIKey, LuisAPIHostName } = process.env;
 const luisConfig = {
   applicationId: LuisAppId,
@@ -80,7 +77,7 @@ const luisConfig = {
   endpoint: `https://${LuisAPIHostName}`,
 };
 
-luisRecognizer = new FlightBookingRecognizer(luisConfig);
+const luisRecognizer = new FlightBookingRecognizer(luisConfig);
 
 // Create the main dialog.
 const bookingDialog = new BookingDialog(BOOKING_DIALOG);

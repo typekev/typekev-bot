@@ -1,8 +1,8 @@
-const createUserID = require('./createUserID');
+import createUserID from './createUserID';
 
 const { DIRECT_LINE_URL = 'https://directline.botframework.com/' } = process.env;
 
-module.exports = async function generateDirectLineToken(userID) {
+export default async function generateDirectLineToken(userID) {
   const { DIRECT_LINE_SECRET } = process.env;
 
   userID || (userID = await createUserID());
@@ -38,4 +38,4 @@ module.exports = async function generateDirectLineToken(userID) {
   } else {
     throw new Error(`Direct Line service returned ${cres.status} while generating new token`);
   }
-};
+}
