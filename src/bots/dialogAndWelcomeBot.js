@@ -10,7 +10,7 @@ class DialogAndWelcomeBot extends DialogBot {
         super(conversationState, userState, dialog);
 
         this.onMembersAdded(async (context, next) => {
-            const membersAdded = context.activity.membersAdded;
+            const {membersAdded} = context.activity;
             for (let cnt = 0; cnt < membersAdded.length; cnt++) {
                 if (membersAdded[cnt].id !== context.activity.recipient.id) {
                     const welcomeCard = CardFactory.adaptiveCard(WelcomeCard);

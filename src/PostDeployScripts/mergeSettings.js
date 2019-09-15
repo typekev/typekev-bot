@@ -1,10 +1,11 @@
 const fs = require('fs');
 const path = require('path');
+
 const appSettingPath = path.resolve('./appsettings.json');
 const envPath = path.resolve('./.env');
 
 const settings = readSettingsFile(appSettingPath, envPath);
-const env = process.env;
+const {env} = process;
 
 const envNames = Object.keys(env)
     .filter(function(x){ return x.indexOf("APPSETTING_") === 0;})
@@ -50,7 +51,7 @@ function updateSettingsFile(appSettingPath, envPath, settings) {
     if (isNodeJSProject()) {
         const keys = Object.keys(settings);
         const lines = keys.reduce(function(cur, key) {
-            return [...cur, key + '=' + settings[key]];
+            return [...cur, `${key  }=${  settings[key]}`];
         }, []);
         fs.writeFileSync(envPath, lines.join('\n'), {encoding: 'utf-8'});
     } else {

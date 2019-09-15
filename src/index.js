@@ -27,12 +27,12 @@ import { MainDialog } from './dialogs/mainDialog';
 // the bot's booking dialog
 import { BookingDialog } from './dialogs/bookingDialog';
 
-const BOOKING_DIALOG = 'bookingDialog';
-
 // DirectLine utils
 import generateDirectLineToken from './utils/generateDirectLineToken';
 
 import renewDirectLineToken from './utils/renewDirectLineToken';
+
+const BOOKING_DIALOG = 'bookingDialog';
 
 // Note: Ensure you have a .env file and include LuisAppId, LuisAPIKey and LuisAPIHostName.
 const ENV_FILE = path.join(__dirname, '../.env');

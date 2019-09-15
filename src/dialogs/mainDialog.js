@@ -69,7 +69,7 @@ class MainDialog extends ComponentDialog {
      * Then, it hands off to the bookingDialog child dialog to collect any remaining details.
      */
     async actStep(stepContext) {
-        let bookingDetails = {};
+        const bookingDetails = {};
 
         if (!this.luisRecognizer.isConfigured) {
             // LUIS is not configured, we just run the BookingDialog path.
@@ -117,7 +117,7 @@ class MainDialog extends ComponentDialog {
      * will be empty if those entity values can't be mapped to a canonical item in the Airport.
      */
     async showWarningForUnsupportedCities(context, fromEntities, toEntities) {
-        let unsupportedCities = [];
+        const unsupportedCities = [];
         if (fromEntities.from && !fromEntities.airport) {
             unsupportedCities.push(fromEntities.from);
         }
@@ -139,7 +139,7 @@ class MainDialog extends ComponentDialog {
     async finalStep(stepContext) {
         // If the child dialog ("bookingDialog") was cancelled or the user failed to confirm, the Result here will be null.
         if (stepContext.result) {
-            const result = stepContext.result;
+            const {result} = stepContext;
             // Now we have all the booking details.
 
             // This is where calls to the booking AOU service or database would go.

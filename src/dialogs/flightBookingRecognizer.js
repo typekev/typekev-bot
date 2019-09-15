@@ -24,7 +24,7 @@ class FlightBookingRecognizer {
     }
 
     getFromEntities(result) {
-        let fromValue, fromAirportValue;
+        let fromValue; let fromAirportValue;
         if (result.entities.$instance.From) {
             fromValue = result.entities.$instance.From[0].text;
         }
@@ -36,7 +36,7 @@ class FlightBookingRecognizer {
     }
 
     getToEntities(result) {
-        let toValue, toAirportValue;
+        let toValue; let toAirportValue;
         if (result.entities.$instance.To) {
             toValue = result.entities.$instance.To[0].text;
         }
@@ -52,10 +52,10 @@ class FlightBookingRecognizer {
      * TIMEX is a format that represents DateTime expressions that include some ambiguity. e.g. missing a Year.
      */
     getTravelDate(result) {
-        const datetimeEntity = result.entities['datetime'];
+        const datetimeEntity = result.entities.datetime;
         if (!datetimeEntity || !datetimeEntity[0]) return undefined;
 
-        const timex = datetimeEntity[0]['timex'];
+        const {timex} = datetimeEntity[0];
         if (!timex || !timex[0]) return undefined;
 
         const datetime = timex[0].split('T')[0];

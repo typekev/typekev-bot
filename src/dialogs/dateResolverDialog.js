@@ -3,8 +3,8 @@
 
 const { InputHints, MessageFactory } = require('botbuilder');
 const { DateTimePrompt, WaterfallDialog } = require('botbuilder-dialogs');
-const { CancelAndHelpDialog } = require('./cancelAndHelpDialog');
 const { TimexProperty } = require('@microsoft/recognizers-text-data-types-timex-expression');
+const { CancelAndHelpDialog } = require('./cancelAndHelpDialog');
 
 const DATETIME_PROMPT = 'datetimePrompt';
 const WATERFALL_DIALOG = 'waterfallDialog';
@@ -44,11 +44,11 @@ class DateResolverDialog extends CancelAndHelpDialog {
             // This is essentially a "reprompt" of the data we were given up front.
             return await stepContext.prompt(DATETIME_PROMPT, { prompt: repromptMessage });
         }
-        return await stepContext.next([{ timex: timex }]);
+        return await stepContext.next([{ timex }]);
     }
 
     async finalStep(stepContext) {
-        const timex = stepContext.result[0].timex;
+        const {timex} = stepContext.result[0];
         return await stepContext.endDialog(timex);
     }
 
