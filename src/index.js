@@ -7,6 +7,7 @@
 import path from 'path';
 
 import restify from 'restify';
+import corsMiddleware from 'restify-cors-middleware';
 
 // Import required bot services. See https://aka.ms/bot-services to learn more about the different parts of a bot.
 import {
@@ -84,12 +85,24 @@ const bookingDialog = new BookingDialog(BOOKING_DIALOG);
 const dialog = new MainDialog(luisRecognizer, bookingDialog);
 const bot = new DialogAndWelcomeBot(conversationState, userState, dialog);
 
+// Create CORS
+const cors = corsMiddleware({
+  preflightMaxAge: 5,
+  origins: ['*'],
+  allowHeaders: ['X-App-Version'],
+  exposeHeaders: [],
+});
+
 // Create HTTP server
 const server = restify.createServer();
 server.listen(process.env.port || process.env.PORT || 3978, () => {
   console.log(`\n${server.name} listening to ${server.url}`);
   console.log(`\nGet Bot Framework Emulator: https://aka.ms/botframework-emulator`);
 });
+
+// Use CORS
+server.pre(cors.preflight);
+server.use(cors.actual);
 
 // Listen for incoming activities and route them to your bot main dialog.
 server.post('/api/messages', (req, res) => {
