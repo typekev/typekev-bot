@@ -1,14 +1,7 @@
-// Copyright (c) Microsoft Corporation. All rights reserved.
-// Licensed under the MIT License.
-
-// index.js is used to setup and configure your bot
-
-// Import required packages
+import dotenv from 'dotenv';
 import path from 'path';
-
 import restify from 'restify';
-
-// Import required bot services. See https://aka.ms/bot-services to learn more about the different parts of a bot.
+// See https://aka.ms/bot-services
 import {
   BotFrameworkAdapter,
   ConversationState,
@@ -16,61 +9,43 @@ import {
   MemoryStorage,
   UserState,
 } from 'botbuilder';
-
 import { FlightBookingRecognizer } from './dialogs/flightBookingRecognizer';
-
-// This bot's main dialog.
 import { DialogAndWelcomeBot } from './bots/dialogAndWelcomeBot';
-
 import { MainDialog } from './dialogs/mainDialog';
-
-// the bot's booking dialog
 import { BookingDialog } from './dialogs/bookingDialog';
-
-// DirectLine utils
 import startDirectLineConversation from './utils/startDirectLineConversation';
-
 import renewDirectLineToken from './utils/renewDirectLineToken';
 
 const BOOKING_DIALOG = 'bookingDialog';
 
-// Note: Ensure you have a .env file and include LuisAppId, LuisAPIKey and LuisAPIHostName.
 const ENV_FILE = path.join(__dirname, '../.env');
-require('dotenv').config({ path: ENV_FILE });
+dotenv.config({ path: ENV_FILE });
 
-// Create adapter.
-// See https://aka.ms/about-bot-adapter to learn more about adapters.
-const adapter = new BotFrameworkAdapter({
-  appId: process.env.MicrosoftAppId,
-  appPassword: process.env.MicrosoftAppPassword,
-});
+const {
+  LuisAppId,
+  LuisAPIKey,
+  LuisAPIHostName,
+  MicrosoftAppId: appId,
+  MicrosoftAppPassword: appPassword,
+  DIRECT_LINE_SECRET,
+  PORT = 3978,
+} = process.env;
 
-// Catch-all for errors.
+const adapter = new BotFrameworkAdapter({ appId, appPassword });
+
+// See https://aka.ms/about-bot-state
+const memoryStorage = new MemoryStorage();
+const conversationState = new ConversationState(memoryStorage);
+const userState = new UserState(memoryStorage);
+
 adapter.onTurnError = async (context, error) => {
-  // This check writes out errors to console log
-  // NOTE: In production environment, you should consider logging this to Azure
-  //       application insights.
+  // eslint-disable-next-line no-console
   console.error(`\n [onTurnError]: ${error}`);
-  // Send a message to the user
   const onTurnErrorMessage = `Sorry, it looks like something went wrong!`;
   await context.sendActivity(onTurnErrorMessage, onTurnErrorMessage, InputHints.ExpectingInput);
-  // Clear out state
   await conversationState.delete(context);
 };
 
-// Define a state store for your bot. See https://aka.ms/about-bot-state to learn more about using MemoryStorage.
-// A bot requires a state store to persist the dialog and user state between messages.
-let conversationState;
-
-// For local development, in-memory storage is used.
-// CAUTION: The Memory Storage used here is for local bot debugging only. When the bot
-// is restarted, anything stored in memory will be gone.
-const memoryStorage = new MemoryStorage();
-conversationState = new ConversationState(memoryStorage);
-const userState = new UserState(memoryStorage);
-
-// If configured, pass in the FlightBookingRecognizer.  (Defining it externally allows it to be mocked for tests)
-const { LuisAppId, LuisAPIKey, LuisAPIHostName } = process.env;
 const luisConfig = {
   applicationId: LuisAppId,
   endpointKey: LuisAPIKey,
@@ -79,16 +54,14 @@ const luisConfig = {
 
 const luisRecognizer = new FlightBookingRecognizer(luisConfig);
 
-// Create the main dialog.
 const bookingDialog = new BookingDialog(BOOKING_DIALOG);
 const dialog = new MainDialog(luisRecognizer, bookingDialog);
 const bot = new DialogAndWelcomeBot(conversationState, userState, dialog);
 
-// Create HTTP server
 const server = restify.createServer();
-server.listen(process.env.port || process.env.PORT || 3978, () => {
+server.listen(PORT, () => {
+  // eslint-disable-next-line no-console
   console.log(`\n${server.name} listening to ${server.url}`);
-  console.log(`\nGet Bot Framework Emulator: https://aka.ms/botframework-emulator`);
 });
 
 // Listen for incoming activities and route them to your bot main dialog.
@@ -100,17 +73,14 @@ server.post('/api/messages', (req, res) => {
   });
 });
 
-function trustedOrigin(origin) {
-  return (
-    /^https?:\/\/localhost([\/:]|$)/.test(origin) ||
-    /^https?:\/\/webchat([\/:]|$)/.test(origin) ||
-    /^https?:\/\/[\d\w]+\.ngrok\.io([\/:]|$)/.test(origin) ||
-    /^https:\/\/typekev-bot\.azurewebsites\.net/.test(origin) ||
-    /^https:\/\/typekev\.com/.test(origin)
-  );
-}
+const trustedOrigin = origin =>
+  /^https?:\/\/localhost([/:]|$)/.test(origin) ||
+  /^https?:\/\/webchat([/:]|$)/.test(origin) ||
+  /^https?:\/\/[\d\w]+\.ngrok\.io([/:]|$)/.test(origin) ||
+  /^https:\/\/typekev-bot\.azurewebsites\.net/.test(origin) ||
+  /^https:\/\/typekev\.com/.test(origin);
 
-server.post('/directline/conversations', async (req, res) => {
+const postDirectLineConversation = async (req, res) => {
   const origin = req.header('origin');
 
   if (!trustedOrigin(origin)) {
@@ -133,11 +103,11 @@ server.post('/directline/conversations', async (req, res) => {
     res.send(500, err.message, { 'Access-Control-Allow-Origin': '*' });
   }
 
-  const { DIRECT_LINE_SECRET } = process.env;
-
   if (token) {
+    // eslint-disable-next-line no-console
     console.log(`Refreshing Direct Line token for ${origin}`);
   } else {
+    // eslint-disable-next-line no-console
     console.log(
       `Requesting Direct Line token for ${origin} using secret "${DIRECT_LINE_SECRET.substr(
         0,
@@ -145,4 +115,7 @@ server.post('/directline/conversations', async (req, res) => {
       )}...${DIRECT_LINE_SECRET.substr(-3)}"`,
     );
   }
-});
+  return origin;
+};
+
+server.post('/directline/conversations', postDirectLineConversation);
