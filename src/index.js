@@ -28,7 +28,7 @@ import { MainDialog } from './dialogs/mainDialog';
 import { BookingDialog } from './dialogs/bookingDialog';
 
 // DirectLine utils
-import generateDirectLineToken from './utils/generateDirectLineToken';
+import startDirectLineConversation from './utils/startDirectLineConversation';
 
 import renewDirectLineToken from './utils/renewDirectLineToken';
 
@@ -110,7 +110,7 @@ function trustedOrigin(origin) {
   );
 }
 
-server.post('/directline/token', async (req, res) => {
+server.post('/directline/conversations', async (req, res) => {
   const origin = req.header('origin');
 
   if (!trustedOrigin(origin)) {
@@ -125,7 +125,7 @@ server.post('/directline/token', async (req, res) => {
         'Access-Control-Allow-Origin': '*',
       });
     } else {
-      res.send(await generateDirectLineToken(), {
+      res.send(await startDirectLineConversation(), {
         'Access-Control-Allow-Origin': '*',
       });
     }
