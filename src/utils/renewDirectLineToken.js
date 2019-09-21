@@ -1,11 +1,10 @@
 export default async function renewDirectLineToken(token) {
+  // eslint-disable-next-line no-console
   console.log(
     `Renewing Direct Line token using token "${token.substr(0, 3)}...${token.substr(-3)}"`,
   );
 
-  let cres;
-
-  cres = await fetch('https://directline.botframework.com/v3/directline/tokens/refresh', {
+  const cres = await fetch('https://directline.botframework.com/v3/directline/tokens/refresh', {
     headers: {
       authorization: `Bearer ${token}`,
       'Content-Type': 'application/json',
