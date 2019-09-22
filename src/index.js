@@ -13,8 +13,7 @@ import { FlightBookingRecognizer } from './dialogs/flightBookingRecognizer';
 import { DialogAndWelcomeBot } from './bots/dialogAndWelcomeBot';
 import { MainDialog } from './dialogs/mainDialog';
 import { BookingDialog } from './dialogs/bookingDialog';
-import startDirectLineConversation from './utils/startDirectLineConversation';
-import renewDirectLineToken from './utils/renewDirectLineToken';
+import postDirectLineConversation from './utils/postDirectLineConversation';
 
 const BOOKING_DIALOG = 'bookingDialog';
 
@@ -27,7 +26,6 @@ const {
   LuisAPIHostName,
   MicrosoftAppId: appId,
   MicrosoftAppPassword: appPassword,
-  DIRECT_LINE_SECRET,
   PORT = 3978,
 } = process.env;
 
@@ -59,63 +57,18 @@ const dialog = new MainDialog(luisRecognizer, bookingDialog);
 const bot = new DialogAndWelcomeBot(conversationState, userState, dialog);
 
 const server = restify.createServer();
-server.listen(PORT, () => {
+server.listen(PORT, () =>
   // eslint-disable-next-line no-console
-  console.log(`\n${server.name} listening to ${server.url}`);
-});
+  console.log(`\n${server.name} listening to ${server.url}`),
+);
 
 // Listen for incoming activities and route them to your bot main dialog.
-server.post('/api/messages', (req, res) => {
+server.post('/api/messages', (req, res) =>
   // Route received a request to adapter for processing
   adapter.processActivity(req, res, async turnContext => {
     // route to bot activity handler.
     await bot.run(turnContext);
-  });
-});
-
-const trustedOrigin = origin =>
-  /^https?:\/\/localhost([/:]|$)/.test(origin) ||
-  /^https?:\/\/webchat([/:]|$)/.test(origin) ||
-  /^https?:\/\/[\d\w]+\.ngrok\.io([/:]|$)/.test(origin) ||
-  /^https:\/\/typekev-bot\.azurewebsites\.net/.test(origin) ||
-  /^https:\/\/typekev\.com/.test(origin);
-
-const postDirectLineConversation = async (req, res) => {
-  const origin = req.header('origin');
-
-  if (!trustedOrigin(origin)) {
-    return res.send(403, 'not trusted origin');
-  }
-
-  const { token } = req.query;
-
-  try {
-    if (token) {
-      res.send(await renewDirectLineToken(token), {
-        'Access-Control-Allow-Origin': '*',
-      });
-    } else {
-      res.send(await startDirectLineConversation(), {
-        'Access-Control-Allow-Origin': '*',
-      });
-    }
-  } catch (err) {
-    res.send(500, err.message, { 'Access-Control-Allow-Origin': '*' });
-  }
-
-  if (token) {
-    // eslint-disable-next-line no-console
-    console.log(`Refreshing Direct Line token for ${origin}`);
-  } else {
-    // eslint-disable-next-line no-console
-    console.log(
-      `Requesting Direct Line token for ${origin} using secret "${DIRECT_LINE_SECRET.substr(
-        0,
-        3,
-      )}...${DIRECT_LINE_SECRET.substr(-3)}"`,
-    );
-  }
-  return origin;
-};
+  }),
+);
 
 server.post('/directline/conversations', postDirectLineConversation);
