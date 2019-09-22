@@ -12,6 +12,7 @@ import {
 
 import DialogAndWelcomeBot from './bots/dialogAndWelcomeBot';
 import Recognizer from './dialogs/Recognizer';
+import QnA from './dialogs/QnA';
 import MainDialog from './dialogs/MainDialog';
 import postDirectLineConversation from './utils/postDirectLineConversation';
 
@@ -24,6 +25,9 @@ const {
   LuisAPIHostName,
   MicrosoftAppId: appId,
   MicrosoftAppPassword: appPassword,
+  QnAKnowledgebaseId,
+  QnAEndpointKey,
+  QnAEndpointHostName,
   PORT = 3978,
 } = process.env;
 
@@ -48,9 +52,16 @@ const luisConfig = {
   endpoint: `https://${LuisAPIHostName}`,
 };
 
-const luisRecognizer = new Recognizer(luisConfig);
+const qnaConfig = {
+  knowledgeBaseId: QnAKnowledgebaseId,
+  endpointKey: QnAEndpointKey,
+  host: QnAEndpointHostName,
+};
 
-const dialog = new MainDialog(luisRecognizer);
+const luisRecognizer = new Recognizer(luisConfig);
+const qnaMaker = new QnA(qnaConfig);
+
+const dialog = new MainDialog(luisRecognizer, qnaMaker);
 const bot = new DialogAndWelcomeBot(conversationState, userState, dialog);
 
 const server = restify.createServer();

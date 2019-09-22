@@ -11,12 +11,14 @@ import {
 const MAIN_WATERFALL_DIALOG = 'mainWaterfallDialog';
 
 export default class MainDialog extends ComponentDialog {
-  constructor(luisRecognizer) {
+  constructor(luisRecognizer, qnaMaker) {
     super('MainDialog');
 
     if (!luisRecognizer)
       throw new Error("[MainDialog]: Missing parameter 'luisRecognizer' is required");
+    if (!qnaMaker) throw new Error("[MainDialog]: Missing parameter 'luisRecognizer' is required");
     this.luisRecognizer = luisRecognizer;
+    this.qnaMaker = qnaMaker;
 
     // Define the main dialog and its related components.
     // This is a sample "book a flight" dialog.
@@ -60,7 +62,14 @@ export default class MainDialog extends ComponentDialog {
       return next;
     }
 
-    const messageText = stepContext.options.restartMsg ? stepContext.options.restartMsg : '';
+    if (!this.qnaMaker.isConfigured) {
+      const messageText = 'QnA is not configured';
+      await stepContext.context.sendActivity(messageText, null, InputHints.IgnoringInput);
+      const next = await stepContext.next();
+      return next;
+    }
+
+    const messageText = stepContext.options.restartMsg ? stepContext.options.restartMsg : 'restart';
     const promptMessage = MessageFactory.text(messageText, messageText, InputHints.ExpectingInput);
     const prompt = await stepContext.prompt('TextPrompt', { prompt: promptMessage });
     return prompt;
@@ -76,15 +85,8 @@ export default class MainDialog extends ComponentDialog {
     // (Note the TurnContext has the response to the prompt)
     const luisResult = await this.luisRecognizer.executeLuisQuery(stepContext.context);
     switch (LuisRecognizer.topIntent(luisResult)) {
-      default: {
-        // Catch all for unhandled intents
-        const didNotUnderstandMessageText = '';
-        await stepContext.context.sendActivity(
-          didNotUnderstandMessageText,
-          didNotUnderstandMessageText,
-          InputHints.IgnoringInput,
-        );
-      }
+      default:
+        await this.qnaMaker.executeQnAQuery(stepContext.context);
     }
 
     const next = await stepContext.next();
@@ -93,7 +95,7 @@ export default class MainDialog extends ComponentDialog {
 
   async finalStep(stepContext) {
     if (stepContext.result) {
-      const msg = ``;
+      const msg = `final step`;
       await stepContext.context.sendActivity(msg, msg, InputHints.IgnoringInput);
     }
 
