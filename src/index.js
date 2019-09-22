@@ -9,13 +9,11 @@ import {
   MemoryStorage,
   UserState,
 } from 'botbuilder';
-import { FlightBookingRecognizer } from './dialogs/flightBookingRecognizer';
-import DialogAndWelcomeBot from './bots/dialogAndWelcomeBot';
-import { MainDialog } from './dialogs/mainDialog';
-import { BookingDialog } from './dialogs/bookingDialog';
-import postDirectLineConversation from './utils/postDirectLineConversation';
 
-const BOOKING_DIALOG = 'bookingDialog';
+import DialogAndWelcomeBot from './bots/dialogAndWelcomeBot';
+import Recognizer from './dialogs/Recognizer';
+import MainDialog from './dialogs/MainDialog';
+import postDirectLineConversation from './utils/postDirectLineConversation';
 
 const ENV_FILE = path.join(__dirname, '../.env');
 dotenv.config({ path: ENV_FILE });
@@ -50,10 +48,9 @@ const luisConfig = {
   endpoint: `https://${LuisAPIHostName}`,
 };
 
-const luisRecognizer = new FlightBookingRecognizer(luisConfig);
+const luisRecognizer = new Recognizer(luisConfig);
 
-const bookingDialog = new BookingDialog(BOOKING_DIALOG);
-const dialog = new MainDialog(luisRecognizer, bookingDialog);
+const dialog = new MainDialog(luisRecognizer);
 const bot = new DialogAndWelcomeBot(conversationState, userState, dialog);
 
 const server = restify.createServer();
