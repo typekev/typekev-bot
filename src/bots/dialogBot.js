@@ -1,6 +1,3 @@
-// Copyright (c) Microsoft Corporation. All rights reserved.
-// Licensed under the MIT License.
-
 import { ActivityHandler } from 'botbuilder';
 
 class DialogBot extends ActivityHandler {
@@ -43,4 +40,4 @@ class DialogBot extends ActivityHandler {
   }
 }
 
-export { DialogBot };
+export default DialogBot;
