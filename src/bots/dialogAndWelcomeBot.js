@@ -1,6 +1,6 @@
 import DialogBot from './dialogBot';
 
-class DialogAndWelcomeBot extends DialogBot {
+export default class DialogAndWelcomeBot extends DialogBot {
   constructor(conversationState, userState, dialog) {
     super(conversationState, userState, dialog);
 
@@ -10,5 +10,3 @@ class DialogAndWelcomeBot extends DialogBot {
     });
   }
 }
-
-export default DialogAndWelcomeBot;

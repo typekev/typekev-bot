@@ -1,6 +1,6 @@
 import { ActivityHandler } from 'botbuilder';
 
-class DialogBot extends ActivityHandler {
+export default class DialogBot extends ActivityHandler {
   /**
    *
    * @param {ConversationState} conversationState
@@ -39,5 +39,3 @@ class DialogBot extends ActivityHandler {
     });
   }
 }
-
-export default DialogBot;
