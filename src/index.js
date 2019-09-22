@@ -10,7 +10,7 @@ import {
   UserState,
 } from 'botbuilder';
 import { FlightBookingRecognizer } from './dialogs/flightBookingRecognizer';
-import { DialogAndWelcomeBot } from './bots/dialogAndWelcomeBot';
+import DialogAndWelcomeBot from './bots/dialogAndWelcomeBot';
 import { MainDialog } from './dialogs/mainDialog';
 import { BookingDialog } from './dialogs/bookingDialog';
 import postDirectLineConversation from './utils/postDirectLineConversation';
@@ -57,6 +57,7 @@ const dialog = new MainDialog(luisRecognizer, bookingDialog);
 const bot = new DialogAndWelcomeBot(conversationState, userState, dialog);
 
 const server = restify.createServer();
+
 server.listen(PORT, () =>
   // eslint-disable-next-line no-console
   console.log(`\n${server.name} listening to ${server.url}`),
