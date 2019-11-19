@@ -9,7 +9,7 @@ const postDirectLineConversation = async (req, res) => {
     return res.send(403, 'not trusted origin');
   }
 
-  const { token } = req.query;
+  const { token } = JSON.parse(req.body);
 
   try {
     if (token) {

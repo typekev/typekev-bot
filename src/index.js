@@ -66,6 +66,8 @@ const bot = new DialogAndWelcomeBot(conversationState, userState, dialog);
 
 const server = restify.createServer();
 
+server.use(restify.plugins.bodyParser());
+
 server.listen(PORT, () =>
   // eslint-disable-next-line no-console
   console.log(`\n${server.name} listening to ${server.url}`),
