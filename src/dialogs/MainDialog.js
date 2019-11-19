@@ -7,10 +7,12 @@ import {
   TextPrompt,
   WaterfallDialog,
 } from 'botbuilder-dialogs';
+import wait from '../utils/wait';
 
 const MAIN_WATERFALL_DIALOG = 'mainWaterfallDialog';
 
 const finalStep = async stepContext => {
+  await wait(5000);
   const messageText = 'Can I help you with something else?';
   await stepContext.context.sendActivity(messageText, null, InputHints.IgnoringInput);
   const end = await stepContext.endDialog();
