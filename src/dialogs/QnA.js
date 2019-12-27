@@ -1,4 +1,5 @@
 import { QnAMaker } from 'botbuilder-ai';
+import { MessageFactory } from 'botbuilder';
 
 export default class QnA {
   constructor(config) {
@@ -19,7 +20,18 @@ export default class QnA {
   async executeQnAQuery(context) {
     const qnaResults = await this.qnaMaker.getAnswers(context);
     if (qnaResults[0]) {
-      await context.sendActivity(qnaResults[0].answer);
+      const { prompts } = qnaResults[0].context;
+      const hasPrompts = prompts.length > 0;
+
+      if (hasPrompts) {
+        const reply = MessageFactory.suggestedActions(
+          prompts.map(({ displayText }) => displayText),
+          qnaResults[0].answer,
+        );
+        await context.sendActivity(reply);
+      } else {
+        await context.sendActivity(qnaResults[0].answer);
+      }
     } else {
       await context.sendActivity("Sorry, I didn't get that.");
     }
