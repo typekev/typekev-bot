@@ -1,4 +1,4 @@
-import trustedOrigin from './trustedOrigins';
+import trustedOrigin from './trustedOrigin';
 import startDirectLineConversation from './startDirectLineConversation';
 import renewDirectLineToken from './renewDirectLineToken';
 
