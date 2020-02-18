@@ -5,6 +5,10 @@ describe('Tests trusted origins', () => {
     expect(trustedOrigin('https://typekev.com')).toBe(true);
   });
 
+  it('tests typekev-bot.azurewebsites.net', () => {
+    expect(trustedOrigin('https://typekev-bot.azurewebsites.net')).toBe(true);
+  });
+
   it('tests typekev.netlify.com', () => {
     expect(trustedOrigin('https://typekev.netlify.com')).toBe(true);
   });
