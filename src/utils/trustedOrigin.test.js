@@ -26,4 +26,10 @@ describe('Tests trusted origins', () => {
   it('tests typekev.netlify.app', () => {
     expect(trustedOrigin('https://typekev.netlify.app')).toBe(true);
   });
+
+  it('should not pass', () => {
+    expect(trustedOrigin('https://google.com')).toBe(false);
+    expect(trustedOrigin('https://typekev.lu')).toBe(false);
+    expect(trustedOrigin('https://netlify.com')).toBe(false);
+  });
 });
