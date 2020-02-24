@@ -4,7 +4,7 @@ export default async function renewDirectLineToken(token) {
     `Renewing Direct Line token using token "${token.substr(0, 3)}...${token.substr(-3)}"`,
   );
 
-  const cres = await fetch('https://directline.botframework.com/v3/directline/tokens/refresh', {
+  const response = await fetch('https://directline.botframework.com/v3/directline/tokens/refresh', {
     headers: {
       authorization: `Bearer ${token}`,
       'Content-Type': 'application/json',
@@ -12,8 +12,8 @@ export default async function renewDirectLineToken(token) {
     method: 'POST',
   });
 
-  if (cres.status === 200) {
-    const json = await cres.json();
+  if (response.status === 200) {
+    const json = await response.json();
 
     if ('error' in json) {
       throw new Error(
@@ -23,6 +23,6 @@ export default async function renewDirectLineToken(token) {
       return json;
     }
   } else {
-    throw new Error(`Direct Line service returned ${cres.status} while renewing token`);
+    throw new Error(`Direct Line service returned ${response.status} while renewing token`);
   }
 }
