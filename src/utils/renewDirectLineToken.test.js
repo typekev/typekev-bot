@@ -27,8 +27,8 @@ describe('Tests renewing a directline token', () => {
   });
 
   it('tests a directline token renewal response with error in json', async () => {
-    const errorMessage = 'test error';
-    const json = jest.fn().mockImplementation(() => ({ error: errorMessage }));
+    const jsonRes = { error: 'test error' };
+    const json = jest.fn().mockImplementation(() => jsonRes);
     const response = { status: 200, json };
     global.fetch = jest.fn().mockImplementation(() => response);
     const token = 'test token';
@@ -38,11 +38,10 @@ describe('Tests renewing a directline token', () => {
     } catch (error) {
       expect(error).toEqual(
         new Error(
-          `Direct Line service responded ${JSON.stringify(errorMessage)} while renewing token`,
+          `Direct Line service responded ${JSON.stringify(jsonRes.error)} while renewing token`,
         ),
       );
       expect(global.fetch).toHaveBeenCalledTimes(1);
-      expect(json).toHaveBeenCalledTimes(1);
       expect(global.fetch).toHaveBeenCalledWith(
         'https://directline.botframework.com/v3/directline/tokens/refresh',
         {
@@ -53,6 +52,29 @@ describe('Tests renewing a directline token', () => {
           method: 'POST',
         },
       );
+      expect(json).toHaveBeenCalledTimes(1);
     }
+  });
+
+  it('tests a successful directline token renewal', async () => {
+    const jsonRes = { conversationId: 'abc123' };
+    const json = jest.fn().mockImplementation(() => jsonRes);
+    const response = { status: 200, json };
+    global.fetch = jest.fn().mockImplementation(() => response);
+    const token = 'test token';
+
+    expect(await renewDirectLineToken(token)).toEqual(jsonRes);
+    expect(global.fetch).toHaveBeenCalledTimes(1);
+    expect(global.fetch).toHaveBeenCalledWith(
+      'https://directline.botframework.com/v3/directline/tokens/refresh',
+      {
+        headers: {
+          authorization: `Bearer ${token}`,
+          'Content-Type': 'application/json',
+        },
+        method: 'POST',
+      },
+    );
+    expect(json).toHaveBeenCalledTimes(1);
   });
 });
