@@ -9,6 +9,7 @@
     "watch": "nodemon ./build/index.js",
     "build": "cross-env rimraf ./build/** && babel src --out-dir build --copy-files",
     "build:prod": "babel src --out-dir . --copy-files",
+    "coveralls": "npm test -- --coverage --watchAll=false && cat ./coverage/lcov.info | coveralls",
     "lint": "eslint src",
     "test": "jest src"
   },
