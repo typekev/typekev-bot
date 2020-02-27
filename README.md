@@ -1,4 +1,4 @@
-# The witty chatbot running on [typekev.com](https://typekev.com/) [![Build Status](https://travis-ci.org/typekev/typekev-bot.svg?branch=master)](https://travis-ci.org/typekev/typekev-bot) [![Coverage Status](https://coveralls.io/repos/github/typekev/typekev-bot/badge.svg?branch=master)](https://coveralls.io/github/typekev/typekev-bot?branch=master) [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
+# The witty chatbot running on [typekev.com](https://typekev.com/) [![Build Status](https://travis-ci.com/typekev/typekev-bot.svg?branch=master)](https://travis-ci.org/typekev/typekev-bot) [![Coverage Status](https://coveralls.io/repos/github/typekev/typekev-bot/badge.svg?branch=master)](https://coveralls.io/github/typekev/typekev-bot?branch=master) [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
 
 > The first iteration of my autonomous assistant, built&mdash;of course&mdash;with Node.js and the Microsoft Bot Framework.
 
