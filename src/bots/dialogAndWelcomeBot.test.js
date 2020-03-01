@@ -18,26 +18,28 @@ const {
   QnAEndpointHostName,
 } = process.env;
 
-it('renders without crashing', () => {
-  const memoryStorage = new MemoryStorage();
-  const conversationState = new ConversationState(memoryStorage);
-  const userState = new UserState(memoryStorage);
+describe('Tests the welcome dialog', () => {
+  it('does not throw', () => {
+    const memoryStorage = new MemoryStorage();
+    const conversationState = new ConversationState(memoryStorage);
+    const userState = new UserState(memoryStorage);
 
-  const luisConfig = {
-    applicationId: LuisAppId,
-    endpointKey: LuisAPIKey,
-    endpoint: `https://${LuisAPIHostName}`,
-  };
+    const luisConfig = {
+      applicationId: LuisAppId,
+      endpointKey: LuisAPIKey,
+      endpoint: `https://${LuisAPIHostName}`,
+    };
 
-  const qnaConfig = {
-    knowledgeBaseId: QnAKnowledgebaseId,
-    endpointKey: QnAEndpointKey,
-    host: QnAEndpointHostName,
-  };
+    const qnaConfig = {
+      knowledgeBaseId: QnAKnowledgebaseId,
+      endpointKey: QnAEndpointKey,
+      host: QnAEndpointHostName,
+    };
 
-  const luisRecognizer = new Recognizer(luisConfig);
-  const qnaMaker = new QnA(qnaConfig);
+    const luisRecognizer = new Recognizer(luisConfig);
+    const qnaMaker = new QnA(qnaConfig);
 
-  const dialog = new MainDialog(luisRecognizer, qnaMaker);
-  expect(() => new DialogAndWelcomeBot(conversationState, userState, dialog)).not.toThrow();
+    const dialog = new MainDialog(luisRecognizer, qnaMaker);
+    expect(() => new DialogAndWelcomeBot(conversationState, userState, dialog)).not.toThrow();
+  });
 });
