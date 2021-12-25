@@ -1,10 +1,17 @@
 import Fastify from 'fastify';
 
+import { detectLanguage } from './utils/detectLanguage';
 import { bots } from './bots';
 import { Bot } from './types';
 
 const server = Fastify({ logger: true });
 const port = process.env.PORT || 3000;
+
+server.post('/', async ({ body: inputText }) =>
+  typeof inputText === 'string'
+    ? bots[detectLanguage(inputText)].getBotReply(inputText)
+    : `Body was of type '${typeof inputText}', expected 'string'.`,
+);
 
 Object.values(Bot).forEach(bot => {
   server.post(`/${bot}`, async ({ body: inputText }) =>

@@ -9,7 +9,8 @@
   },
   "dependencies": {
     "fastify": "^3.25.2",
-    "natural": "^5.1.11"
+    "natural": "^5.1.11",
+    "tinyld": "^1.1.5"
   },
   "devDependencies": {
     "@types/natural": "^5.1.0",
