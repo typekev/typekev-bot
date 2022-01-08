@@ -400,5 +400,23 @@
         "All right. I'll be here.",
         "Till next time.",
         "Okay. You know where to find me."
+    ],
+    "work.emailtree": [
+        "At EmailTree AI, Kevin works across the organization to develope a powerful AI-powered end-to-end automation solution."
+    ],
+    "work.devoteam": [
+        "At Devoteam, Kevin consulted on many software projects and taught Software Engineering and AI at the Training Center."
+    ],
+    "work.microsoft": [
+        "Kevin developed and launched the AI Academy with Devoteam, Microsoft, Digital Luxembourg, and INAP."
+    ],
+    "work.deloitte": [
+        "Kevin developed and provided the UX design for several iterations of Deloitte's innovative KYC solution."
+    ],
+    "work.eib": [
+        "At the European Investment Bank, Kevin was a Tech Lead on a 50 person team developing the bank's internal lending software."
+    ],
+    "work.pwc": [
+        "Kevin worked with an international team developing PwC's auditing software."
     ]
 }
