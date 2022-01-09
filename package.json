@@ -5,6 +5,7 @@
   "scripts": {
     "build": "tsc",
     "start": "node --loader ts-node/esm src/server.ts",
+    "suggestions": "node --loader ts-node/esm src/utils/generateSuggestions.ts",
     "train": "node --loader ts-node/esm src/utils/train.ts"
   },
   "dependencies": {

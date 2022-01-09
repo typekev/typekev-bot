@@ -2,17 +2,12 @@ import { createReadStream } from 'fs';
 import { BayesClassifier } from 'natural';
 import { parse } from 'csv-parse';
 
-import { Bot } from '../types';
+import { Bot, KB } from '../types';
+import { getInputFile } from './getInputFile';
 
 const classifier = new BayesClassifier();
 
-type Question = string;
-type Answer = string;
-type Source = string;
-type KB = [Question, Answer, Source][];
-
 Object.values(Bot).forEach(bot => {
-  const inputFile = `src/bots/${bot}/knowledgebase.tsv`;
   const parser = parse({ delimiter: '\t' }, (_, kb: KB) => {
     kb.slice(1).forEach(([question, answer]) => {
       classifier.addDocument(question, answer);
@@ -30,5 +25,5 @@ Object.values(Bot).forEach(bot => {
     );
   });
 
-  createReadStream(inputFile).pipe(parser);
+  createReadStream(getInputFile(bot)).pipe(parser);
 });
