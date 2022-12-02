@@ -1472,10 +1472,11 @@ be back in 5 minutes	smalltalk.user.will_be_back	Editorial.SmallTalk
 I'll be back	smalltalk.user.will_be_back	Editorial.SmallTalk
 I promise to come back	smalltalk.user.will_be_back	Editorial.SmallTalk
 I'll be back in a few minutes	smalltalk.user.will_be_back	Editorial.SmallTalk
-What does Kevin do?	work.emailtree	Editorial.Personal
-Where does Kevin work?	work.emailtree	Editorial.Personal
-Where does Kevin work today?	work.emailtree	Editorial.Personal
-Where does Kevin work now?	work.emailtree	Editorial.Personal
+What does Kevin do?	work.ses	Editorial.Personal
+Where does Kevin work?	work.ses	Editorial.Personal
+Where does Kevin work today?	work.ses	Editorial.Personal
+Where does Kevin work now?	work.ses	Editorial.Personal
+What work did Kevin do at SES?	work.ses	Editorial.Personal
 What work did Kevin do at EmailTree AI?	work.emailtree	Editorial.Personal
 What work did Kevin do at Devoteam?	work.devoteam	Editorial.Personal
 Was Kevin a consultant?	work.devoteam	Editorial.Personal
