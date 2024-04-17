@@ -5,7 +5,7 @@ import { bots } from './bots';
 import { Bot } from './types';
 
 const server = Fastify({ logger: true });
-const port = process.env.PORT || 3000;
+const port = parseInt(process.env.PORT || '3000');
 
 server.post('/', async ({ body: inputText }) =>
   typeof inputText === 'string'
@@ -21,7 +21,7 @@ Object.values(Bot).forEach(bot => {
   );
 });
 
-server.listen(port, err => {
+server.listen({ port }, err => {
   if (err) {
     server.log.error(err);
     process.exit(1);
