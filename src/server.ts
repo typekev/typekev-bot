@@ -21,6 +21,14 @@ Object.values(Bot).forEach(bot => {
   );
 });
 
+Object.values(Bot).forEach(bot => {
+  server.post(`/${bot}/suggestion`, async ({ body: inputText }) =>
+    typeof inputText === 'string'
+      ? bots[bot].getChatSuggestion(inputText)
+      : `Body was of type '${typeof inputText}', expected 'string'.`,
+  );
+});
+
 server.listen({ port }, err => {
   if (err) {
     server.log.error(err);
