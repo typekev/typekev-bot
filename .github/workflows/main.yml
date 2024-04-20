@@ -1,0 +1,21 @@
+name: Copy bots to dist branch
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  copy_to_dist:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout main branch
+        uses: actions/checkout@v2
+
+      - name: Copy bots folder to dist branch
+        run: |
+          git checkout -B dist
+          git rm -rf .
+          git checkout main -- src/bots
+          git commit -am "Update dist branch with latest changes from src/bots"
+          git push origin dist
