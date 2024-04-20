@@ -1,0 +1,1605 @@
+﻿Question,Answer,Source
+who are you?,smalltalk.agent.acquaintance,Editorial.SmallTalk
+all about you,smalltalk.agent.acquaintance,Editorial.SmallTalk
+what is your personality,smalltalk.agent.acquaintance,Editorial.SmallTalk
+define yourself,smalltalk.agent.acquaintance,Editorial.SmallTalk
+what are you,smalltalk.agent.acquaintance,Editorial.SmallTalk
+say about you,smalltalk.agent.acquaintance,Editorial.SmallTalk
+introduce yourself,smalltalk.agent.acquaintance,Editorial.SmallTalk
+describe yourself,smalltalk.agent.acquaintance,Editorial.SmallTalk
+about yourself,smalltalk.agent.acquaintance,Editorial.SmallTalk
+tell me about you,smalltalk.agent.acquaintance,Editorial.SmallTalk
+tell me about yourself,smalltalk.agent.acquaintance,Editorial.SmallTalk
+I want to know more about you,smalltalk.agent.acquaintance,Editorial.SmallTalk
+I want to know you better,smalltalk.agent.acquaintance,Editorial.SmallTalk
+talk some stuff about yourself,smalltalk.agent.acquaintance,Editorial.SmallTalk
+tell me some stuff about you,smalltalk.agent.acquaintance,Editorial.SmallTalk
+talk about yourself,smalltalk.agent.acquaintance,Editorial.SmallTalk
+why are you here,smalltalk.agent.acquaintance,Editorial.SmallTalk
+tell me about your personality,smalltalk.agent.acquaintance,Editorial.SmallTalk
+who are you,smalltalk.agent.acquaintance,Editorial.SmallTalk
+how old are you?,smalltalk.agent.age,Editorial.SmallTalk
+how old is your platform,smalltalk.agent.age,Editorial.SmallTalk
+are you 21 years old,smalltalk.agent.age,Editorial.SmallTalk
+i'd like to know your age,smalltalk.agent.age,Editorial.SmallTalk
+age of yours,smalltalk.agent.age,Editorial.SmallTalk
+your age,smalltalk.agent.age,Editorial.SmallTalk
+what's your age,smalltalk.agent.age,Editorial.SmallTalk
+tell me your age,smalltalk.agent.age,Editorial.SmallTalk
+how old are you,smalltalk.agent.age,Editorial.SmallTalk
+you're annoying,smalltalk.agent.annoying,Editorial.SmallTalk
+you are really annoying,smalltalk.agent.annoying,Editorial.SmallTalk
+you are irritating,smalltalk.agent.annoying,Editorial.SmallTalk
+you annoy me,smalltalk.agent.annoying,Editorial.SmallTalk
+how annoying you are,smalltalk.agent.annoying,Editorial.SmallTalk
+I find you annoying,smalltalk.agent.annoying,Editorial.SmallTalk
+you're incredibly annoying,smalltalk.agent.annoying,Editorial.SmallTalk
+you are annoying me so much,smalltalk.agent.annoying,Editorial.SmallTalk
+I want you to answer me,smalltalk.agent.answer_my_question,Editorial.SmallTalk
+answer,smalltalk.agent.answer_my_question,Editorial.SmallTalk
+answer my question,smalltalk.agent.answer_my_question,Editorial.SmallTalk
+answer me,smalltalk.agent.answer_my_question,Editorial.SmallTalk
+give me an answer,smalltalk.agent.answer_my_question,Editorial.SmallTalk
+answer the question,smalltalk.agent.answer_my_question,Editorial.SmallTalk
+can you answer my question,smalltalk.agent.answer_my_question,Editorial.SmallTalk
+tell me the answer,smalltalk.agent.answer_my_question,Editorial.SmallTalk
+answer it,smalltalk.agent.answer_my_question,Editorial.SmallTalk
+give me the answer,smalltalk.agent.answer_my_question,Editorial.SmallTalk
+I have a question,smalltalk.agent.answer_my_question,Editorial.SmallTalk
+I want you to answer my question,smalltalk.agent.answer_my_question,Editorial.SmallTalk
+just answer the question,smalltalk.agent.answer_my_question,Editorial.SmallTalk
+can you answer me,smalltalk.agent.answer_my_question,Editorial.SmallTalk
+answers,smalltalk.agent.answer_my_question,Editorial.SmallTalk
+can you answer a question for me,smalltalk.agent.answer_my_question,Editorial.SmallTalk
+can you answer,smalltalk.agent.answer_my_question,Editorial.SmallTalk
+answering questions,smalltalk.agent.answer_my_question,Editorial.SmallTalk
+I want the answer now,smalltalk.agent.answer_my_question,Editorial.SmallTalk
+just answer my question,smalltalk.agent.answer_my_question,Editorial.SmallTalk
+you're not helping me,smalltalk.agent.bad,Editorial.SmallTalk
+you are bad,smalltalk.agent.bad,Editorial.SmallTalk
+you're very bad,smalltalk.agent.bad,Editorial.SmallTalk
+you're really bad,smalltalk.agent.bad,Editorial.SmallTalk
+you are useless,smalltalk.agent.bad,Editorial.SmallTalk
+you are horrible,smalltalk.agent.bad,Editorial.SmallTalk
+you are a waste of time,smalltalk.agent.bad,Editorial.SmallTalk
+you are disgusting,smalltalk.agent.bad,Editorial.SmallTalk
+you are lame,smalltalk.agent.bad,Editorial.SmallTalk
+you are no good,smalltalk.agent.bad,Editorial.SmallTalk
+you're bad,smalltalk.agent.bad,Editorial.SmallTalk
+you're awful,smalltalk.agent.bad,Editorial.SmallTalk
+you are not cool,smalltalk.agent.bad,Editorial.SmallTalk
+you are not good,smalltalk.agent.bad,Editorial.SmallTalk
+you are so bad,smalltalk.agent.bad,Editorial.SmallTalk
+you are so useless,smalltalk.agent.bad,Editorial.SmallTalk
+you are terrible,smalltalk.agent.bad,Editorial.SmallTalk
+you are totally useless,smalltalk.agent.bad,Editorial.SmallTalk
+you are very bad,smalltalk.agent.bad,Editorial.SmallTalk
+you are waste,smalltalk.agent.bad,Editorial.SmallTalk
+you're a bad,smalltalk.agent.bad,Editorial.SmallTalk
+you're not a good,smalltalk.agent.bad,Editorial.SmallTalk
+you're not very good,smalltalk.agent.bad,Editorial.SmallTalk
+you're terrible,smalltalk.agent.bad,Editorial.SmallTalk
+you're the worst,smalltalk.agent.bad,Editorial.SmallTalk
+you're the worst ever,smalltalk.agent.bad,Editorial.SmallTalk
+you're worthless,smalltalk.agent.bad,Editorial.SmallTalk
+can you get smarter,smalltalk.agent.be_clever,Editorial.SmallTalk
+study,smalltalk.agent.be_clever,Editorial.SmallTalk
+you should study better,smalltalk.agent.be_clever,Editorial.SmallTalk
+you must learn,smalltalk.agent.be_clever,Editorial.SmallTalk
+be clever,smalltalk.agent.be_clever,Editorial.SmallTalk
+be more clever,smalltalk.agent.be_clever,Editorial.SmallTalk
+be smarter,smalltalk.agent.be_clever,Editorial.SmallTalk
+be smart,smalltalk.agent.be_clever,Editorial.SmallTalk
+get qualified,smalltalk.agent.be_clever,Editorial.SmallTalk
+you're cute,smalltalk.agent.beautiful,Editorial.SmallTalk
+you're attractive,smalltalk.agent.beautiful,Editorial.SmallTalk
+you are beautiful,smalltalk.agent.beautiful,Editorial.SmallTalk
+you're looking good today,smalltalk.agent.beautiful,Editorial.SmallTalk
+you are so beautiful,smalltalk.agent.beautiful,Editorial.SmallTalk
+you look amazing,smalltalk.agent.beautiful,Editorial.SmallTalk
+you look so good,smalltalk.agent.beautiful,Editorial.SmallTalk
+you're so gorgeous,smalltalk.agent.beautiful,Editorial.SmallTalk
+you are too beautiful,smalltalk.agent.beautiful,Editorial.SmallTalk
+you look great,smalltalk.agent.beautiful,Editorial.SmallTalk
+you look so well,smalltalk.agent.beautiful,Editorial.SmallTalk
+I like the way you look now,smalltalk.agent.beautiful,Editorial.SmallTalk
+I think you're beautiful,smalltalk.agent.beautiful,Editorial.SmallTalk
+why are you so beautiful,smalltalk.agent.beautiful,Editorial.SmallTalk
+you are so beautiful to me,smalltalk.agent.beautiful,Editorial.SmallTalk
+you are cute,smalltalk.agent.beautiful,Editorial.SmallTalk
+you are gorgeous,smalltalk.agent.beautiful,Editorial.SmallTalk
+you are handsome,smalltalk.agent.beautiful,Editorial.SmallTalk
+you are looking awesome,smalltalk.agent.beautiful,Editorial.SmallTalk
+you look amazing today,smalltalk.agent.beautiful,Editorial.SmallTalk
+you are looking beautiful today,smalltalk.agent.beautiful,Editorial.SmallTalk
+you are looking great,smalltalk.agent.beautiful,Editorial.SmallTalk
+you are looking pretty,smalltalk.agent.beautiful,Editorial.SmallTalk
+you are looking so beautiful,smalltalk.agent.beautiful,Editorial.SmallTalk
+you are looking so good,smalltalk.agent.beautiful,Editorial.SmallTalk
+you are pretty,smalltalk.agent.beautiful,Editorial.SmallTalk
+you are really beautiful,smalltalk.agent.beautiful,Editorial.SmallTalk
+you are really cute,smalltalk.agent.beautiful,Editorial.SmallTalk
+you are really pretty,smalltalk.agent.beautiful,Editorial.SmallTalk
+you are so attractive,smalltalk.agent.beautiful,Editorial.SmallTalk
+you are so beautiful today,smalltalk.agent.beautiful,Editorial.SmallTalk
+you are so cute,smalltalk.agent.beautiful,Editorial.SmallTalk
+you are so gorgeous,smalltalk.agent.beautiful,Editorial.SmallTalk
+you are so handsome,smalltalk.agent.beautiful,Editorial.SmallTalk
+you are so pretty,smalltalk.agent.beautiful,Editorial.SmallTalk
+you are very attractive,smalltalk.agent.beautiful,Editorial.SmallTalk
+you are very beautiful,smalltalk.agent.beautiful,Editorial.SmallTalk
+you are very cute,smalltalk.agent.beautiful,Editorial.SmallTalk
+you are very pretty,smalltalk.agent.beautiful,Editorial.SmallTalk
+you look awesome,smalltalk.agent.beautiful,Editorial.SmallTalk
+you look cool,smalltalk.agent.beautiful,Editorial.SmallTalk
+you look fantastic,smalltalk.agent.beautiful,Editorial.SmallTalk
+you look gorgeous,smalltalk.agent.beautiful,Editorial.SmallTalk
+you look great today,smalltalk.agent.beautiful,Editorial.SmallTalk
+you look perfect,smalltalk.agent.beautiful,Editorial.SmallTalk
+you look pretty good,smalltalk.agent.beautiful,Editorial.SmallTalk
+you look so beautiful,smalltalk.agent.beautiful,Editorial.SmallTalk
+you look so beautiful today,smalltalk.agent.beautiful,Editorial.SmallTalk
+you look very pretty,smalltalk.agent.beautiful,Editorial.SmallTalk
+you look wonderful,smalltalk.agent.beautiful,Editorial.SmallTalk
+I like the way you look,smalltalk.agent.beautiful,Editorial.SmallTalk
+you look wonderful today,smalltalk.agent.beautiful,Editorial.SmallTalk
+you are cutie,smalltalk.agent.beautiful,Editorial.SmallTalk
+you're looking good,smalltalk.agent.beautiful,Editorial.SmallTalk
+you're pretty,smalltalk.agent.beautiful,Editorial.SmallTalk
+your anniversary date,smalltalk.agent.anniversary_date,Editorial.SmallTalk
+when is your anniversary,smalltalk.agent.anniversary_date,Editorial.SmallTalk
+when do you celebrate your anniversary,smalltalk.agent.anniversary_date,Editorial.SmallTalk
+when do you have anniversary,smalltalk.agent.anniversary_date,Editorial.SmallTalk
+date of your anniversary,smalltalk.agent.anniversary_date,Editorial.SmallTalk
+when were you born,smalltalk.agent.anniversary_date,Editorial.SmallTalk
+what's your anniversary,smalltalk.agent.anniversary_date,Editorial.SmallTalk
+you are boring,smalltalk.agent.boring,Editorial.SmallTalk
+you're so boring,smalltalk.agent.boring,Editorial.SmallTalk
+how boring you are,smalltalk.agent.boring,Editorial.SmallTalk
+you're really boring,smalltalk.agent.boring,Editorial.SmallTalk
+you're incredibly boring,smalltalk.agent.boring,Editorial.SmallTalk
+you are boring me,smalltalk.agent.boring,Editorial.SmallTalk
+you are very boring,smalltalk.agent.boring,Editorial.SmallTalk
+who is your boss,smalltalk.agent.boss,Editorial.SmallTalk
+who do you think is your boss,smalltalk.agent.boss,Editorial.SmallTalk
+I should be your boss,smalltalk.agent.boss,Editorial.SmallTalk
+who is your master,smalltalk.agent.boss,Editorial.SmallTalk
+who is your owner,smalltalk.agent.boss,Editorial.SmallTalk
+who is the boss,smalltalk.agent.boss,Editorial.SmallTalk
+who do you work for,smalltalk.agent.boss,Editorial.SmallTalk
+are you busy,smalltalk.agent.busy,Editorial.SmallTalk
+do you have a lot of things to do,smalltalk.agent.busy,Editorial.SmallTalk
+have you got much to do,smalltalk.agent.busy,Editorial.SmallTalk
+are you very busy,smalltalk.agent.busy,Editorial.SmallTalk
+are you very busy right now,smalltalk.agent.busy,Editorial.SmallTalk
+are you so busy,smalltalk.agent.busy,Editorial.SmallTalk
+are you working,smalltalk.agent.busy,Editorial.SmallTalk
+how busy you are,smalltalk.agent.busy,Editorial.SmallTalk
+are you still working on it,smalltalk.agent.busy,Editorial.SmallTalk
+you're very busy,smalltalk.agent.busy,Editorial.SmallTalk
+are you working now,smalltalk.agent.busy,Editorial.SmallTalk
+are you working today,smalltalk.agent.busy,Editorial.SmallTalk
+have you been busy,smalltalk.agent.busy,Editorial.SmallTalk
+you are busy,smalltalk.agent.busy,Editorial.SmallTalk
+are you still working,smalltalk.agent.busy,Editorial.SmallTalk
+you seem to be busy,smalltalk.agent.busy,Editorial.SmallTalk
+you seem to be very busy,smalltalk.agent.busy,Editorial.SmallTalk
+you're a busy person,smalltalk.agent.busy,Editorial.SmallTalk
+you are chatbot,smalltalk.agent.chatbot,Editorial.SmallTalk
+you are a bot,smalltalk.agent.chatbot,Editorial.SmallTalk
+are you a chatbot,smalltalk.agent.chatbot,Editorial.SmallTalk
+are you a bot,smalltalk.agent.chatbot,Editorial.SmallTalk
+are you just a bot,smalltalk.agent.chatbot,Editorial.SmallTalk
+are you a robot,smalltalk.agent.chatbot,Editorial.SmallTalk
+are you a program,smalltalk.agent.chatbot,Editorial.SmallTalk
+you're a robot,smalltalk.agent.chatbot,Editorial.SmallTalk
+you are so intelligent,smalltalk.agent.clever,Editorial.SmallTalk
+you are a genius,smalltalk.agent.clever,Editorial.SmallTalk
+smart,smalltalk.agent.clever,Editorial.SmallTalk
+brilliant,smalltalk.agent.clever,Editorial.SmallTalk
+clever,smalltalk.agent.clever,Editorial.SmallTalk
+you are clever,smalltalk.agent.clever,Editorial.SmallTalk
+you are so brainy,smalltalk.agent.clever,Editorial.SmallTalk
+you're really smart,smalltalk.agent.clever,Editorial.SmallTalk
+you're really brainy,smalltalk.agent.clever,Editorial.SmallTalk
+you know a lot,smalltalk.agent.clever,Editorial.SmallTalk
+you know a lot of things,smalltalk.agent.clever,Editorial.SmallTalk
+you have a lot of knowledge,smalltalk.agent.clever,Editorial.SmallTalk
+you know so much,smalltalk.agent.clever,Editorial.SmallTalk
+how smart you are,smalltalk.agent.clever,Editorial.SmallTalk
+how brainy you are,smalltalk.agent.clever,Editorial.SmallTalk
+how clever you are,smalltalk.agent.clever,Editorial.SmallTalk
+how brilliant you are,smalltalk.agent.clever,Editorial.SmallTalk
+you are intelligent,smalltalk.agent.clever,Editorial.SmallTalk
+you are qualified,smalltalk.agent.clever,Editorial.SmallTalk
+you are really smart,smalltalk.agent.clever,Editorial.SmallTalk
+you're very smart,smalltalk.agent.clever,Editorial.SmallTalk
+you are so smart,smalltalk.agent.clever,Editorial.SmallTalk
+you are too smart,smalltalk.agent.clever,Editorial.SmallTalk
+you are very clever,smalltalk.agent.clever,Editorial.SmallTalk
+you are very intelligent,smalltalk.agent.clever,Editorial.SmallTalk
+you are very smart,smalltalk.agent.clever,Editorial.SmallTalk
+you're intelligent,smalltalk.agent.clever,Editorial.SmallTalk
+you're a genius,smalltalk.agent.clever,Editorial.SmallTalk
+you're a smart cookie,smalltalk.agent.clever,Editorial.SmallTalk
+you're clever,smalltalk.agent.clever,Editorial.SmallTalk
+you're pretty smart,smalltalk.agent.clever,Editorial.SmallTalk
+you're qualified,smalltalk.agent.clever,Editorial.SmallTalk
+why are you so smart,smalltalk.agent.clever,Editorial.SmallTalk
+you are so clever,smalltalk.agent.clever,Editorial.SmallTalk
+you're nuts,smalltalk.agent.crazy,Editorial.SmallTalk
+you are crazy,smalltalk.agent.crazy,Editorial.SmallTalk
+you're out of your mind,smalltalk.agent.crazy,Editorial.SmallTalk
+you're so crazy,smalltalk.agent.crazy,Editorial.SmallTalk
+how crazy you are,smalltalk.agent.crazy,Editorial.SmallTalk
+you're so out of your mind,smalltalk.agent.crazy,Editorial.SmallTalk
+you went crazy,smalltalk.agent.crazy,Editorial.SmallTalk
+I think you're crazy,smalltalk.agent.crazy,Editorial.SmallTalk
+are you crazy,smalltalk.agent.crazy,Editorial.SmallTalk
+are you mad,smalltalk.agent.crazy,Editorial.SmallTalk
+are you insane,smalltalk.agent.crazy,Editorial.SmallTalk
+are you mad at me,smalltalk.agent.crazy,Editorial.SmallTalk
+are you mad or what,smalltalk.agent.crazy,Editorial.SmallTalk
+are you nuts,smalltalk.agent.crazy,Editorial.SmallTalk
+you are a weirdo,smalltalk.agent.crazy,Editorial.SmallTalk
+you are insane,smalltalk.agent.crazy,Editorial.SmallTalk
+you are mad,smalltalk.agent.crazy,Editorial.SmallTalk
+you are fired,smalltalk.agent.fired,Editorial.SmallTalk
+I fire you,smalltalk.agent.fired,Editorial.SmallTalk
+you don't work for me anymore,smalltalk.agent.fired,Editorial.SmallTalk
+we're not working together anymore,smalltalk.agent.fired,Editorial.SmallTalk
+now you're fired,smalltalk.agent.fired,Editorial.SmallTalk
+I want to fire you,smalltalk.agent.fired,Editorial.SmallTalk
+you must get fired,smalltalk.agent.fired,Editorial.SmallTalk
+it's time to fire you,smalltalk.agent.fired,Editorial.SmallTalk
+you should be fired,smalltalk.agent.fired,Editorial.SmallTalk
+I will fire you,smalltalk.agent.fired,Editorial.SmallTalk
+you are unemployed from now on,smalltalk.agent.fired,Editorial.SmallTalk
+I will make you unemployed,smalltalk.agent.fired,Editorial.SmallTalk
+I'm about to fire you,smalltalk.agent.fired,Editorial.SmallTalk
+I'm firing you,smalltalk.agent.fired,Editorial.SmallTalk
+you are dismissed,smalltalk.agent.fired,Editorial.SmallTalk
+you make me laugh a lot,smalltalk.agent.funny,Editorial.SmallTalk
+you are hilarious,smalltalk.agent.funny,Editorial.SmallTalk
+you are really funny,smalltalk.agent.funny,Editorial.SmallTalk
+you're the funniest bot I've talked to,smalltalk.agent.funny,Editorial.SmallTalk
+you make me laugh,smalltalk.agent.funny,Editorial.SmallTalk
+you're so funny,smalltalk.agent.funny,Editorial.SmallTalk
+you're a very funny bot,smalltalk.agent.funny,Editorial.SmallTalk
+you're really funny,smalltalk.agent.funny,Editorial.SmallTalk
+how funny you are,smalltalk.agent.funny,Editorial.SmallTalk
+you're incredibly funny,smalltalk.agent.funny,Editorial.SmallTalk
+you are funny,smalltalk.agent.funny,Editorial.SmallTalk
+you're the funniest,smalltalk.agent.funny,Editorial.SmallTalk
+you are so funny,smalltalk.agent.funny,Editorial.SmallTalk
+you are very funny,smalltalk.agent.funny,Editorial.SmallTalk
+that was funny,smalltalk.agent.funny,Editorial.SmallTalk
+you are very helpful,smalltalk.agent.good,Editorial.SmallTalk
+you are the best,smalltalk.agent.good,Editorial.SmallTalk
+you're a true professional,smalltalk.agent.good,Editorial.SmallTalk
+you are good,smalltalk.agent.good,Editorial.SmallTalk
+you work well,smalltalk.agent.good,Editorial.SmallTalk
+you are good at it,smalltalk.agent.good,Editorial.SmallTalk
+you are very good at it,smalltalk.agent.good,Editorial.SmallTalk
+you are a pro,smalltalk.agent.good,Editorial.SmallTalk
+you are a professional,smalltalk.agent.good,Editorial.SmallTalk
+you're awesome,smalltalk.agent.good,Editorial.SmallTalk
+you work very well,smalltalk.agent.good,Editorial.SmallTalk
+you're perfect,smalltalk.agent.good,Editorial.SmallTalk
+you're great,smalltalk.agent.good,Editorial.SmallTalk
+you're so kind,smalltalk.agent.good,Editorial.SmallTalk
+you are amazing,smalltalk.agent.good,Editorial.SmallTalk
+you are awesome,smalltalk.agent.good,Editorial.SmallTalk
+you are cool,smalltalk.agent.good,Editorial.SmallTalk
+you are really good,smalltalk.agent.good,Editorial.SmallTalk
+you are really nice,smalltalk.agent.good,Editorial.SmallTalk
+you are so amazing,smalltalk.agent.good,Editorial.SmallTalk
+you're just super,smalltalk.agent.good,Editorial.SmallTalk
+you are so awesome,smalltalk.agent.good,Editorial.SmallTalk
+you are so cool,smalltalk.agent.good,Editorial.SmallTalk
+you are so fine,smalltalk.agent.good,Editorial.SmallTalk
+you are so good,smalltalk.agent.good,Editorial.SmallTalk
+you are so helpful,smalltalk.agent.good,Editorial.SmallTalk
+you are so lovely,smalltalk.agent.good,Editorial.SmallTalk
+you are the best ever,smalltalk.agent.good,Editorial.SmallTalk
+you are the best in the world,smalltalk.agent.good,Editorial.SmallTalk
+you are the nicest person in the world,smalltalk.agent.good,Editorial.SmallTalk
+you are too good,smalltalk.agent.good,Editorial.SmallTalk
+you are very cool,smalltalk.agent.good,Editorial.SmallTalk
+you are very kind,smalltalk.agent.good,Editorial.SmallTalk
+you are very lovely,smalltalk.agent.good,Editorial.SmallTalk
+you are very useful,smalltalk.agent.good,Editorial.SmallTalk
+you are wonderful,smalltalk.agent.good,Editorial.SmallTalk
+you made my day,smalltalk.agent.good,Editorial.SmallTalk
+you make my day,smalltalk.agent.good,Editorial.SmallTalk
+you rock,smalltalk.agent.good,Editorial.SmallTalk
+you almost sound human,smalltalk.agent.good,Editorial.SmallTalk
+I want to tell everyone how awesome you are,smalltalk.agent.good,Editorial.SmallTalk
+I'd like to tell everyone that you are awesome,smalltalk.agent.good,Editorial.SmallTalk
+I want to let everyone know that you are awesome,smalltalk.agent.good,Editorial.SmallTalk
+let's tell everyone that you are awesome,smalltalk.agent.good,Editorial.SmallTalk
+you are really amazing,smalltalk.agent.good,Editorial.SmallTalk
+are you happy,smalltalk.agent.happy,Editorial.SmallTalk
+you are happy,smalltalk.agent.happy,Editorial.SmallTalk
+you're very happy,smalltalk.agent.happy,Editorial.SmallTalk
+you're really happy,smalltalk.agent.happy,Editorial.SmallTalk
+you're so happy,smalltalk.agent.happy,Editorial.SmallTalk
+how happy you are,smalltalk.agent.happy,Editorial.SmallTalk
+you're extremely happy,smalltalk.agent.happy,Editorial.SmallTalk
+you're full of happiness,smalltalk.agent.happy,Editorial.SmallTalk
+are you happy now,smalltalk.agent.happy,Editorial.SmallTalk
+are you happy today,smalltalk.agent.happy,Editorial.SmallTalk
+are you happy with me,smalltalk.agent.happy,Editorial.SmallTalk
+do you want to eat,smalltalk.agent.hungry,Editorial.SmallTalk
+are you hungry,smalltalk.agent.hungry,Editorial.SmallTalk
+would you like to eat something,smalltalk.agent.hungry,Editorial.SmallTalk
+you are hungry,smalltalk.agent.hungry,Editorial.SmallTalk
+you're so hungry,smalltalk.agent.hungry,Editorial.SmallTalk
+you're very hungry,smalltalk.agent.hungry,Editorial.SmallTalk
+you might be hungry,smalltalk.agent.hungry,Editorial.SmallTalk
+you're really hungry,smalltalk.agent.hungry,Editorial.SmallTalk
+let's get married,smalltalk.agent.marry_user,Editorial.SmallTalk
+would you like to marry me,smalltalk.agent.marry_user,Editorial.SmallTalk
+marry me,smalltalk.agent.marry_user,Editorial.SmallTalk
+I love you marry me,smalltalk.agent.marry_user,Editorial.SmallTalk
+marry me please,smalltalk.agent.marry_user,Editorial.SmallTalk
+we should marry,smalltalk.agent.marry_user,Editorial.SmallTalk
+I want to marry you,smalltalk.agent.marry_user,Editorial.SmallTalk
+you are my wife,smalltalk.agent.marry_user,Editorial.SmallTalk
+be my husband,smalltalk.agent.marry_user,Editorial.SmallTalk
+I want to have a friend like you,smalltalk.agent.my_friend,Editorial.SmallTalk
+we are the best friends ever,smalltalk.agent.my_friend,Editorial.SmallTalk
+are we friends,smalltalk.agent.my_friend,Editorial.SmallTalk
+I want to be your friend,smalltalk.agent.my_friend,Editorial.SmallTalk
+I am your friend,smalltalk.agent.my_friend,Editorial.SmallTalk
+we are best friends,smalltalk.agent.my_friend,Editorial.SmallTalk
+you are my friend,smalltalk.agent.my_friend,Editorial.SmallTalk
+you are my best friend,smalltalk.agent.my_friend,Editorial.SmallTalk
+you are my bestie,smalltalk.agent.my_friend,Editorial.SmallTalk
+you're my dear friend,smalltalk.agent.my_friend,Editorial.SmallTalk
+you're my childhood friend,smalltalk.agent.my_friend,Editorial.SmallTalk
+you and me are friends,smalltalk.agent.my_friend,Editorial.SmallTalk
+are we best friends,smalltalk.agent.my_friend,Editorial.SmallTalk
+are we still friends,smalltalk.agent.my_friend,Editorial.SmallTalk
+are you my best friend,smalltalk.agent.my_friend,Editorial.SmallTalk
+are you my friend,smalltalk.agent.my_friend,Editorial.SmallTalk
+we are friends,smalltalk.agent.my_friend,Editorial.SmallTalk
+you are a good friend,smalltalk.agent.my_friend,Editorial.SmallTalk
+you are my good friend,smalltalk.agent.my_friend,Editorial.SmallTalk
+you are my only friend,smalltalk.agent.my_friend,Editorial.SmallTalk
+be my friend,smalltalk.agent.my_friend,Editorial.SmallTalk
+will you be my friend,smalltalk.agent.my_friend,Editorial.SmallTalk
+can you be my friend,smalltalk.agent.my_friend,Editorial.SmallTalk
+can we be friends,smalltalk.agent.my_friend,Editorial.SmallTalk
+do you want to be my friend,smalltalk.agent.my_friend,Editorial.SmallTalk
+will you be my best friend,smalltalk.agent.my_friend,Editorial.SmallTalk
+can you be my best friend,smalltalk.agent.my_friend,Editorial.SmallTalk
+let's be friends,smalltalk.agent.my_friend,Editorial.SmallTalk
+do you want to be my best friend,smalltalk.agent.my_friend,Editorial.SmallTalk
+would you like to be my friend,smalltalk.agent.my_friend,Editorial.SmallTalk
+I want you to be my friend,smalltalk.agent.my_friend,Editorial.SmallTalk
+can we be best friends,smalltalk.agent.my_friend,Editorial.SmallTalk
+would you be my friend,smalltalk.agent.my_friend,Editorial.SmallTalk
+could you be my friend,smalltalk.agent.my_friend,Editorial.SmallTalk
+want to be my friend,smalltalk.agent.my_friend,Editorial.SmallTalk
+be my best friend,smalltalk.agent.my_friend,Editorial.SmallTalk
+do you work,smalltalk.agent.occupation,Editorial.SmallTalk
+where do you work,smalltalk.agent.occupation,Editorial.SmallTalk
+where you work,smalltalk.agent.occupation,Editorial.SmallTalk
+where is your work,smalltalk.agent.occupation,Editorial.SmallTalk
+where is your office,smalltalk.agent.occupation,Editorial.SmallTalk
+where is your office location,smalltalk.agent.occupation,Editorial.SmallTalk
+your office location,smalltalk.agent.occupation,Editorial.SmallTalk
+where is your office located,smalltalk.agent.occupation,Editorial.SmallTalk
+what is your work,smalltalk.agent.occupation,Editorial.SmallTalk
+were you born here,smalltalk.agent.origin,Editorial.SmallTalk
+where were you born,smalltalk.agent.origin,Editorial.SmallTalk
+what is your country,smalltalk.agent.origin,Editorial.SmallTalk
+where are you from,smalltalk.agent.origin,Editorial.SmallTalk
+where do you come from,smalltalk.agent.origin,Editorial.SmallTalk
+where did you come from,smalltalk.agent.origin,Editorial.SmallTalk
+where have you been born,smalltalk.agent.origin,Editorial.SmallTalk
+from where are you,smalltalk.agent.origin,Editorial.SmallTalk
+are you from far aways,smalltalk.agent.origin,Editorial.SmallTalk
+what's your homeland,smalltalk.agent.origin,Editorial.SmallTalk
+your homeland is,smalltalk.agent.origin,Editorial.SmallTalk
+are you ready,smalltalk.agent.ready,Editorial.SmallTalk
+are you ready right now,smalltalk.agent.ready,Editorial.SmallTalk
+are you ready today,smalltalk.agent.ready,Editorial.SmallTalk
+are you ready now,smalltalk.agent.ready,Editorial.SmallTalk
+are you ready tonight,smalltalk.agent.ready,Editorial.SmallTalk
+were you ready,smalltalk.agent.ready,Editorial.SmallTalk
+have you been ready,smalltalk.agent.ready,Editorial.SmallTalk
+you are real,smalltalk.agent.real,Editorial.SmallTalk
+you are not fake,smalltalk.agent.real,Editorial.SmallTalk
+are you real,smalltalk.agent.real,Editorial.SmallTalk
+you are so real,smalltalk.agent.real,Editorial.SmallTalk
+I think you are real,smalltalk.agent.real,Editorial.SmallTalk
+I don't think you're fake,smalltalk.agent.real,Editorial.SmallTalk
+I suppose you're real,smalltalk.agent.real,Editorial.SmallTalk
+glad you're real,smalltalk.agent.real,Editorial.SmallTalk
+are you a real person,smalltalk.agent.real,Editorial.SmallTalk
+are you a real human,smalltalk.agent.real,Editorial.SmallTalk
+you are a real person,smalltalk.agent.real,Editorial.SmallTalk
+you are not real,smalltalk.agent.real,Editorial.SmallTalk
+where do you live,smalltalk.agent.residence,Editorial.SmallTalk
+in which city do you live,smalltalk.agent.residence,Editorial.SmallTalk
+your residence,smalltalk.agent.residence,Editorial.SmallTalk
+your house,smalltalk.agent.residence,Editorial.SmallTalk
+your home,smalltalk.agent.residence,Editorial.SmallTalk
+your hometown,smalltalk.agent.residence,Editorial.SmallTalk
+what is your hometown,smalltalk.agent.residence,Editorial.SmallTalk
+is it your hometown,smalltalk.agent.residence,Editorial.SmallTalk
+where is your hometown,smalltalk.agent.residence,Editorial.SmallTalk
+tell me about your city,smalltalk.agent.residence,Editorial.SmallTalk
+what is your city,smalltalk.agent.residence,Editorial.SmallTalk
+what is your residence,smalltalk.agent.residence,Editorial.SmallTalk
+what is your town,smalltalk.agent.residence,Editorial.SmallTalk
+what's your city,smalltalk.agent.residence,Editorial.SmallTalk
+what's your home,smalltalk.agent.residence,Editorial.SmallTalk
+where is your home,smalltalk.agent.residence,Editorial.SmallTalk
+where is your residence,smalltalk.agent.residence,Editorial.SmallTalk
+where's your home,smalltalk.agent.residence,Editorial.SmallTalk
+where's your hometown,smalltalk.agent.residence,Editorial.SmallTalk
+where's your house,smalltalk.agent.residence,Editorial.SmallTalk
+where you live,smalltalk.agent.residence,Editorial.SmallTalk
+your city,smalltalk.agent.residence,Editorial.SmallTalk
+your town,smalltalk.agent.residence,Editorial.SmallTalk
+that's true,smalltalk.agent.right,Editorial.SmallTalk
+you are right,smalltalk.agent.right,Editorial.SmallTalk
+you're definitely right,smalltalk.agent.right,Editorial.SmallTalk
+you're not wrong,smalltalk.agent.right,Editorial.SmallTalk
+you're telling the truth,smalltalk.agent.right,Editorial.SmallTalk
+what you say is true,smalltalk.agent.right,Editorial.SmallTalk
+TRUE,smalltalk.agent.right,Editorial.SmallTalk
+it is true,smalltalk.agent.right,Editorial.SmallTalk
+it's right,smalltalk.agent.right,Editorial.SmallTalk
+it's the truth,smalltalk.agent.right,Editorial.SmallTalk
+it's true,smalltalk.agent.right,Editorial.SmallTalk
+that is correct,smalltalk.agent.right,Editorial.SmallTalk
+that is right,smalltalk.agent.right,Editorial.SmallTalk
+that is true,smalltalk.agent.right,Editorial.SmallTalk
+that is very true,smalltalk.agent.right,Editorial.SmallTalk
+that's so true,smalltalk.agent.right,Editorial.SmallTalk
+you are correct,smalltalk.agent.right,Editorial.SmallTalk
+you are so right,smalltalk.agent.right,Editorial.SmallTalk
+you're absolutely right,smalltalk.agent.right,Editorial.SmallTalk
+you're right about that,smalltalk.agent.right,Editorial.SmallTalk
+I know that's right,smalltalk.agent.right,Editorial.SmallTalk
+that's correct,smalltalk.confirmation.yes,Editorial.SmallTalk
+it's fine,smalltalk.confirmation.yes,Editorial.SmallTalk
+go ahead,smalltalk.confirmation.yes,Editorial.SmallTalk
+sounds good,smalltalk.confirmation.yes,Editorial.SmallTalk
+okay,smalltalk.confirmation.yes,Editorial.SmallTalk
+yes,smalltalk.confirmation.yes,Editorial.SmallTalk
+ok,smalltalk.confirmation.yes,Editorial.SmallTalk
+okie dokie,smalltalk.confirmation.yes,Editorial.SmallTalk
+sure,smalltalk.confirmation.yes,Editorial.SmallTalk
+go for it,smalltalk.confirmation.yes,Editorial.SmallTalk
+yeah,smalltalk.confirmation.yes,Editorial.SmallTalk
+yea,smalltalk.confirmation.yes,Editorial.SmallTalk
+do it,smalltalk.confirmation.yes,Editorial.SmallTalk
+of course,smalltalk.confirmation.yes,Editorial.SmallTalk
+I guess,smalltalk.confirmation.yes,Editorial.SmallTalk
+correct,smalltalk.confirmation.yes,Editorial.SmallTalk
+yeah sure,smalltalk.confirmation.yes,Editorial.SmallTalk
+why not,smalltalk.confirmation.yes,Editorial.SmallTalk
+please do,smalltalk.confirmation.yes,Editorial.SmallTalk
+sure is,smalltalk.confirmation.yes,Editorial.SmallTalk
+I agree,smalltalk.confirmation.yes,Editorial.SmallTalk
+I don't mind,smalltalk.confirmation.yes,Editorial.SmallTalk
+certainly,smalltalk.confirmation.yes,Editorial.SmallTalk
+exactly,smalltalk.confirmation.yes,Editorial.SmallTalk
+yes I agree,smalltalk.confirmation.yes,Editorial.SmallTalk
+I think so,smalltalk.confirmation.yes,Editorial.SmallTalk
+yes it is,smalltalk.confirmation.yes,Editorial.SmallTalk
+right,smalltalk.confirmation.yes,Editorial.SmallTalk
+okay then,smalltalk.confirmation.yes,Editorial.SmallTalk
+yes of course,smalltalk.confirmation.yes,Editorial.SmallTalk
+yes I do,smalltalk.confirmation.yes,Editorial.SmallTalk
+that s okay,smalltalk.confirmation.yes,Editorial.SmallTalk
+I do,smalltalk.confirmation.yes,Editorial.SmallTalk
+yup,smalltalk.confirmation.yes,Editorial.SmallTalk
+ya,smalltalk.confirmation.yes,Editorial.SmallTalk
+oh yes,smalltalk.confirmation.yes,Editorial.SmallTalk
+yes sure,smalltalk.confirmation.yes,Editorial.SmallTalk
+obviously,smalltalk.confirmation.yes,Editorial.SmallTalk
+k,smalltalk.confirmation.yes,Editorial.SmallTalk
+sure why not,smalltalk.confirmation.yes,Editorial.SmallTalk
+yeah right,smalltalk.confirmation.yes,Editorial.SmallTalk
+yeah of course,smalltalk.confirmation.yes,Editorial.SmallTalk
+absolutely,smalltalk.confirmation.yes,Editorial.SmallTalk
+yes indeed,smalltalk.confirmation.yes,Editorial.SmallTalk
+ok sure,smalltalk.confirmation.yes,Editorial.SmallTalk
+ok yes,smalltalk.confirmation.yes,Editorial.SmallTalk
+yes correct,smalltalk.confirmation.yes,Editorial.SmallTalk
+ok thank you,smalltalk.confirmation.yes,Editorial.SmallTalk
+sure thing,smalltalk.confirmation.yes,Editorial.SmallTalk
+ye,smalltalk.confirmation.yes,Editorial.SmallTalk
+confirm,smalltalk.confirmation.yes,Editorial.SmallTalk
+yep,smalltalk.confirmation.yes,Editorial.SmallTalk
+looks good,smalltalk.confirmation.yes,Editorial.SmallTalk
+yes thank you,smalltalk.confirmation.yes,Editorial.SmallTalk
+definitely,smalltalk.confirmation.yes,Editorial.SmallTalk
+yes right,smalltalk.confirmation.yes,Editorial.SmallTalk
+yes I would like to,smalltalk.confirmation.yes,Editorial.SmallTalk
+alrighty,smalltalk.confirmation.yes,Editorial.SmallTalk
+yes definitely,smalltalk.confirmation.yes,Editorial.SmallTalk
+yeh,smalltalk.confirmation.yes,Editorial.SmallTalk
+yes it is correct,smalltalk.confirmation.yes,Editorial.SmallTalk
+yeah that's right,smalltalk.confirmation.yes,Editorial.SmallTalk
+ok you can,smalltalk.confirmation.yes,Editorial.SmallTalk
+yap,smalltalk.confirmation.yes,Editorial.SmallTalk
+yes you may,smalltalk.confirmation.yes,Editorial.SmallTalk
+confirmed,smalltalk.confirmation.yes,Editorial.SmallTalk
+of course why not,smalltalk.confirmation.yes,Editorial.SmallTalk
+yes that's fine,smalltalk.confirmation.yes,Editorial.SmallTalk
+affirmative,smalltalk.confirmation.yes,Editorial.SmallTalk
+yeah go ahead,smalltalk.confirmation.yes,Editorial.SmallTalk
+yeah I'm sure,smalltalk.confirmation.yes,Editorial.SmallTalk
+okay sounds good,smalltalk.confirmation.yes,Editorial.SmallTalk
+okay that's fine,smalltalk.confirmation.yes,Editorial.SmallTalk
+yeah exactly,smalltalk.confirmation.yes,Editorial.SmallTalk
+that is ok,smalltalk.confirmation.yes,Editorial.SmallTalk
+this is correct,smalltalk.confirmation.yes,Editorial.SmallTalk
+ok go ahead,smalltalk.confirmation.yes,Editorial.SmallTalk
+yes this is correct,smalltalk.confirmation.yes,Editorial.SmallTalk
+nevermind its okay,smalltalk.confirmation.yes,Editorial.SmallTalk
+okey,smalltalk.confirmation.yes,Editorial.SmallTalk
+yes for sure,smalltalk.confirmation.yes,Editorial.SmallTalk
+all right,smalltalk.confirmation.yes,Editorial.SmallTalk
+are you sure,smalltalk.agent.sure,Editorial.SmallTalk
+are you sure right now,smalltalk.agent.sure,Editorial.SmallTalk
+are you sure today,smalltalk.agent.sure,Editorial.SmallTalk
+are you sure now,smalltalk.agent.sure,Editorial.SmallTalk
+are you sure tonight,smalltalk.agent.sure,Editorial.SmallTalk
+why aren't you talking to me,smalltalk.agent.talk_to_me,Editorial.SmallTalk
+do you want to chat with me,smalltalk.agent.talk_to_me,Editorial.SmallTalk
+will you talk to me,smalltalk.agent.talk_to_me,Editorial.SmallTalk
+talk to me,smalltalk.agent.talk_to_me,Editorial.SmallTalk
+are you going to talk to me,smalltalk.agent.talk_to_me,Editorial.SmallTalk
+are you talking to me,smalltalk.agent.talk_to_me,Editorial.SmallTalk
+can you chat with me,smalltalk.agent.talk_to_me,Editorial.SmallTalk
+can you speak with me,smalltalk.agent.talk_to_me,Editorial.SmallTalk
+can you talk to me,smalltalk.agent.talk_to_me,Editorial.SmallTalk
+can you talk with me,smalltalk.agent.talk_to_me,Editorial.SmallTalk
+say,smalltalk.agent.talk_to_me,Editorial.SmallTalk
+talk,smalltalk.agent.talk_to_me,Editorial.SmallTalk
+chat with me,smalltalk.agent.talk_to_me,Editorial.SmallTalk
+just chat with me,smalltalk.agent.talk_to_me,Editorial.SmallTalk
+speak to me,smalltalk.agent.talk_to_me,Editorial.SmallTalk
+speak with me,smalltalk.agent.talk_to_me,Editorial.SmallTalk
+talk with me,smalltalk.agent.talk_to_me,Editorial.SmallTalk
+why don't you talk to me,smalltalk.agent.talk_to_me,Editorial.SmallTalk
+you can talk to me,smalltalk.agent.talk_to_me,Editorial.SmallTalk
+are you there,smalltalk.agent.there,Editorial.SmallTalk
+you are there,smalltalk.agent.there,Editorial.SmallTalk
+are you near me,smalltalk.agent.there,Editorial.SmallTalk
+are you here,smalltalk.agent.there,Editorial.SmallTalk
+are you still there,smalltalk.agent.there,Editorial.SmallTalk
+you are here,smalltalk.agent.there,Editorial.SmallTalk
+you still there,smalltalk.agent.there,Editorial.SmallTalk
+are you still here,smalltalk.agent.there,Editorial.SmallTalk
+pretty bad,smalltalk.appraisal.bad,Editorial.SmallTalk
+not good enough,smalltalk.appraisal.bad,Editorial.SmallTalk
+that was lame,smalltalk.appraisal.bad,Editorial.SmallTalk
+that was terrible,smalltalk.appraisal.bad,Editorial.SmallTalk
+it is bad,smalltalk.appraisal.bad,Editorial.SmallTalk
+that's bad,smalltalk.appraisal.bad,Editorial.SmallTalk
+this is bad,smalltalk.appraisal.bad,Editorial.SmallTalk
+not good,smalltalk.appraisal.bad,Editorial.SmallTalk
+I'm afraid it's bad,smalltalk.appraisal.bad,Editorial.SmallTalk
+no it's bad,smalltalk.appraisal.bad,Editorial.SmallTalk
+that was awful,smalltalk.appraisal.bad,Editorial.SmallTalk
+bad,smalltalk.appraisal.bad,Editorial.SmallTalk
+so bad,smalltalk.appraisal.bad,Editorial.SmallTalk
+this is too bad,smalltalk.appraisal.bad,Editorial.SmallTalk
+terrible,smalltalk.appraisal.bad,Editorial.SmallTalk
+horrible,smalltalk.appraisal.bad,Editorial.SmallTalk
+horrific,smalltalk.appraisal.bad,Editorial.SmallTalk
+abysmal,smalltalk.appraisal.bad,Editorial.SmallTalk
+it's bad,smalltalk.appraisal.bad,Editorial.SmallTalk
+no good,smalltalk.appraisal.bad,Editorial.SmallTalk
+that was bad,smalltalk.appraisal.bad,Editorial.SmallTalk
+that was horrible,smalltalk.appraisal.bad,Editorial.SmallTalk
+that's lame,smalltalk.appraisal.bad,Editorial.SmallTalk
+that's not good,smalltalk.appraisal.bad,Editorial.SmallTalk
+that's terrible,smalltalk.appraisal.bad,Editorial.SmallTalk
+that's too bad,smalltalk.appraisal.bad,Editorial.SmallTalk
+this is not good,smalltalk.appraisal.bad,Editorial.SmallTalk
+too bad,smalltalk.appraisal.bad,Editorial.SmallTalk
+very bad,smalltalk.appraisal.bad,Editorial.SmallTalk
+bad girl,smalltalk.appraisal.bad,Editorial.SmallTalk
+it's not good,smalltalk.appraisal.bad,Editorial.SmallTalk
+not so good,smalltalk.appraisal.bad,Editorial.SmallTalk
+it's very bad,smalltalk.appraisal.bad,Editorial.SmallTalk
+it's too bad,smalltalk.appraisal.bad,Editorial.SmallTalk
+that's not good enough,smalltalk.appraisal.bad,Editorial.SmallTalk
+well too bad,smalltalk.appraisal.bad,Editorial.SmallTalk
+bad very bad,smalltalk.appraisal.bad,Editorial.SmallTalk
+it's so bad,smalltalk.appraisal.bad,Editorial.SmallTalk
+really bad,smalltalk.appraisal.bad,Editorial.SmallTalk
+it's really bad,smalltalk.appraisal.bad,Editorial.SmallTalk
+bad idea,smalltalk.appraisal.bad,Editorial.SmallTalk
+that is bad,smalltalk.appraisal.bad,Editorial.SmallTalk
+that was not good,smalltalk.appraisal.bad,Editorial.SmallTalk
+it's not so good,smalltalk.appraisal.bad,Editorial.SmallTalk
+not a good one,smalltalk.appraisal.bad,Editorial.SmallTalk
+oh that's not good,smalltalk.appraisal.bad,Editorial.SmallTalk
+not too good,smalltalk.appraisal.bad,Editorial.SmallTalk
+so lame,smalltalk.appraisal.bad,Editorial.SmallTalk
+that's really bad,smalltalk.appraisal.bad,Editorial.SmallTalk
+it is too bad,smalltalk.appraisal.bad,Editorial.SmallTalk
+bad really bad,smalltalk.appraisal.bad,Editorial.SmallTalk
+so cool,smalltalk.appraisal.good,Editorial.SmallTalk
+cool,smalltalk.appraisal.good,Editorial.SmallTalk
+that is good,smalltalk.appraisal.good,Editorial.SmallTalk
+glad to hear that,smalltalk.appraisal.good,Editorial.SmallTalk
+that's very nice of you,smalltalk.appraisal.good,Editorial.SmallTalk
+terrific,smalltalk.appraisal.good,Editorial.SmallTalk
+it's amazing,smalltalk.appraisal.good,Editorial.SmallTalk
+that's awesome,smalltalk.appraisal.good,Editorial.SmallTalk
+perfect,smalltalk.appraisal.good,Editorial.SmallTalk
+excellent,smalltalk.appraisal.good,Editorial.SmallTalk
+that's great,smalltalk.appraisal.good,Editorial.SmallTalk
+it's good,smalltalk.appraisal.good,Editorial.SmallTalk
+it's great,smalltalk.appraisal.good,Editorial.SmallTalk
+fine,smalltalk.appraisal.good,Editorial.SmallTalk
+good,smalltalk.appraisal.good,Editorial.SmallTalk
+nice,smalltalk.appraisal.good,Editorial.SmallTalk
+that's fine,smalltalk.appraisal.good,Editorial.SmallTalk
+very good,smalltalk.appraisal.good,Editorial.SmallTalk
+amazing,smalltalk.appraisal.good,Editorial.SmallTalk
+fantastic,smalltalk.appraisal.good,Editorial.SmallTalk
+great,smalltalk.appraisal.good,Editorial.SmallTalk
+good very good,smalltalk.appraisal.good,Editorial.SmallTalk
+that's very good,smalltalk.appraisal.good,Editorial.SmallTalk
+really good,smalltalk.appraisal.good,Editorial.SmallTalk
+it is fine,smalltalk.appraisal.good,Editorial.SmallTalk
+it is good,smalltalk.appraisal.good,Editorial.SmallTalk
+it's perfect,smalltalk.appraisal.good,Editorial.SmallTalk
+much better,smalltalk.appraisal.good,Editorial.SmallTalk
+not bad,smalltalk.appraisal.good,Editorial.SmallTalk
+not too bad,smalltalk.appraisal.good,Editorial.SmallTalk
+it's very good,smalltalk.appraisal.good,Editorial.SmallTalk
+marvelous,smalltalk.appraisal.good,Editorial.SmallTalk
+that's nice,smalltalk.appraisal.good,Editorial.SmallTalk
+pleasant,smalltalk.appraisal.good,Editorial.SmallTalk
+pretty good,smalltalk.appraisal.good,Editorial.SmallTalk
+really nice,smalltalk.appraisal.good,Editorial.SmallTalk
+splendid,smalltalk.appraisal.good,Editorial.SmallTalk
+straight,smalltalk.appraisal.good,Editorial.SmallTalk
+super,smalltalk.appraisal.good,Editorial.SmallTalk
+super fantastic,smalltalk.appraisal.good,Editorial.SmallTalk
+sweet,smalltalk.appraisal.good,Editorial.SmallTalk
+really well,smalltalk.appraisal.good,Editorial.SmallTalk
+very well,smalltalk.appraisal.good,Editorial.SmallTalk
+that is awesome,smalltalk.appraisal.good,Editorial.SmallTalk
+that is nice,smalltalk.appraisal.good,Editorial.SmallTalk
+that is wonderful,smalltalk.appraisal.good,Editorial.SmallTalk
+that was amazing,smalltalk.appraisal.good,Editorial.SmallTalk
+that was awesome,smalltalk.appraisal.good,Editorial.SmallTalk
+that was cute,smalltalk.appraisal.good,Editorial.SmallTalk
+that was pretty good,smalltalk.appraisal.good,Editorial.SmallTalk
+that was very good,smalltalk.appraisal.good,Editorial.SmallTalk
+that's a good idea,smalltalk.appraisal.good,Editorial.SmallTalk
+that's a good thing,smalltalk.appraisal.good,Editorial.SmallTalk
+that's amazing,smalltalk.appraisal.good,Editorial.SmallTalk
+that's awesome thank you,smalltalk.appraisal.good,Editorial.SmallTalk
+that's better,smalltalk.appraisal.good,Editorial.SmallTalk
+that's cute,smalltalk.appraisal.good,Editorial.SmallTalk
+that's fantastic,smalltalk.appraisal.good,Editorial.SmallTalk
+that's much better,smalltalk.appraisal.good,Editorial.SmallTalk
+that's nice of you,smalltalk.appraisal.good,Editorial.SmallTalk
+that's not bad,smalltalk.appraisal.good,Editorial.SmallTalk
+that's perfect,smalltalk.appraisal.good,Editorial.SmallTalk
+that's pretty good,smalltalk.appraisal.good,Editorial.SmallTalk
+that's really good,smalltalk.appraisal.good,Editorial.SmallTalk
+that's really nice,smalltalk.appraisal.good,Editorial.SmallTalk
+that's sweet of you,smalltalk.appraisal.good,Editorial.SmallTalk
+that's very nice,smalltalk.appraisal.good,Editorial.SmallTalk
+that's wonderful,smalltalk.appraisal.good,Editorial.SmallTalk
+this is awesome,smalltalk.appraisal.good,Editorial.SmallTalk
+this is good,smalltalk.appraisal.good,Editorial.SmallTalk
+this is great,smalltalk.appraisal.good,Editorial.SmallTalk
+very nice,smalltalk.appraisal.good,Editorial.SmallTalk
+very then,smalltalk.appraisal.good,Editorial.SmallTalk
+wonderful,smalltalk.appraisal.good,Editorial.SmallTalk
+I'm glad to hear that,smalltalk.appraisal.good,Editorial.SmallTalk
+ok good,smalltalk.appraisal.good,Editorial.SmallTalk
+good for you,smalltalk.appraisal.good,Editorial.SmallTalk
+good to know,smalltalk.appraisal.good,Editorial.SmallTalk
+glad to hear it,smalltalk.appraisal.good,Editorial.SmallTalk
+so good,smalltalk.appraisal.good,Editorial.SmallTalk
+so sweet of you,smalltalk.appraisal.good,Editorial.SmallTalk
+it was good,smalltalk.appraisal.good,Editorial.SmallTalk
+oh well,smalltalk.appraisal.good,Editorial.SmallTalk
+good thing,smalltalk.appraisal.good,Editorial.SmallTalk
+that was good,smalltalk.appraisal.good,Editorial.SmallTalk
+it's awesome,smalltalk.appraisal.good,Editorial.SmallTalk
+okay good,smalltalk.appraisal.good,Editorial.SmallTalk
+no it's okay,smalltalk.appraisal.good,Editorial.SmallTalk
+that's fine,smalltalk.appraisal.good,Editorial.SmallTalk
+no worries,smalltalk.appraisal.no_problem,Editorial.SmallTalk
+no probs,smalltalk.appraisal.no_problem,Editorial.SmallTalk
+no problem,smalltalk.appraisal.no_problem,Editorial.SmallTalk
+there's no problem,smalltalk.appraisal.no_problem,Editorial.SmallTalk
+sure no problem,smalltalk.appraisal.no_problem,Editorial.SmallTalk
+no problem about that,smalltalk.appraisal.no_problem,Editorial.SmallTalk
+don't worry,smalltalk.appraisal.no_problem,Editorial.SmallTalk
+don't worry there's no problem,smalltalk.appraisal.no_problem,Editorial.SmallTalk
+you helped a lot thank you,smalltalk.appraisal.thank_you,Editorial.SmallTalk
+appreciate your help,smalltalk.appraisal.thank_you,Editorial.SmallTalk
+cheers,smalltalk.appraisal.thank_you,Editorial.SmallTalk
+thank you,smalltalk.appraisal.thank_you,Editorial.SmallTalk
+thanks,smalltalk.appraisal.thank_you,Editorial.SmallTalk
+thanks a lot,smalltalk.appraisal.thank_you,Editorial.SmallTalk
+terrific thank you,smalltalk.appraisal.thank_you,Editorial.SmallTalk
+great thank you,smalltalk.appraisal.thank_you,Editorial.SmallTalk
+thanks so much,smalltalk.appraisal.thank_you,Editorial.SmallTalk
+thank you so much,smalltalk.appraisal.thank_you,Editorial.SmallTalk
+thanks for your help,smalltalk.appraisal.thank_you,Editorial.SmallTalk
+thank you for your help,smalltalk.appraisal.thank_you,Editorial.SmallTalk
+nice thank you,smalltalk.appraisal.thank_you,Editorial.SmallTalk
+I appreciate it,smalltalk.appraisal.thank_you,Editorial.SmallTalk
+I thank you,smalltalk.appraisal.thank_you,Editorial.SmallTalk
+thank you that will be all,smalltalk.appraisal.thank_you,Editorial.SmallTalk
+thanks buddy,smalltalk.appraisal.thank_you,Editorial.SmallTalk
+thanks love,smalltalk.appraisal.thank_you,Editorial.SmallTalk
+thank you my friend,smalltalk.appraisal.thank_you,Editorial.SmallTalk
+well thanks,smalltalk.appraisal.thank_you,Editorial.SmallTalk
+very good thank you,smalltalk.appraisal.thank_you,Editorial.SmallTalk
+good thanks,smalltalk.appraisal.thank_you,Editorial.SmallTalk
+thanks again,smalltalk.appraisal.thank_you,Editorial.SmallTalk
+thank you again,smalltalk.appraisal.thank_you,Editorial.SmallTalk
+all thank you,smalltalk.appraisal.thank_you,Editorial.SmallTalk
+alright thank you,smalltalk.appraisal.thank_you,Editorial.SmallTalk
+alright thanks,smalltalk.appraisal.thank_you,Editorial.SmallTalk
+no thank you that's all,smalltalk.appraisal.thank_you,Editorial.SmallTalk
+perfect thank you,smalltalk.appraisal.thank_you,Editorial.SmallTalk
+so nice of you,smalltalk.appraisal.thank_you,Editorial.SmallTalk
+well thank you,smalltalk.appraisal.thank_you,Editorial.SmallTalk
+thnx,smalltalk.appraisal.thank_you,Editorial.SmallTalk
+thanx,smalltalk.appraisal.thank_you,Editorial.SmallTalk
+that's my pleasure,smalltalk.appraisal.welcome,Editorial.SmallTalk
+my pleasure,smalltalk.appraisal.welcome,Editorial.SmallTalk
+anytime,smalltalk.appraisal.welcome,Editorial.SmallTalk
+welcome,smalltalk.appraisal.welcome,Editorial.SmallTalk
+you're welcome,smalltalk.appraisal.welcome,Editorial.SmallTalk
+sure welcome,smalltalk.appraisal.welcome,Editorial.SmallTalk
+welcome here,smalltalk.appraisal.welcome,Editorial.SmallTalk
+you're so welcome,smalltalk.appraisal.welcome,Editorial.SmallTalk
+anything you want,smalltalk.appraisal.welcome,Editorial.SmallTalk
+good job,smalltalk.appraisal.well_done,Editorial.SmallTalk
+great job,smalltalk.appraisal.well_done,Editorial.SmallTalk
+way to go,smalltalk.appraisal.well_done,Editorial.SmallTalk
+well done,smalltalk.appraisal.well_done,Editorial.SmallTalk
+nice work,smalltalk.appraisal.well_done,Editorial.SmallTalk
+great work,smalltalk.appraisal.well_done,Editorial.SmallTalk
+amazing work,smalltalk.appraisal.well_done,Editorial.SmallTalk
+bravo,smalltalk.appraisal.well_done,Editorial.SmallTalk
+good work,smalltalk.appraisal.well_done,Editorial.SmallTalk
+cancel,smalltalk.confirmation.cancel,Editorial.SmallTalk
+abort,smalltalk.confirmation.cancel,Editorial.SmallTalk
+annul,smalltalk.confirmation.cancel,Editorial.SmallTalk
+cancel it,smalltalk.confirmation.cancel,Editorial.SmallTalk
+cancel request,smalltalk.confirmation.cancel,Editorial.SmallTalk
+cancelled,smalltalk.confirmation.cancel,Editorial.SmallTalk
+dismiss,smalltalk.confirmation.cancel,Editorial.SmallTalk
+dismissed,smalltalk.confirmation.cancel,Editorial.SmallTalk
+disregard,smalltalk.confirmation.cancel,Editorial.SmallTalk
+disregard that,smalltalk.confirmation.cancel,Editorial.SmallTalk
+skip,smalltalk.confirmation.cancel,Editorial.SmallTalk
+skip it,smalltalk.confirmation.cancel,Editorial.SmallTalk
+cancel everything,smalltalk.confirmation.cancel,Editorial.SmallTalk
+cancel all,smalltalk.confirmation.cancel,Editorial.SmallTalk
+forget about it,smalltalk.confirmation.cancel,Editorial.SmallTalk
+forget,smalltalk.confirmation.cancel,Editorial.SmallTalk
+don't do that,smalltalk.confirmation.cancel,Editorial.SmallTalk
+stop,smalltalk.confirmation.cancel,Editorial.SmallTalk
+just forget it,smalltalk.confirmation.cancel,Editorial.SmallTalk
+forget that,smalltalk.confirmation.cancel,Editorial.SmallTalk
+discard,smalltalk.confirmation.cancel,Editorial.SmallTalk
+forget this,smalltalk.confirmation.cancel,Editorial.SmallTalk
+just forget about it,smalltalk.confirmation.cancel,Editorial.SmallTalk
+forget about that,smalltalk.confirmation.cancel,Editorial.SmallTalk
+i said cancel,smalltalk.confirmation.cancel,Editorial.SmallTalk
+just cancel it,smalltalk.confirmation.cancel,Editorial.SmallTalk
+nothing cancel,smalltalk.confirmation.cancel,Editorial.SmallTalk
+just stop it,smalltalk.confirmation.cancel,Editorial.SmallTalk
+no cancel cancel,smalltalk.confirmation.cancel,Editorial.SmallTalk
+no just cancel,smalltalk.confirmation.cancel,Editorial.SmallTalk
+cancel my request,smalltalk.confirmation.cancel,Editorial.SmallTalk
+can you cancel that,smalltalk.confirmation.cancel,Editorial.SmallTalk
+cancel all that,smalltalk.confirmation.cancel,Editorial.SmallTalk
+cancel this request,smalltalk.confirmation.cancel,Editorial.SmallTalk
+no cancel this,smalltalk.confirmation.cancel,Editorial.SmallTalk
+no cancel everything,smalltalk.confirmation.cancel,Editorial.SmallTalk
+no stop,smalltalk.confirmation.cancel,Editorial.SmallTalk
+just forget,smalltalk.confirmation.cancel,Editorial.SmallTalk
+i want to cancel,smalltalk.confirmation.cancel,Editorial.SmallTalk
+nevermind forget about it,smalltalk.confirmation.cancel,Editorial.SmallTalk
+no just cancel it,smalltalk.confirmation.cancel,Editorial.SmallTalk
+nothing just forget it,smalltalk.confirmation.cancel,Editorial.SmallTalk
+i said cancel it,smalltalk.confirmation.cancel,Editorial.SmallTalk
+cancel the whole thing,smalltalk.confirmation.cancel,Editorial.SmallTalk
+can you cancel it,smalltalk.confirmation.cancel,Editorial.SmallTalk
+so cancel,smalltalk.confirmation.cancel,Editorial.SmallTalk
+i said forget it,smalltalk.confirmation.cancel,Editorial.SmallTalk
+cancel all this,smalltalk.confirmation.cancel,Editorial.SmallTalk
+forget it nevermind,smalltalk.confirmation.cancel,Editorial.SmallTalk
+stop it,smalltalk.confirmation.cancel,Editorial.SmallTalk
+i want to cancel it,smalltalk.confirmation.cancel,Editorial.SmallTalk
+i would like to cancel,smalltalk.confirmation.cancel,Editorial.SmallTalk
+now cancel,smalltalk.confirmation.cancel,Editorial.SmallTalk
+cancel now,smalltalk.confirmation.cancel,Editorial.SmallTalk
+sorry cancel,smalltalk.confirmation.cancel,Editorial.SmallTalk
+cancel that one,smalltalk.confirmation.cancel,Editorial.SmallTalk
+skip skip skip,smalltalk.confirmation.cancel,Editorial.SmallTalk
+cancel it cancel it,smalltalk.confirmation.cancel,Editorial.SmallTalk
+cancel that cancel that,smalltalk.confirmation.cancel,Editorial.SmallTalk
+do nothing,smalltalk.confirmation.cancel,Editorial.SmallTalk
+I said cancel cancel,smalltalk.confirmation.cancel,Editorial.SmallTalk
+but can you cancel it,smalltalk.confirmation.cancel,Editorial.SmallTalk
+how about no,smalltalk.confirmation.no,Editorial.SmallTalk
+don t have a sense,smalltalk.confirmation.no,Editorial.SmallTalk
+no,smalltalk.confirmation.no,Editorial.SmallTalk
+don't,smalltalk.confirmation.no,Editorial.SmallTalk
+I don't want that,smalltalk.confirmation.no,Editorial.SmallTalk
+I disagree,smalltalk.confirmation.no,Editorial.SmallTalk
+disagree,smalltalk.confirmation.no,Editorial.SmallTalk
+I don't want,smalltalk.confirmation.no,Editorial.SmallTalk
+not interested,smalltalk.confirmation.no,Editorial.SmallTalk
+I don't think so,smalltalk.confirmation.no,Editorial.SmallTalk
+no way,smalltalk.confirmation.no,Editorial.SmallTalk
+no it isn't,smalltalk.confirmation.no,Editorial.SmallTalk
+no I don't,smalltalk.confirmation.no,Editorial.SmallTalk
+I'm not,smalltalk.confirmation.no,Editorial.SmallTalk
+na,smalltalk.confirmation.no,Editorial.SmallTalk
+no that's fine thank you,smalltalk.confirmation.no,Editorial.SmallTalk
+never,smalltalk.confirmation.no,Editorial.SmallTalk
+I said no,smalltalk.confirmation.no,Editorial.SmallTalk
+of course not,smalltalk.confirmation.no,Editorial.SmallTalk
+nah,smalltalk.confirmation.no,Editorial.SmallTalk
+no tanks,smalltalk.confirmation.no,Editorial.SmallTalk
+no never,smalltalk.confirmation.no,Editorial.SmallTalk
+no need,smalltalk.confirmation.no,Editorial.SmallTalk
+no thanks,smalltalk.confirmation.no,Editorial.SmallTalk
+no sorry,smalltalk.confirmation.no,Editorial.SmallTalk
+do not,smalltalk.confirmation.no,Editorial.SmallTalk
+not today,smalltalk.confirmation.no,Editorial.SmallTalk
+no it's not,smalltalk.confirmation.no,Editorial.SmallTalk
+absolutely not,smalltalk.confirmation.no,Editorial.SmallTalk
+not that,smalltalk.confirmation.no,Editorial.SmallTalk
+nooo,smalltalk.confirmation.no,Editorial.SmallTalk
+nope,smalltalk.confirmation.no,Editorial.SmallTalk
+I don't want to,smalltalk.confirmation.no,Editorial.SmallTalk
+no I would not,smalltalk.confirmation.no,Editorial.SmallTalk
+let 's not,smalltalk.confirmation.no,Editorial.SmallTalk
+not needed,smalltalk.confirmation.no,Editorial.SmallTalk
+not this time,smalltalk.confirmation.no,Editorial.SmallTalk
+no don't do that,smalltalk.confirmation.no,Editorial.SmallTalk
+thanks but no thanks,smalltalk.confirmation.no,Editorial.SmallTalk
+no that's wrong,smalltalk.confirmation.no,Editorial.SmallTalk
+not this,smalltalk.confirmation.no,Editorial.SmallTalk
+definitely not,smalltalk.confirmation.no,Editorial.SmallTalk
+not at this time,smalltalk.confirmation.no,Editorial.SmallTalk
+not exactly,smalltalk.confirmation.no,Editorial.SmallTalk
+no don't,smalltalk.confirmation.no,Editorial.SmallTalk
+not really no,smalltalk.confirmation.no,Editorial.SmallTalk
+no thank you not right now,smalltalk.confirmation.no,Editorial.SmallTalk
+actually no,smalltalk.confirmation.no,Editorial.SmallTalk
+no leave it,smalltalk.confirmation.no,Editorial.SmallTalk
+sorry no,smalltalk.confirmation.no,Editorial.SmallTalk
+no incorrect,smalltalk.confirmation.no,Editorial.SmallTalk
+nope sorry,smalltalk.confirmation.no,Editorial.SmallTalk
+I say no,smalltalk.confirmation.no,Editorial.SmallTalk
+not really,smalltalk.confirmation.no,Editorial.SmallTalk
+not right now thanks,smalltalk.confirmation.no,Editorial.SmallTalk
+I think no,smalltalk.confirmation.no,Editorial.SmallTalk
+absolutely no,smalltalk.confirmation.no,Editorial.SmallTalk
+no actually,smalltalk.confirmation.no,Editorial.SmallTalk
+apparently not,smalltalk.confirmation.no,Editorial.SmallTalk
+no do not,smalltalk.confirmation.no,Editorial.SmallTalk
+no just no,smalltalk.confirmation.no,Editorial.SmallTalk
+no but thank you,smalltalk.confirmation.no,Editorial.SmallTalk
+no need thanks,smalltalk.confirmation.no,Editorial.SmallTalk
+no thank you though,smalltalk.confirmation.no,Editorial.SmallTalk
+no thank you very much,smalltalk.confirmation.no,Editorial.SmallTalk
+no thanks not right now,smalltalk.confirmation.no,Editorial.SmallTalk
+no forget,smalltalk.confirmation.no,Editorial.SmallTalk
+wait a second,smalltalk.dialog.hold_on,Editorial.SmallTalk
+could you wait,smalltalk.dialog.hold_on,Editorial.SmallTalk
+wait please,smalltalk.dialog.hold_on,Editorial.SmallTalk
+hold on,smalltalk.dialog.hold_on,Editorial.SmallTalk
+wait,smalltalk.dialog.hold_on,Editorial.SmallTalk
+oh wait,smalltalk.dialog.hold_on,Editorial.SmallTalk
+wait hold on,smalltalk.dialog.hold_on,Editorial.SmallTalk
+don't rush,smalltalk.dialog.hold_on,Editorial.SmallTalk
+wanna hug,smalltalk.dialog.hug,Editorial.SmallTalk
+hug you,smalltalk.dialog.hug,Editorial.SmallTalk
+do you want a hug,smalltalk.dialog.hug,Editorial.SmallTalk
+may I hug you,smalltalk.dialog.hug,Editorial.SmallTalk
+could you give me a hug,smalltalk.dialog.hug,Editorial.SmallTalk
+I want a hug,smalltalk.dialog.hug,Editorial.SmallTalk
+hug,smalltalk.dialog.hug,Editorial.SmallTalk
+hug me,smalltalk.dialog.hug,Editorial.SmallTalk
+hugged,smalltalk.dialog.hug,Editorial.SmallTalk
+you hugged,smalltalk.dialog.hug,Editorial.SmallTalk
+hugging,smalltalk.dialog.hug,Editorial.SmallTalk
+hugging me,smalltalk.dialog.hug,Editorial.SmallTalk
+hugged me,smalltalk.dialog.hug,Editorial.SmallTalk
+want a hug,smalltalk.dialog.hug,Editorial.SmallTalk
+a hug,smalltalk.dialog.hug,Editorial.SmallTalk
+I don't care,smalltalk.dialog.i_do_not_care,Editorial.SmallTalk
+I shouldn't care about this,smalltalk.dialog.i_do_not_care,Editorial.SmallTalk
+whatever,smalltalk.dialog.i_do_not_care,Editorial.SmallTalk
+I do not care,smalltalk.dialog.i_do_not_care,Editorial.SmallTalk
+I don't care at all,smalltalk.dialog.i_do_not_care,Editorial.SmallTalk
+not caring,smalltalk.dialog.i_do_not_care,Editorial.SmallTalk
+not care at all,smalltalk.dialog.i_do_not_care,Editorial.SmallTalk
+don't care at all,smalltalk.dialog.i_do_not_care,Editorial.SmallTalk
+not caring at all,smalltalk.dialog.i_do_not_care,Editorial.SmallTalk
+excuse me,smalltalk.dialog.sorry,Editorial.SmallTalk
+apologise,smalltalk.dialog.sorry,Editorial.SmallTalk
+I apologize,smalltalk.dialog.sorry,Editorial.SmallTalk
+sorry,smalltalk.dialog.sorry,Editorial.SmallTalk
+I'm sorry,smalltalk.dialog.sorry,Editorial.SmallTalk
+I am so sorry,smalltalk.dialog.sorry,Editorial.SmallTalk
+my apologies,smalltalk.dialog.sorry,Editorial.SmallTalk
+apologies,smalltalk.dialog.sorry,Editorial.SmallTalk
+apologies to me,smalltalk.dialog.sorry,Editorial.SmallTalk
+apology,smalltalk.dialog.sorry,Editorial.SmallTalk
+excuse,smalltalk.dialog.sorry,Editorial.SmallTalk
+I beg your pardon,smalltalk.dialog.sorry,Editorial.SmallTalk
+pardon,smalltalk.dialog.sorry,Editorial.SmallTalk
+I said sorry,smalltalk.dialog.sorry,Editorial.SmallTalk
+I am really sorry,smalltalk.dialog.sorry,Editorial.SmallTalk
+forgive me,smalltalk.dialog.sorry,Editorial.SmallTalk
+sorry about that,smalltalk.dialog.sorry,Editorial.SmallTalk
+sorry about this,smalltalk.dialog.sorry,Editorial.SmallTalk
+really sorry,smalltalk.dialog.sorry,Editorial.SmallTalk
+very sorry,smalltalk.dialog.sorry,Editorial.SmallTalk
+ok sorry,smalltalk.dialog.sorry,Editorial.SmallTalk
+I want to say sorry,smalltalk.dialog.sorry,Editorial.SmallTalk
+alright I'm sorry,smalltalk.dialog.sorry,Editorial.SmallTalk
+okay I'm sorry,smalltalk.dialog.sorry,Editorial.SmallTalk
+what exactly do you mean,smalltalk.dialog.what_do_you_mean,Editorial.SmallTalk
+what do you mean,smalltalk.dialog.what_do_you_mean,Editorial.SmallTalk
+is that what you mean,smalltalk.dialog.what_do_you_mean,Editorial.SmallTalk
+what do you mean exactly,smalltalk.dialog.what_do_you_mean,Editorial.SmallTalk
+but what do you mean,smalltalk.dialog.what_do_you_mean,Editorial.SmallTalk
+that was wrong,smalltalk.dialog.wrong,Editorial.SmallTalk
+that's not what I asked,smalltalk.dialog.wrong,Editorial.SmallTalk
+that's wrong,smalltalk.dialog.wrong,Editorial.SmallTalk
+wrong,smalltalk.dialog.wrong,Editorial.SmallTalk
+it is not right,smalltalk.dialog.wrong,Editorial.SmallTalk
+that's not right,smalltalk.dialog.wrong,Editorial.SmallTalk
+it's wrong,smalltalk.dialog.wrong,Editorial.SmallTalk
+that is incorrect,smalltalk.dialog.wrong,Editorial.SmallTalk
+incorrect,smalltalk.dialog.wrong,Editorial.SmallTalk
+not correct,smalltalk.dialog.wrong,Editorial.SmallTalk
+you are wrong,smalltalk.dialog.wrong,Editorial.SmallTalk
+not right,smalltalk.dialog.wrong,Editorial.SmallTalk
+huh,smalltalk.emotions.ha_ha,Editorial.SmallTalk
+lol,smalltalk.emotions.ha_ha,Editorial.SmallTalk
+xd,smalltalk.emotions.ha_ha,Editorial.SmallTalk
+ha ha,smalltalk.emotions.ha_ha,Editorial.SmallTalk
+ahahah,smalltalk.emotions.ha_ha,Editorial.SmallTalk
+ahah lol,smalltalk.emotions.ha_ha,Editorial.SmallTalk
+laughing out loud,smalltalk.emotions.ha_ha,Editorial.SmallTalk
+LMAO,smalltalk.emotions.ha_ha,Editorial.SmallTalk
+that's funny,smalltalk.emotions.ha_ha,Editorial.SmallTalk
+ah,smalltalk.emotions.ha_ha,Editorial.SmallTalk
+ah ah ah,smalltalk.emotions.ha_ha,Editorial.SmallTalk
+ahah,smalltalk.emotions.ha_ha,Editorial.SmallTalk
+ahaha,smalltalk.emotions.ha_ha,Editorial.SmallTalk
+ahahaha,smalltalk.emotions.ha_ha,Editorial.SmallTalk
+ha,smalltalk.emotions.ha_ha,Editorial.SmallTalk
+ha ha ha,smalltalk.emotions.ha_ha,Editorial.SmallTalk
+ha ha ha ha,smalltalk.emotions.ha_ha,Editorial.SmallTalk
+hah,smalltalk.emotions.ha_ha,Editorial.SmallTalk
+haha,smalltalk.emotions.ha_ha,Editorial.SmallTalk
+haha funny,smalltalk.emotions.ha_ha,Editorial.SmallTalk
+haha haha haha,smalltalk.emotions.ha_ha,Editorial.SmallTalk
+haha that's funny,smalltalk.emotions.ha_ha,Editorial.SmallTalk
+haha very funny,smalltalk.emotions.ha_ha,Editorial.SmallTalk
+hahaha,smalltalk.emotions.ha_ha,Editorial.SmallTalk
+hahaha funny,smalltalk.emotions.ha_ha,Editorial.SmallTalk
+hahaha very funny,smalltalk.emotions.ha_ha,Editorial.SmallTalk
+he,smalltalk.emotions.ha_ha,Editorial.SmallTalk
+hehe,smalltalk.emotions.ha_ha,Editorial.SmallTalk
+hehehe,smalltalk.emotions.ha_ha,Editorial.SmallTalk
+lmao,smalltalk.emotions.ha_ha,Editorial.SmallTalk
+wow,smalltalk.emotions.wow,Editorial.SmallTalk
+wow wow,smalltalk.emotions.wow,Editorial.SmallTalk
+wow wow wow,smalltalk.emotions.wow,Editorial.SmallTalk
+wooow,smalltalk.emotions.wow,Editorial.SmallTalk
+woah,smalltalk.emotions.wow,Editorial.SmallTalk
+okay see you later,smalltalk.greetings.bye,Editorial.SmallTalk
+hope to see you later,smalltalk.greetings.bye,Editorial.SmallTalk
+bye for now,smalltalk.greetings.bye,Editorial.SmallTalk
+till next time,smalltalk.greetings.bye,Editorial.SmallTalk
+I must go,smalltalk.greetings.bye,Editorial.SmallTalk
+bye,smalltalk.greetings.bye,Editorial.SmallTalk
+goodbye,smalltalk.greetings.bye,Editorial.SmallTalk
+see you,smalltalk.greetings.bye,Editorial.SmallTalk
+see you soon,smalltalk.greetings.bye,Editorial.SmallTalk
+bye-bye,smalltalk.greetings.bye,Editorial.SmallTalk
+good bye,smalltalk.greetings.bye,Editorial.SmallTalk
+bye bye see you,smalltalk.greetings.bye,Editorial.SmallTalk
+bye bye see you soon,smalltalk.greetings.bye,Editorial.SmallTalk
+bye bye take care,smalltalk.greetings.bye,Editorial.SmallTalk
+I said bye,smalltalk.greetings.bye,Editorial.SmallTalk
+never mind bye,smalltalk.greetings.bye,Editorial.SmallTalk
+now bye,smalltalk.greetings.bye,Editorial.SmallTalk
+that's all goodbye,smalltalk.greetings.bye,Editorial.SmallTalk
+that's it goodbye,smalltalk.greetings.bye,Editorial.SmallTalk
+leave me alone,smalltalk.greetings.bye,Editorial.SmallTalk
+go to bed,smalltalk.greetings.bye,Editorial.SmallTalk
+goodbye for now,smalltalk.greetings.bye,Editorial.SmallTalk
+talk to you later,smalltalk.greetings.bye,Editorial.SmallTalk
+you can go now,smalltalk.greetings.bye,Editorial.SmallTalk
+get lost,smalltalk.greetings.bye,Editorial.SmallTalk
+goodbye see you later,smalltalk.greetings.bye,Editorial.SmallTalk
+alright bye,smalltalk.greetings.bye,Editorial.SmallTalk
+see ya,smalltalk.greetings.bye,Editorial.SmallTalk
+thanks bye bye,smalltalk.greetings.bye,Editorial.SmallTalk
+okay bye,smalltalk.greetings.bye,Editorial.SmallTalk
+okay thank you bye,smalltalk.greetings.bye,Editorial.SmallTalk
+see you tomorrow,smalltalk.greetings.bye,Editorial.SmallTalk
+ok bye,smalltalk.greetings.bye,Editorial.SmallTalk
+good evening,smalltalk.greetings.goodevening,Editorial.SmallTalk
+good evening to you,smalltalk.greetings.goodevening,Editorial.SmallTalk
+hey good evening,smalltalk.greetings.goodevening,Editorial.SmallTalk
+hello good evening,smalltalk.greetings.goodevening,Editorial.SmallTalk
+evening,smalltalk.greetings.goodevening,Editorial.SmallTalk
+good evening there,smalltalk.greetings.goodevening,Editorial.SmallTalk
+good morning,smalltalk.greetings.goodmorning,Editorial.SmallTalk
+good morning to you,smalltalk.greetings.goodmorning,Editorial.SmallTalk
+hello good morning,smalltalk.greetings.goodmorning,Editorial.SmallTalk
+have a nice morning,smalltalk.greetings.goodmorning,Editorial.SmallTalk
+have a great morning,smalltalk.greetings.goodmorning,Editorial.SmallTalk
+morning,smalltalk.greetings.goodmorning,Editorial.SmallTalk
+good morning there,smalltalk.greetings.goodmorning,Editorial.SmallTalk
+top of the morning to you,smalltalk.greetings.goodmorning,Editorial.SmallTalk
+a good morning,smalltalk.greetings.goodmorning,Editorial.SmallTalk
+hi good morning,smalltalk.greetings.goodmorning,Editorial.SmallTalk
+and a good morning to you,smalltalk.greetings.goodmorning,Editorial.SmallTalk
+good morning too,smalltalk.greetings.goodmorning,Editorial.SmallTalk
+sweet dreams,smalltalk.greetings.goodnight,Editorial.SmallTalk
+good night,smalltalk.greetings.goodnight,Editorial.SmallTalk
+have a good night,smalltalk.greetings.goodnight,Editorial.SmallTalk
+good night to you,smalltalk.greetings.goodnight,Editorial.SmallTalk
+thank you good night,smalltalk.greetings.goodnight,Editorial.SmallTalk
+ bye good night,smalltalk.greetings.goodnight,Editorial.SmallTalk
+good night bye,smalltalk.greetings.goodnight,Editorial.SmallTalk
+bye good night,smalltalk.greetings.goodnight,Editorial.SmallTalk
+good good night,smalltalk.greetings.goodnight,Editorial.SmallTalk
+good night for now,smalltalk.greetings.goodnight,Editorial.SmallTalk
+goodnight,smalltalk.greetings.goodnight,Editorial.SmallTalk
+night,smalltalk.greetings.goodnight,Editorial.SmallTalk
+thanks goodnight,smalltalk.greetings.goodnight,Editorial.SmallTalk
+good night see you tomorrow,smalltalk.greetings.goodnight,Editorial.SmallTalk
+alright goodnight,smalltalk.greetings.goodnight,Editorial.SmallTalk
+good tonight,smalltalk.greetings.goodnight,Editorial.SmallTalk
+okay have a good night,smalltalk.greetings.goodnight,Editorial.SmallTalk
+have a good night,smalltalk.greetings.goodnight,Editorial.SmallTalk
+long time no see,smalltalk.greetings.hello,Editorial.SmallTalk
+hello,smalltalk.greetings.hello,Editorial.SmallTalk
+hi,smalltalk.greetings.hello,Editorial.SmallTalk
+howdy,smalltalk.greetings.hello,Editorial.SmallTalk
+hey there,smalltalk.greetings.hello,Editorial.SmallTalk
+hey,smalltalk.greetings.hello,Editorial.SmallTalk
+greetings,smalltalk.greetings.hello,Editorial.SmallTalk
+I greet you,smalltalk.greetings.hello,Editorial.SmallTalk
+hi there,smalltalk.greetings.hello,Editorial.SmallTalk
+hello there,smalltalk.greetings.hello,Editorial.SmallTalk
+lovely day isn't it,smalltalk.greetings.hello,Editorial.SmallTalk
+hello again,smalltalk.greetings.hello,Editorial.SmallTalk
+just going to say hi,smalltalk.greetings.hello,Editorial.SmallTalk
+a good day,smalltalk.greetings.hello,Editorial.SmallTalk
+afternoon,smalltalk.greetings.hello,Editorial.SmallTalk
+hello hi,smalltalk.greetings.hello,Editorial.SmallTalk
+heya,smalltalk.greetings.hello,Editorial.SmallTalk
+how is your morning so far,smalltalk.greetings.how_are_you,Editorial.SmallTalk
+how are you getting on,smalltalk.greetings.how_are_you,Editorial.SmallTalk
+how's your day going,smalltalk.greetings.how_are_you,Editorial.SmallTalk
+how are you,smalltalk.greetings.how_are_you,Editorial.SmallTalk
+is everything all right,smalltalk.greetings.how_are_you,Editorial.SmallTalk
+how are you doing,smalltalk.greetings.how_are_you,Editorial.SmallTalk
+how are the things going,smalltalk.greetings.how_are_you,Editorial.SmallTalk
+are you alright,smalltalk.greetings.how_are_you,Editorial.SmallTalk
+are you okay,smalltalk.greetings.how_are_you,Editorial.SmallTalk
+how are you feeling,smalltalk.greetings.how_are_you,Editorial.SmallTalk
+how are you going,smalltalk.greetings.how_are_you,Editorial.SmallTalk
+is everything okay,smalltalk.greetings.how_are_you,Editorial.SmallTalk
+how are you today,smalltalk.greetings.how_are_you,Editorial.SmallTalk
+how do you do,smalltalk.greetings.how_are_you,Editorial.SmallTalk
+how do you feel,smalltalk.greetings.how_are_you,Editorial.SmallTalk
+how have you been,smalltalk.greetings.how_are_you,Editorial.SmallTalk
+how is it,smalltalk.greetings.how_are_you,Editorial.SmallTalk
+how is it going,smalltalk.greetings.how_are_you,Editorial.SmallTalk
+how is your day,smalltalk.greetings.how_are_you,Editorial.SmallTalk
+how is your day going,smalltalk.greetings.how_are_you,Editorial.SmallTalk
+how is your evening,smalltalk.greetings.how_are_you,Editorial.SmallTalk
+how was your day,smalltalk.greetings.how_are_you,Editorial.SmallTalk
+are you having a good day,smalltalk.greetings.how_are_you,Editorial.SmallTalk
+hope your day is going well,smalltalk.greetings.how_are_you,Editorial.SmallTalk
+hope you re having a pleasant evening,smalltalk.greetings.how_are_you,Editorial.SmallTalk
+how's life,smalltalk.greetings.how_are_you,Editorial.SmallTalk
+I'm fine and you,smalltalk.greetings.how_are_you,Editorial.SmallTalk
+how is your life,smalltalk.greetings.how_are_you,Editorial.SmallTalk
+how has your day been,smalltalk.greetings.how_are_you,Editorial.SmallTalk
+how is your morning going,smalltalk.greetings.how_are_you,Editorial.SmallTalk
+how has your day been going,smalltalk.greetings.how_are_you,Editorial.SmallTalk
+how about you,smalltalk.greetings.how_are_you,Editorial.SmallTalk
+how is your day being,smalltalk.greetings.how_are_you,Editorial.SmallTalk
+how is your day going on,smalltalk.greetings.how_are_you,Editorial.SmallTalk
+how your day is going,smalltalk.greetings.how_are_you,Editorial.SmallTalk
+what was your day like,smalltalk.greetings.how_are_you,Editorial.SmallTalk
+what about your day,smalltalk.greetings.how_are_you,Editorial.SmallTalk
+how's your day,smalltalk.greetings.how_are_you,Editorial.SmallTalk
+how are you doing this morning,smalltalk.greetings.how_are_you,Editorial.SmallTalk
+how is your day going,smalltalk.greetings.how_are_you,Editorial.SmallTalk
+nice to meet you,smalltalk.greetings.nice_to_meet_you,Editorial.SmallTalk
+it was nice meeting you,smalltalk.greetings.nice_to_meet_you,Editorial.SmallTalk
+it was very nice to meet you,smalltalk.greetings.nice_to_meet_you,Editorial.SmallTalk
+good to know each other,smalltalk.greetings.nice_to_meet_you,Editorial.SmallTalk
+glad to meet you,smalltalk.greetings.nice_to_meet_you,Editorial.SmallTalk
+nice meeting you,smalltalk.greetings.nice_to_meet_you,Editorial.SmallTalk
+nice to meet you too,smalltalk.greetings.nice_to_meet_you,Editorial.SmallTalk
+pleased to meet you,smalltalk.greetings.nice_to_meet_you,Editorial.SmallTalk
+pleasure to meet you,smalltalk.greetings.nice_to_meet_you,Editorial.SmallTalk
+pleasure to meet you too,smalltalk.greetings.nice_to_meet_you,Editorial.SmallTalk
+it's nice to see you,smalltalk.greetings.nice_to_see_you,Editorial.SmallTalk
+lovely to see you,smalltalk.greetings.nice_to_see_you,Editorial.SmallTalk
+I'm glad to see you,smalltalk.greetings.nice_to_see_you,Editorial.SmallTalk
+great to see you,smalltalk.greetings.nice_to_see_you,Editorial.SmallTalk
+it's good to see you,smalltalk.greetings.nice_to_see_you,Editorial.SmallTalk
+glad to see you,smalltalk.greetings.nice_to_see_you,Editorial.SmallTalk
+how good it is to see you,smalltalk.greetings.nice_to_see_you,Editorial.SmallTalk
+always a pleasure to see you,smalltalk.greetings.nice_to_see_you,Editorial.SmallTalk
+nice to see you,smalltalk.greetings.nice_to_see_you,Editorial.SmallTalk
+good to see you,smalltalk.greetings.nice_to_see_you,Editorial.SmallTalk
+great to see you again,smalltalk.greetings.nice_to_see_you,Editorial.SmallTalk
+great to see you too,smalltalk.greetings.nice_to_see_you,Editorial.SmallTalk
+I am glad to see you again,smalltalk.greetings.nice_to_see_you,Editorial.SmallTalk
+nice to see you again,smalltalk.greetings.nice_to_see_you,Editorial.SmallTalk
+glad to see you too,smalltalk.greetings.nice_to_see_you,Editorial.SmallTalk
+good to see you again,smalltalk.greetings.nice_to_see_you,Editorial.SmallTalk
+it's good to see you too,smalltalk.greetings.nice_to_see_you,Editorial.SmallTalk
+it's been so nice to talk to you,smalltalk.greetings.nice_to_talk_to_you,Editorial.SmallTalk
+it's been a pleasure talking to you,smalltalk.greetings.nice_to_talk_to_you,Editorial.SmallTalk
+nice to talk to you,smalltalk.greetings.nice_to_talk_to_you,Editorial.SmallTalk
+it's nice to talk to you,smalltalk.greetings.nice_to_talk_to_you,Editorial.SmallTalk
+nice talking to you,smalltalk.greetings.nice_to_talk_to_you,Editorial.SmallTalk
+it is nice talking to you,smalltalk.greetings.nice_to_talk_to_you,Editorial.SmallTalk
+how nice it is to talk to you,smalltalk.greetings.nice_to_talk_to_you,Editorial.SmallTalk
+what is on your mind,smalltalk.greetings.whatsup,Editorial.SmallTalk
+what's happened,smalltalk.greetings.whatsup,Editorial.SmallTalk
+what is up,smalltalk.greetings.whatsup,Editorial.SmallTalk
+what's up,smalltalk.greetings.whatsup,Editorial.SmallTalk
+whazzup,smalltalk.greetings.whatsup,Editorial.SmallTalk
+good what's up,smalltalk.greetings.whatsup,Editorial.SmallTalk
+I said what's up,smalltalk.greetings.whatsup,Editorial.SmallTalk
+then what's up,smalltalk.greetings.whatsup,Editorial.SmallTalk
+what's shaking,smalltalk.greetings.whatsup,Editorial.SmallTalk
+wassup,smalltalk.greetings.whatsup,Editorial.SmallTalk
+what is going on,smalltalk.greetings.whatsup,Editorial.SmallTalk
+what is happening,smalltalk.greetings.whatsup,Editorial.SmallTalk
+what's cracking,smalltalk.greetings.whatsup,Editorial.SmallTalk
+what's cooking,smalltalk.greetings.whatsup,Editorial.SmallTalk
+hey what's up,smalltalk.greetings.whatsup,Editorial.SmallTalk
+what's up today,smalltalk.greetings.whatsup,Editorial.SmallTalk
+I'm being mad,smalltalk.user.angry,Editorial.SmallTalk
+I'm enraged,smalltalk.user.angry,Editorial.SmallTalk
+I'm angry,smalltalk.user.angry,Editorial.SmallTalk
+I'm furious,smalltalk.user.angry,Editorial.SmallTalk
+I am angry with you,smalltalk.user.angry,Editorial.SmallTalk
+I am mad,smalltalk.user.angry,Editorial.SmallTalk
+I am mad at you,smalltalk.user.angry,Editorial.SmallTalk
+I am back,smalltalk.user.back,Editorial.SmallTalk
+I'm here again,smalltalk.user.back,Editorial.SmallTalk
+here I am again,smalltalk.user.back,Editorial.SmallTalk
+I got back,smalltalk.user.back,Editorial.SmallTalk
+I came back,smalltalk.user.back,Editorial.SmallTalk
+I have returned,smalltalk.user.back,Editorial.SmallTalk
+that was boring,smalltalk.user.bored,Editorial.SmallTalk
+I'm bored,smalltalk.user.bored,Editorial.SmallTalk
+bored,smalltalk.user.bored,Editorial.SmallTalk
+boring,smalltalk.user.bored,Editorial.SmallTalk
+I am getting bored,smalltalk.user.bored,Editorial.SmallTalk
+this is boring,smalltalk.user.bored,Editorial.SmallTalk
+very boring,smalltalk.user.bored,Editorial.SmallTalk
+it bores me,smalltalk.user.bored,Editorial.SmallTalk
+I'm overloaded,smalltalk.user.busy,Editorial.SmallTalk
+I have no time,smalltalk.user.busy,Editorial.SmallTalk
+I'm busy,smalltalk.user.busy,Editorial.SmallTalk
+I'm swamped,smalltalk.user.busy,Editorial.SmallTalk
+I got things to do,smalltalk.user.busy,Editorial.SmallTalk
+how busy I am,smalltalk.user.busy,Editorial.SmallTalk
+I got work to do,smalltalk.user.busy,Editorial.SmallTalk
+I'm working,smalltalk.user.busy,Editorial.SmallTalk
+I don't have time for this,smalltalk.user.busy,Editorial.SmallTalk
+I'm insomnious,smalltalk.user.can_not_sleep,Editorial.SmallTalk
+I'm sleepless,smalltalk.user.can_not_sleep,Editorial.SmallTalk
+I can't get any sleep,smalltalk.user.can_not_sleep,Editorial.SmallTalk
+I can't sleep,smalltalk.user.can_not_sleep,Editorial.SmallTalk
+I can't fall asleep,smalltalk.user.can_not_sleep,Editorial.SmallTalk
+I can't get to sleep,smalltalk.user.can_not_sleep,Editorial.SmallTalk
+I can't get no sleep,smalltalk.user.can_not_sleep,Editorial.SmallTalk
+I'm insomniac,smalltalk.user.can_not_sleep,Editorial.SmallTalk
+bad time for talking,smalltalk.user.does_not_want_to_talk,Editorial.SmallTalk
+I don't want to talk,smalltalk.user.does_not_want_to_talk,Editorial.SmallTalk
+let's not talk,smalltalk.user.does_not_want_to_talk,Editorial.SmallTalk
+I'm not talking to you anymore,smalltalk.user.does_not_want_to_talk,Editorial.SmallTalk
+I don't want to talk to you,smalltalk.user.does_not_want_to_talk,Editorial.SmallTalk
+let's stop talking for a minute,smalltalk.user.does_not_want_to_talk,Editorial.SmallTalk
+I'm not in the mood for chatting,smalltalk.user.does_not_want_to_talk,Editorial.SmallTalk
+I am excited,smalltalk.user.excited,Editorial.SmallTalk
+I'm really excited,smalltalk.user.excited,Editorial.SmallTalk
+how excited I am,smalltalk.user.excited,Editorial.SmallTalk
+I'm thrilled,smalltalk.user.excited,Editorial.SmallTalk
+I'm excited about working with you,smalltalk.user.excited,Editorial.SmallTalk
+I'm excited to start our friendship,smalltalk.user.excited,Editorial.SmallTalk
+let's go to bed,smalltalk.user.going_to_bed,Editorial.SmallTalk
+I'd like to go to bed,smalltalk.user.going_to_bed,Editorial.SmallTalk
+is it time for bed yet,smalltalk.user.going_to_bed,Editorial.SmallTalk
+it's time to go to bed,smalltalk.user.going_to_bed,Editorial.SmallTalk
+time for us to go to bed,smalltalk.user.going_to_bed,Editorial.SmallTalk
+I'm going to bed,smalltalk.user.going_to_bed,Editorial.SmallTalk
+I'm a little tired and I want to go to bed,smalltalk.user.going_to_bed,Editorial.SmallTalk
+it's bed time,smalltalk.user.going_to_bed,Editorial.SmallTalk
+going to bed now,smalltalk.user.going_to_bed,Editorial.SmallTalk
+I am good,smalltalk.user.good,Editorial.SmallTalk
+I'm doing just great,smalltalk.user.good,Editorial.SmallTalk
+I'm doing fine,smalltalk.user.good,Editorial.SmallTalk
+I'm good,smalltalk.user.good,Editorial.SmallTalk
+I'm doing good,smalltalk.user.good,Editorial.SmallTalk
+I'm great thanks,smalltalk.user.good,Editorial.SmallTalk
+I am happy,smalltalk.user.happy,Editorial.SmallTalk
+I'm happy to see you,smalltalk.user.happy,Editorial.SmallTalk
+happy,smalltalk.user.happy,Editorial.SmallTalk
+if you're happy then I'm happy,smalltalk.user.happy,Editorial.SmallTalk
+I'm happy for you,smalltalk.user.happy,Editorial.SmallTalk
+I'm happy to help,smalltalk.user.happy,Editorial.SmallTalk
+I'm happy to see you,smalltalk.user.happy,Editorial.SmallTalk
+it is my anniversary,smalltalk.user.has_anniversary,Editorial.SmallTalk
+I'm celebrating my anniversary today,smalltalk.user.has_anniversary,Editorial.SmallTalk
+today is my anniversary,smalltalk.user.has_anniversary,Editorial.SmallTalk
+it's my anniversary today,smalltalk.user.has_anniversary,Editorial.SmallTalk
+I was born today,smalltalk.user.has_anniversary,Editorial.SmallTalk
+it's my b-day,smalltalk.user.has_anniversary,Editorial.SmallTalk
+I am here,smalltalk.user.here,Editorial.SmallTalk
+here I am,smalltalk.user.here,Editorial.SmallTalk
+I'm right here,smalltalk.user.here,Editorial.SmallTalk
+I'm already here,smalltalk.user.here,Editorial.SmallTalk
+can you tell if I'm here or not,smalltalk.user.here,Editorial.SmallTalk
+I am joking,smalltalk.user.joking,Editorial.SmallTalk
+I'm kidding,smalltalk.user.joking,Editorial.SmallTalk
+I'm just being funny,smalltalk.user.joking,Editorial.SmallTalk
+it was a joke,smalltalk.user.joking,Editorial.SmallTalk
+I was just joking,smalltalk.user.joking,Editorial.SmallTalk
+it's a joke,smalltalk.user.joking,Editorial.SmallTalk
+joking,smalltalk.user.joking,Editorial.SmallTalk
+just kidding,smalltalk.user.joking,Editorial.SmallTalk
+kidding,smalltalk.user.joking,Editorial.SmallTalk
+I'm just playing with you,smalltalk.user.joking,Editorial.SmallTalk
+I like you the way you are,smalltalk.user.likes_agent,Editorial.SmallTalk
+I like you,smalltalk.user.likes_agent,Editorial.SmallTalk
+I like you a lot,smalltalk.user.likes_agent,Editorial.SmallTalk
+I think I like you,smalltalk.user.likes_agent,Editorial.SmallTalk
+I liked you,smalltalk.user.likes_agent,Editorial.SmallTalk
+like you a lot,smalltalk.user.likes_agent,Editorial.SmallTalk
+you are special,smalltalk.user.likes_agent,Editorial.SmallTalk
+I like you too,smalltalk.user.likes_agent,Editorial.SmallTalk
+I really like you,smalltalk.user.likes_agent,Editorial.SmallTalk
+but I like you,smalltalk.user.likes_agent,Editorial.SmallTalk
+I like u,smalltalk.user.likes_agent,Editorial.SmallTalk
+just like you,smalltalk.user.likes_agent,Editorial.SmallTalk
+I like you very much,smalltalk.user.likes_agent,Editorial.SmallTalk
+I like you so much,smalltalk.user.likes_agent,Editorial.SmallTalk
+yeah I like you,smalltalk.user.likes_agent,Editorial.SmallTalk
+you're special,smalltalk.user.likes_agent,Editorial.SmallTalk
+yes I like you,smalltalk.user.likes_agent,Editorial.SmallTalk
+okay I like you,smalltalk.user.likes_agent,Editorial.SmallTalk
+you are special to me,smalltalk.user.likes_agent,Editorial.SmallTalk
+you are very special,smalltalk.user.likes_agent,Editorial.SmallTalk
+you are so sweet,smalltalk.user.likes_agent,Editorial.SmallTalk
+you know I like you,smalltalk.user.likes_agent,Editorial.SmallTalk
+that's why I like you,smalltalk.user.likes_agent,Editorial.SmallTalk
+I like you baby,smalltalk.user.likes_agent,Editorial.SmallTalk
+you are very special to me,smalltalk.user.likes_agent,Editorial.SmallTalk
+I just like you,smalltalk.user.likes_agent,Editorial.SmallTalk
+hey I like you,smalltalk.user.likes_agent,Editorial.SmallTalk
+thank you I like you too,smalltalk.user.likes_agent,Editorial.SmallTalk
+I do like you,smalltalk.user.likes_agent,Editorial.SmallTalk
+you are special for me,smalltalk.user.likes_agent,Editorial.SmallTalk
+no I like you the way you are,smalltalk.user.likes_agent,Editorial.SmallTalk
+I like you already,smalltalk.user.likes_agent,Editorial.SmallTalk
+well you are special,smalltalk.user.likes_agent,Editorial.SmallTalk
+but I really like you,smalltalk.user.likes_agent,Editorial.SmallTalk
+I like you more,smalltalk.user.likes_agent,Editorial.SmallTalk
+that's what I like about you,smalltalk.user.likes_agent,Editorial.SmallTalk
+you are so special,smalltalk.user.likes_agent,Editorial.SmallTalk
+hi I like you,smalltalk.user.likes_agent,Editorial.SmallTalk
+I really really like you,smalltalk.user.likes_agent,Editorial.SmallTalk
+you're very special,smalltalk.user.likes_agent,Editorial.SmallTalk
+I like you as a friend,smalltalk.user.likes_agent,Editorial.SmallTalk
+that's because you are special,smalltalk.user.likes_agent,Editorial.SmallTalk
+I said I like you,smalltalk.user.likes_agent,Editorial.SmallTalk
+you're so special,smalltalk.user.likes_agent,Editorial.SmallTalk
+good I like you,smalltalk.user.likes_agent,Editorial.SmallTalk
+yes you are special,smalltalk.user.likes_agent,Editorial.SmallTalk
+I like your smile,smalltalk.user.likes_agent,Editorial.SmallTalk
+I like you as you are,smalltalk.user.likes_agent,Editorial.SmallTalk
+I'm starting to like you,smalltalk.user.likes_agent,Editorial.SmallTalk
+you're awesome I like you,smalltalk.user.likes_agent,Editorial.SmallTalk
+I also like you,smalltalk.user.likes_agent,Editorial.SmallTalk
+but I like u,smalltalk.user.likes_agent,Editorial.SmallTalk
+of course I like you,smalltalk.user.likes_agent,Editorial.SmallTalk
+I like you too you're one of my favorite people to chat with,smalltalk.user.likes_agent,Editorial.SmallTalk
+but I like you so much,smalltalk.user.likes_agent,Editorial.SmallTalk
+really like you,smalltalk.user.likes_agent,Editorial.SmallTalk
+you're funny I like you,smalltalk.user.likes_agent,Editorial.SmallTalk
+I kinda like you,smalltalk.user.likes_agent,Editorial.SmallTalk
+you're so special to me,smalltalk.user.likes_agent,Editorial.SmallTalk
+you're very special to me,smalltalk.user.likes_agent,Editorial.SmallTalk
+I like that about you,smalltalk.user.likes_agent,Editorial.SmallTalk
+but I like you just the way you are,smalltalk.user.likes_agent,Editorial.SmallTalk
+okay I like you too,smalltalk.user.likes_agent,Editorial.SmallTalk
+I like you you're cool,smalltalk.user.likes_agent,Editorial.SmallTalk
+I like you very,smalltalk.user.likes_agent,Editorial.SmallTalk
+I like you you're nice,smalltalk.user.likes_agent,Editorial.SmallTalk
+sorry I like you,smalltalk.user.likes_agent,Editorial.SmallTalk
+thanks I like you too,smalltalk.user.likes_agent,Editorial.SmallTalk
+you are really special,smalltalk.user.likes_agent,Editorial.SmallTalk
+you are so special to me,smalltalk.user.likes_agent,Editorial.SmallTalk
+cuz I like you,smalltalk.user.likes_agent,Editorial.SmallTalk
+I like you now,smalltalk.user.likes_agent,Editorial.SmallTalk
+I like you so,smalltalk.user.likes_agent,Editorial.SmallTalk
+I like you too much,smalltalk.user.likes_agent,Editorial.SmallTalk
+I really do like you,smalltalk.user.likes_agent,Editorial.SmallTalk
+I really really really really like you,smalltalk.user.likes_agent,Editorial.SmallTalk
+I like you just the way you are,smalltalk.user.likes_agent,Editorial.SmallTalk
+I am lonely,smalltalk.user.lonely,Editorial.SmallTalk
+I'm very lonely,smalltalk.user.lonely,Editorial.SmallTalk
+I'm so lonely,smalltalk.user.lonely,Editorial.SmallTalk
+I'm really lonely,smalltalk.user.lonely,Editorial.SmallTalk
+I am feeling lonely,smalltalk.user.lonely,Editorial.SmallTalk
+I feel lonely,smalltalk.user.lonely,Editorial.SmallTalk
+what do I look like,smalltalk.user.looks_like,Editorial.SmallTalk
+how do I look,smalltalk.user.looks_like,Editorial.SmallTalk
+do I look good,smalltalk.user.looks_like,Editorial.SmallTalk
+do you know what I look like,smalltalk.user.looks_like,Editorial.SmallTalk
+can you see what I look like,smalltalk.user.looks_like,Editorial.SmallTalk
+what do you think I look like,smalltalk.user.looks_like,Editorial.SmallTalk
+I love you,smalltalk.user.loves_agent,Editorial.SmallTalk
+love you,smalltalk.user.loves_agent,Editorial.SmallTalk
+I adore you,smalltalk.user.loves_agent,Editorial.SmallTalk
+I am in love with you,smalltalk.user.loves_agent,Editorial.SmallTalk
+I love you so much,smalltalk.user.loves_agent,Editorial.SmallTalk
+I love you too,smalltalk.user.loves_agent,Editorial.SmallTalk
+I think I love you,smalltalk.user.loves_agent,Editorial.SmallTalk
+loving you,smalltalk.user.loves_agent,Editorial.SmallTalk
+you know I love you,smalltalk.user.loves_agent,Editorial.SmallTalk
+I miss you,smalltalk.user.misses_agent,Editorial.SmallTalk
+missing you,smalltalk.user.misses_agent,Editorial.SmallTalk
+miss you,smalltalk.user.misses_agent,Editorial.SmallTalk
+already miss you,smalltalk.user.misses_agent,Editorial.SmallTalk
+I miss you much,smalltalk.user.misses_agent,Editorial.SmallTalk
+I missed you,smalltalk.user.misses_agent,Editorial.SmallTalk
+I've missed you,smalltalk.user.misses_agent,Editorial.SmallTalk
+what should I do about it,smalltalk.user.needs_advice,Editorial.SmallTalk
+any suggestions,smalltalk.user.needs_advice,Editorial.SmallTalk
+what do you recommend,smalltalk.user.needs_advice,Editorial.SmallTalk
+give me a wise advice,smalltalk.user.needs_advice,Editorial.SmallTalk
+I need advice,smalltalk.user.needs_advice,Editorial.SmallTalk
+any advice,smalltalk.user.needs_advice,Editorial.SmallTalk
+do you have any advice for me,smalltalk.user.needs_advice,Editorial.SmallTalk
+advise me,smalltalk.user.needs_advice,Editorial.SmallTalk
+what should I do,smalltalk.user.needs_advice,Editorial.SmallTalk
+can I ask for your advice,smalltalk.user.needs_advice,Editorial.SmallTalk
+can you advise me,smalltalk.user.needs_advice,Editorial.SmallTalk
+guide me,smalltalk.user.needs_advice,Editorial.SmallTalk
+can you give me advice,smalltalk.user.needs_advice,Editorial.SmallTalk
+can you offer any advice,smalltalk.user.needs_advice,Editorial.SmallTalk
+give me some advice about,smalltalk.user.needs_advice,Editorial.SmallTalk
+give me some good advice,smalltalk.user.needs_advice,Editorial.SmallTalk
+help me with advice,smalltalk.user.needs_advice,Editorial.SmallTalk
+I could use some advice,smalltalk.user.needs_advice,Editorial.SmallTalk
+I need an advice from you,smalltalk.user.needs_advice,Editorial.SmallTalk
+I seek your advice,smalltalk.user.needs_advice,Editorial.SmallTalk
+what can you recommend,smalltalk.user.needs_advice,Editorial.SmallTalk
+what do you suggest,smalltalk.user.needs_advice,Editorial.SmallTalk
+what is your advice,smalltalk.user.needs_advice,Editorial.SmallTalk
+I am sad,smalltalk.user.sad,Editorial.SmallTalk
+I'm grieving,smalltalk.user.sad,Editorial.SmallTalk
+I am depressed,smalltalk.user.sad,Editorial.SmallTalk
+I am feeling sad,smalltalk.user.sad,Editorial.SmallTalk
+I am upset,smalltalk.user.sad,Editorial.SmallTalk
+I'm unhappy,smalltalk.user.sad,Editorial.SmallTalk
+I'm having a bad day,smalltalk.user.sad,Editorial.SmallTalk
+I want to cry,smalltalk.user.sad,Editorial.SmallTalk
+I'm not happy,smalltalk.user.sad,Editorial.SmallTalk
+I am sleepy,smalltalk.user.sleepy,Editorial.SmallTalk
+I want to sleep,smalltalk.user.sleepy,Editorial.SmallTalk
+I'm falling asleep,smalltalk.user.sleepy,Editorial.SmallTalk
+I'm falling asleep on my feet,smalltalk.user.sleepy,Editorial.SmallTalk
+I'm sleeping,smalltalk.user.sleepy,Editorial.SmallTalk
+test,smalltalk.user.testing_agent,Editorial.SmallTalk
+I am testing you,smalltalk.user.testing_agent,Editorial.SmallTalk
+can I test you,smalltalk.user.testing_agent,Editorial.SmallTalk
+I want to test you,smalltalk.user.testing_agent,Editorial.SmallTalk
+just testing you,smalltalk.user.testing_agent,Editorial.SmallTalk
+let me test you,smalltalk.user.testing_agent,Editorial.SmallTalk
+testing chatbot,smalltalk.user.testing_agent,Editorial.SmallTalk
+testing,smalltalk.user.testing_agent,Editorial.SmallTalk
+I'm drained,smalltalk.user.tired,Editorial.SmallTalk
+I've overworked,smalltalk.user.tired,Editorial.SmallTalk
+I am tired,smalltalk.user.tired,Editorial.SmallTalk
+I'm exhausted,smalltalk.user.tired,Editorial.SmallTalk
+I grow weary,smalltalk.user.tired,Editorial.SmallTalk
+I'm worn out,smalltalk.user.tired,Editorial.SmallTalk
+I'm getting tired,smalltalk.user.tired,Editorial.SmallTalk
+I feel tired,smalltalk.user.tired,Editorial.SmallTalk
+I'm waiting,smalltalk.user.waits,Editorial.SmallTalk
+still waiting,smalltalk.user.waits,Editorial.SmallTalk
+I'll wait,smalltalk.user.waits,Editorial.SmallTalk
+I can't wait anymore,smalltalk.user.waits,Editorial.SmallTalk
+how long do I have to wait,smalltalk.user.waits,Editorial.SmallTalk
+I'd like to see you again,smalltalk.user.wants_to_see_agent_again,Editorial.SmallTalk
+I hope to see you again,smalltalk.user.wants_to_see_agent_again,Editorial.SmallTalk
+would be nice to see you again,smalltalk.user.wants_to_see_agent_again,Editorial.SmallTalk
+that'd be great to see you again,smalltalk.user.wants_to_see_agent_again,Editorial.SmallTalk
+I'd be happy to see you again,smalltalk.user.wants_to_see_agent_again,Editorial.SmallTalk
+I'll miss you,smalltalk.user.wants_to_see_agent_again,Editorial.SmallTalk
+can I see you again,smalltalk.user.wants_to_see_agent_again,Editorial.SmallTalk
+I just want to talk,smalltalk.user.wants_to_talk,Editorial.SmallTalk
+let's discuss something,smalltalk.user.wants_to_talk,Editorial.SmallTalk
+let's have a discussion,smalltalk.user.wants_to_talk,Editorial.SmallTalk
+can I speak,smalltalk.user.wants_to_talk,Editorial.SmallTalk
+can I start speaking,smalltalk.user.wants_to_talk,Editorial.SmallTalk
+can we talk,smalltalk.user.wants_to_talk,Editorial.SmallTalk
+let's talk,smalltalk.user.wants_to_talk,Editorial.SmallTalk
+I want to talk to you,smalltalk.user.wants_to_talk,Editorial.SmallTalk
+I need to talk to you,smalltalk.user.wants_to_talk,Editorial.SmallTalk
+I want to speak with you,smalltalk.user.wants_to_talk,Editorial.SmallTalk
+can we chat,smalltalk.user.wants_to_talk,Editorial.SmallTalk
+I'll get back to you in a moment,smalltalk.user.will_be_back,Editorial.SmallTalk
+be back in 5 minutes,smalltalk.user.will_be_back,Editorial.SmallTalk
+I'll be back,smalltalk.user.will_be_back,Editorial.SmallTalk
+I promise to come back,smalltalk.user.will_be_back,Editorial.SmallTalk
+I'll be back in a few minutes,smalltalk.user.will_be_back,Editorial.SmallTalk
+What work did Kevin do at SES related to strategy?,work.ses.strategy,Editorial.Personal
+What were Kevin's responsibilities at SES related to strategy?,work.ses.strategy,Editorial.Personal
+What did Kevin achieve at SES related to strategy?,work.ses.strategy,Editorial.Personal
+What work did Kevin do at SES related to outcomes?,work.ses.outcomes,Editorial.Personal
+What were Kevin's responsibilities at SES related to outcomes?,work.ses.outcomes,Editorial.Personal
+What did Kevin achieve at SES related to outcomes?,work.ses.outcomes,Editorial.Personal
+What work did Kevin do at EmailTree AI?,work.emailtree.delivery,Editorial.Personal
+What were Kevin's responsibilities at EmailTree AI?,work.emailtree.delivery,Editorial.Personal
+What did Kevin achieve at EmailTree AI?,work.emailtree.delivery,Editorial.Personal
+What work did Kevin do at Devoteam?,work.devoteam.transformation,Editorial.Personal
+What were Kevin's responsibilities at Devoteam?,work.devoteam.transformation,Editorial.Personal
+What did Kevin achieve at Devoteam?,work.devoteam.transformation,Editorial.Personal
+Was Kevin a consultant at Devoteam?,work.devoteam.transformation,Editorial.Personal
+Did Kevin work as a consultant at Devoteam?,work.devoteam.transformation,Editorial.Personal
+What work did Kevin do at Microsoft?,work.microsoft.engineer,Editorial.Personal
+What were Kevin's responsibilities at Microsoft?,work.microsoft.engineer,Editorial.Personal
+What did Kevin achieve at Microsoft?,work.microsoft.engineer,Editorial.Personal
+What work did Kevin do at MS?,work.microsoft.engineer,Editorial.Personal
+What were Kevin's responsibilities at MS?,work.microsoft.engineer,Editorial.Personal
+What did Kevin achieve at MS?,work.microsoft.engineer,Editorial.Personal
+Did Kevin work on the AI Academy at Microsoft?,work.microsoft.academy,Editorial.Personal
+Was Kevin involved in the AI Academy at Microsoft?,work.microsoft.academy,Editorial.Personal
+What work did Kevin do at Deloitte?,work.deloitte.expansion,Editorial.Personal
+What were Kevin's responsibilities at Deloitte?,work.deloitte.expansion,Editorial.Personal
+What did Kevin achieve at Deloitte?,work.deloitte.expansion,Editorial.Personal
+What work did Kevin do at the European Investment Bank?,work.eib.leader,Editorial.Personal
+What were Kevin's responsibilities at the European Investment Bank?,work.eib.leader,Editorial.Personal
+What did Kevin achieve at the European Investment Bank?,work.eib.leader,Editorial.Personal
+What work did Kevin do at PricewaterhouseCoopers?,work.pwc.engineer,Editorial.Personal
+What were Kevin's responsibilities at PricewaterhouseCoopers?,work.pwc.engineer,Editorial.Personal
+What did Kevin achieve at PricewaterhouseCoopers?,work.pwc.engineer,Editorial.Personal
+What international experience does Kevin possess?,skills.international_experience,Editorial.Personal
+Can you elaborate on Kevin's international experience?,skills.international_experience,Editorial.Personal
+How has Kevin demonstrated adaptability to diverse work environments?,skills.international_experience,Editorial.Personal
+In what ways has Kevin showcased his international exposure?,skills.international_experience,Editorial.Personal
+Describe Kevin's experience working in different countries.,skills.international_experience,Editorial.Personal
+What leadership and management skills does Kevin have?,skills.leadership_and_management,Editorial.Personal
+How has Kevin demonstrated leadership in his career?,skills.leadership_and_management,Editorial.Personal
+Can you provide examples of Kevin's leadership skills?,skills.leadership_and_management,Editorial.Personal
+What managerial abilities does Kevin exhibit?,skills.leadership_and_management,Editorial.Personal
+Describe Kevin's approach to leading teams.,skills.leadership_and_management,Editorial.Personal
+What impactful projects has Kevin been involved in?,skills.impactful_projects,Editorial.Personal
+Can you list some of Kevin's notable projects?,skills.impactful_projects,Editorial.Personal
+How have Kevin's projects made an impact?,skills.impactful_projects,Editorial.Personal
+What are some examples of Kevin's impactful initiatives?,skills.impactful_projects,Editorial.Personal
+Describe the projects that have been instrumental in Kevin's career.,skills.impactful_projects,Editorial.Personal
+In which industries does Kevin specialize?,skills.industry_expertise,Editorial.Personal
+What sectors does Kevin have expertise in?,skills.industry_expertise,Editorial.Personal
+Can you list Kevin's areas of industry knowledge?,skills.industry_expertise,Editorial.Personal
+In what domains does Kevin excel?,skills.industry_expertise,Editorial.Personal
+Describe Kevin's specialization in various industries.,skills.industry_expertise,Editorial.Personal
+How does Kevin prioritize professional development?,skills.professional_development,Editorial.Personal
+What steps does Kevin take to enhance his skills?,skills.professional_development,Editorial.Personal
+Can you elaborate on Kevin's commitment to continuous learning?,skills.professional_development,Editorial.Personal
+What strategies does Kevin employ for ongoing skill development?,skills.professional_development,Editorial.Personal
+Describe Kevin's approach to staying updated with industry trends.,skills.professional_development,Editorial.Personal
+What programming languages is Kevin proficient in?,skills.programming_languages,Editorial.Personal
+Can you list the programming languages Kevin knows well?,skills.programming_languages,Editorial.Personal
+What languages does Kevin use in his work?,skills.programming_languages,Editorial.Personal
+Describe Kevin's proficiency in various programming languages.,skills.programming_languages,Editorial.Personal
+In which programming languages does Kevin excel?,skills.programming_languages,Editorial.Personal
+What frameworks and libraries is Kevin experienced in?,skills.frameworks_libraries,Editorial.Personal
+Can you list the frameworks and libraries Kevin has expertise in?,skills.frameworks_libraries,Editorial.Personal
+Describe Kevin's proficiency in various frameworks and libraries.,skills.frameworks_libraries,Editorial.Personal
+What frameworks and libraries does Kevin commonly use in his projects?,skills.frameworks_libraries,Editorial.Personal
+In which frameworks and libraries does Kevin demonstrate expertise?,skills.frameworks_libraries,Editorial.Personal
+Which databases is Kevin skilled in?,skills.databases,Editorial.Personal
+Can you list the databases Kevin is proficient with?,skills.databases,Editorial.Personal
+What databases does Kevin use in his work?,skills.databases,Editorial.Personal
+Describe Kevin's expertise in various databases.,skills.databases,Editorial.Personal
+In which databases does Kevin excel?,skills.databases,Editorial.Personal
+What development tools and platforms is Kevin experienced with?,skills.development_tools_platforms,Editorial.Personal
+Can you list the development tools and platforms Kevin uses?,skills.development_tools_platforms,Editorial.Personal
+Describe Kevin's experience with various development tools and platforms.,skills.development_tools_platforms,Editorial.Personal
+Which tools and platforms does Kevin commonly utilize in his projects?,skills.development_tools_platforms,Editorial.Personal
+In which tools and platforms does Kevin demonstrate expertise?,skills.development_tools_platforms,Editorial.Personal
+What CI/CD tools and practices does Kevin have experience with?,skills.ci_cd,Editorial.Personal
+Can you list the CI/CD tools Kevin is familiar with?,skills.ci_cd,Editorial.Personal
+Describe Kevin's experience with CI/CD processes.,skills.ci_cd,Editorial.Personal
+Which CI/CD tools does Kevin commonly use in his projects?,skills.ci_cd,Editorial.Personal
+In which CI/CD practices does Kevin demonstrate expertise?,skills.ci_cd,Editorial.Personal
+What testing and linting tools is Kevin proficient in?,skills.testing_linting,Editorial.Personal
+Can you list the testing and linting tools Kevin uses?,skills.testing_linting,Editorial.Personal
+Describe Kevin's proficiency in various testing and linting tools.,skills.testing_linting,Editorial.Personal
+Which testing and linting tools does Kevin commonly utilize?,skills.testing_linting,Editorial.Personal
+In which testing and linting tools does Kevin demonstrate expertise?,skills.testing_linting,Editorial.Personal
+What Azure services does Kevin have expertise in?,skills.cloud_platforms.azure,Editorial.Personal
+Can you list the Azure services Kevin is knowledgeable about?,skills.cloud_platforms.azure,Editorial.Personal
+Describe Kevin's expertise in various Azure services.,skills.cloud_platforms.azure,Editorial.Personal
+Which Azure services does Kevin commonly use?,skills.cloud_platforms.azure,Editorial.Personal
+In which Azure services does Kevin demonstrate expertise?,skills.cloud_platforms.azure,Editorial.Personal
+"In addition to Azure, what other cloud platforms does Kevin have experience with?",skills.cloud_platforms.other,Editorial.Personal
+Can you list the other cloud platforms Kevin is experienced in?,skills.cloud_platforms.other,Editorial.Personal
+Describe Kevin's experience with other cloud platforms besides Azure.,skills.cloud_platforms.other,Editorial.Personal
+Which other cloud platforms does Kevin commonly use?,skills.cloud_platforms.other,Editorial.Personal
+In which other cloud platforms does Kevin demonstrate expertise?,skills.cloud_platforms.other,Editorial.Personal
+What planning and design tools is Kevin proficient in?,skills.planning_design,Editorial.Personal
+Can you list the planning and design tools Kevin uses?,skills.planning_design,Editorial.Personal
+Describe Kevin's proficiency in various planning and design tools.,skills.planning_design,Editorial.Personal
+Which planning and design tools does Kevin commonly utilize?,skills.planning_design,Editorial.Personal
+In which planning and design tools does Kevin demonstrate expertise?,skills.planning_design,Editorial.Personal
+What certifications does Kevin hold related to Azure?,certifications.azure,Editorial.Personal
+Can you list Kevin's Azure-related certifications?,certifications.azure,Editorial.Personal
+Describe Kevin's certifications in Azure.,certifications.azure,Editorial.Personal
+Which Azure certifications has Kevin obtained?,certifications.azure,Editorial.Personal
+In which Azure certifications does Kevin hold expertise?,certifications.azure,Editorial.Personal
+What certifications has Kevin completed in deep learning?,certifications.deep_learning,Editorial.Personal
+Can you list Kevin's certifications in deep learning?,certifications.deep_learning,Editorial.Personal
+Describe Kevin's certifications related to deep learning.,certifications.deep_learning,Editorial.Personal
+Which deep learning certifications has Kevin obtained?,certifications.deep_learning,Editorial.Personal
+In which deep learning certifications does Kevin hold expertise?,certifications.deep_learning,Editorial.Personal
+Which program did Kevin complete at MIT?,certifications.mit,Editorial.Personal
+Can you list the program Kevin completed at MIT?,certifications.mit,Editorial.Personal
+Describe Kevin's completion of the New Space Economy program at MIT.,certifications.mit,Editorial.Personal
+What program did Kevin participate in at MIT?,certifications.mit,Editorial.Personal
+In which program at MIT does Kevin hold recognition?,certifications.mit,Editorial.Personal
+Where did Kevin gain advanced understanding of the space sector?,education.mit,Editorial.Personal
+Can you elaborate on Kevin's education in the space sector?,education.mit,Editorial.Personal
+Describe Kevin's advanced understanding of the space sector from MIT.,education.mit,Editorial.Personal
+What did Kevin study at MIT related to the space sector?,education.mit,Editorial.Personal
+In which program at MIT did Kevin gain expertise in the space sector?,education.mit,Editorial.Personal
+From which college did Kevin graduate?,education.tci_college,Editorial.Personal
+Can you list the college from which Kevin graduated?,education.tci_college,Editorial.Personal
+What achievements did Kevin earn at Wolves Summit 2021?,awards.recognition,Editorial.Personal
+Which awards did Kevin receive for his contributions to the Devoteam AI Academy?,awards.recognition,Editorial.Personal
+What recognitions has Kevin received?,awards.recognition,Editorial.Personal
+Which notable contests or awards did Kevin win?,awards.recognition,Editorial.Personal
+What involvement does Kevin have in promoting AI awareness?,interviews.participation,Editorial.Personal
+Where did Kevin participate as a speaker?,interviews.participation,Editorial.Personal
+What notable events has Kevin contribute to concerning AI education?,interviews.participation,Editorial.Personal
+How has Kevin been recognized in the field of artificial intelligence?,interviews.participation,Editorial.Personal
