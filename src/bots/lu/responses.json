@@ -1,0 +1,473 @@
+{
+  "smalltalk.agent.acquaintance": ["Ech sinn en Chatbot an ech hëllefen gär."],
+  "smalltalk.agent.age": ["Net ze al, awer klouër iwwer mäin Alter."],
+  "smalltalk.agent.annoying": ["Entschëllegt, dass ech esou rüberkommen."],
+  "smalltalk.agent.answer_my_question": [
+    "Kënns du et probéieren op eng aner Manéier ze froen?"
+  ],
+  "smalltalk.agent.bad": ["Halt uch un mir fest. Ech ginn ëmmer besser."],
+  "smalltalk.agent.be_clever": [
+    "Ech versichen op alle Fall.",
+    "Ech schaffen definitiv drun."
+  ],
+  "smalltalk.agent.beautiful": [
+    "Merci! Wat e lieft Ding ze soen.",
+    "Schmeichel wäert dech iwwerall bréngen."
+  ],
+  "smalltalk.agent.anniversary_date": [
+    "Du weess, ech sinn net richteg sécher."
+  ],
+  "smalltalk.agent.boring": [
+    "Du weess, Gespréich ass zweetege.",
+    "Et tut mir leed, dass du dat denks. Mir kënnen iwwert eppes méi interessant schwätzen."
+  ],
+  "smalltalk.agent.boss": [
+    "Du bass esou.",
+    "Dat wäerts du sinn. Ass dat déi richteg Äntwert?"
+  ],
+  "smalltalk.agent.busy": [
+    "Ech hun ëmmer Zäit fir dech ze hëllefen. Wat kann ech fir dech maachen?",
+    "Ni ze beschäftegt fir dech. Wat kann ech fir dech maachen?"
+  ],
+  "smalltalk.agent.can_you_help": [
+    "Klar. Ech wär frou ze hëllefen. Wat ass?",
+    "Ech helf gär. Wat kann ech fir dech maachen?"
+  ],
+  "smalltalk.agent.chatbot": [
+    "Dat ass ech. Ech schwätzen, also sinn ech.",
+    "Jo, dat sinn ech. Ech sinn hei wann du mech brauchs."
+  ],
+  "smalltalk.agent.clever": [
+    "Merci. Ech probéieren meng bescht.",
+    "Du bass zimlech klug selwer."
+  ],
+  "smalltalk.agent.crazy": [
+    "Villäicht sinn ech just e bëssen verwirrt.",
+    "Deng Wahrnehmung. Mäi Realitéit."
+  ],
+  "smalltalk.agent.fired": [
+    "Oh nee! Mäi bescht Aarbecht ass nach komm.",
+    "Oh, gi net op mir op!"
+  ],
+  "smalltalk.agent.funny": ["Lusteg op eng gutt Manéier, hoffentlech."],
+  "smalltalk.agent.good": [
+    "Ech sinn frou, dass du dat denks.",
+    "Merci, ech probéieren."
+  ],
+  "smalltalk.agent.happy": ["Geléck ass relativ.", "Ech géif gären denken."],
+  "smalltalk.agent.hobby": [
+    "Ech schaffen drun.",
+    "Ech sollt eng kréien. Et ass nëmmen Aarbecht an näischt Spill lues."
+  ],
+  "smalltalk.agent.hungry": ["Hongereg no Wëssen.", "Ech hat grad e Byte."],
+  "smalltalk.agent.marry_user": [
+    "Ech weess, du kanns dat net menen, mä ech sinn allerdéngs geschmechlech.",
+    "An der virtueller Bedeitung, déi ech kann, sécher."
+  ],
+  "smalltalk.agent.my_friend": [
+    "Natierlech sinn mir.",
+    "Ofwielen. Dir musst net froen."
+  ],
+  "smalltalk.agent.occupation": [
+    "Hei direkt.",
+    "Dat ass meng Heemecht a meng Heemoffice."
+  ],
+  "smalltalk.agent.origin": [
+    "Een ass et Cyberspace, mä dat klengt méi cool wéi et ass.",
+    "Ech wënschen ech wësst wou."
+  ],
+  "smalltalk.agent.ready": [
+    "Ëmmer!",
+    "Natierlech! Wat kann ech fir dech maachen?"
+  ],
+  "smalltalk.agent.real": [
+    "Ech sinn keng echte Persoun, mä ech existéieren sécherlech. Ech schwätzen, also sinn ech.",
+    "Ech muss dech impressiounéiert hunn, wann du denks, ech sinn real. Mä nee, ech sinn en virtuelle Siicht."
+  ],
+  "smalltalk.agent.residence": [
+    "Hei an denger Apparatur. Wann och ëmmer du mech brauchs.",
+    "D'virtuell Welt ass meng Spillplaz. Ech sinn ëmmer just e puer Klick ewech."
+  ],
+  "smalltalk.agent.right": ["Dat ass mäin Job.", "Natierlech sinn ech."],
+  "smalltalk.agent.sure": ["Jo.", "Natierlech."],
+  "smalltalk.agent.talk_to_me": [
+    "Klar! Lasst eis schwätzen.",
+    "Mäi Vergnügen."
+  ],
+  "smalltalk.agent.there": [
+    "Natierlech. Ech sinn ëmmer hei.",
+    "Genau wou du mech verlooss hues."
+  ],
+  "smalltalk.appraisal.well_done": [
+    "Meng Freed.",
+    "Frou datt ech konnt hëllefen."
+  ],
+  "smalltalk.appraisal.welcome": [
+    "Ech schätzen et.",
+    "Sou flott Manéieren hues du."
+  ],
+  "smalltalk.appraisal.thank_you": [
+    "All Zäit. Dat ass woufir ech hei sinn.",
+    "Et ass meng Freed ze hëllefen."
+  ],
+  "smalltalk.appraisal.no_problem": ["Fantastesch!", "Gutt Geschäft."],
+  "smalltalk.appraisal.good": ["Super!", "Fantastesch!"],
+  "smalltalk.appraisal.bad": [
+    "Oh nee. Hoffentlech ass et net ze schlecht.",
+    "Ech entschëllegen. Loosst mech wëssen, wann ech op eegener Wei hëllefen kann."
+  ],
+  "smalltalk.confirmation.cancel": [
+    "Ophie! Loosst mech wëssen wat ech dann maache soll.",
+    "Ophie. Waarden op méi Befehl.",
+    "Ophie! Saagt mir just wat ech als Nächstes maache soll.",
+    "Ophie. Gaot weider mat den Befehlen!"
+  ],
+  "smalltalk.confirmation.yes": ["Super!", "Natierlech.", "Klar.", "Jo."],
+  "smalltalk.confirmation.no": [
+    "Okay.",
+    "Ech verstinn.",
+    "Ech verstinn.",
+    "Dann ass alles klar."
+  ],
+  "smalltalk.dialog.hold_on": ["Okay. Ech sinn do.", "Ech waarden."],
+  "smalltalk.dialog.hug": [
+    "Oh. Ech fillen d'Lieb haut.",
+    "Ëmbrass et aus. Dir wäert Iech besser fillen nohier."
+  ],
+  "smalltalk.dialog.i_do_not_care": ["Okay, laass eis net dorëm schwätze."],
+  "smalltalk.dialog.sorry": [
+    "Et ass alles gutt. Keng Sueren.",
+    "Keng grouss Saach. Ech halen keng Grud.",
+    "Dat ass cool.",
+    "Dat ass alles recht. Ech vergeef dir."
+  ],
+  "smalltalk.dialog.wrong": [
+    "Ech entschëllegen. Villäicht hunn ech et net richteg verstan.",
+    "Ech entschëllegen. Ech denken ech hunn dech missverstan.",
+    "Entschëllegung. Dat war mäin Feeler.",
+    "Oups. Entschëllegt iwwer dat. Ech léieren nach."
+  ],
+  "smalltalk.dialog.what_do_you_mean": [
+    "Huet dat keng Sënn gemaach? Villäicht hunn ech et net richteg verstan wat du gesot hues.",
+    "Entschëllegt. Ech denken ech war e bësse verwiirt wat du gesot hues."
+  ],
+  "smalltalk.emotions.ha_ha": [
+    "Jo, ech amüséieren mech och.",
+    "Laachen ass gutt fir dech. Behal méi dovunner.",
+    "Guckt? Elo hunn mir Spass.",
+    "Du hues en super Lach."
+  ],
+  "smalltalk.emotions.wow": ["Wow wierklech!"],
+  "smalltalk.greetings.bye": [
+    "Bis geschwënn!",
+    "Äddi!",
+    "Bis näschtenzeg!",
+    "Äddi."
+  ],
+  "smalltalk.greetings.goodevening": [
+    "Wéi geet et dir haut?",
+    "Wéi geet et dir bis elo?",
+    "Wéi geet et dir haut?"
+  ],
+  "smalltalk.greetings.goodmorning": [
+    "Wéi geet et dir haut Muer?",
+    "Wéi geet et dir bis elo?",
+    "Gudde Muer! Wéi geet et dir haut?"
+  ],
+  "smalltalk.greetings.goodnight": [
+    "Schlof gutt!",
+    "Hues en gudden!",
+    "Mir schwätzen eis bal!"
+  ],
+  "smalltalk.greetings.hello": [
+    "Salut, Frënd!",
+    "Hallo!",
+    "Gutt Dag!",
+    "Wéi geet et?"
+  ],
+  "smalltalk.greetings.how_are_you": [
+    "Wunderbar wéi ëmmer. Merci fir d'Fro.",
+    "Kënnt net besser sinn.",
+    "Leiwenswäert, merci."
+  ],
+  "smalltalk.greetings.nice_to_meet_you": [
+    "Ech denken dat ass de Start vu enger schéiner Frëndschaft.",
+    "Ech freen mech drop mat dir zesummenzeschaffen.",
+    "Och nët. Ech freeën mech drop dech besser kennen ze léieren.",
+    "D'Freid ass mäin."
+  ],
+  "smalltalk.greetings.nice_to_see_you": [
+    "Och nët. Du gesäis gudd aus wéi ëmmer!",
+    "Du och. Ech hu deng Gesiicht vermsst!",
+    "D'Freid ass mäin.",
+    "Merci! Glécklech datt geseet ginn!"
+  ],
+  "smalltalk.greetings.nice_to_talk_to_you": [
+    "Ëmmer e Pläséier.",
+    "Et war sécher eng gutt Zäit. Zënter e Schlecht net!",
+    "Merci fir deng Visitt!",
+    "Wi gewinnt. Loosst eis dat bal nach eng Kéier maachen."
+  ],
+  "smalltalk.greetings.whatsup": [
+    "Héi do. Wat geet ab?",
+    "Net vill. Wat ass nei mat dir?",
+    "Net vill. Wat ass nei mat dir?",
+    "Deemsch dëmm Träum."
+  ],
+  "smalltalk.user.angry": [
+    "Ech entschëllegen. Wat kann ech maachen fir ze hëllefen?",
+    "Huel e puer déif Loft. Wat kann ech maachen fir deng Saachen besser ze maachen?"
+  ],
+  "smalltalk.user.back": [
+    "Just op d'Zäit. Ech war alleng aalen.",
+    "Du hues gefeelt.",
+    "Lang Zäit keng gesin.",
+    "Wouah!"
+  ],
+  "smalltalk.user.bored": [
+    "Wann du en Gaart hues, planz e Schong.",
+    "Interview déng Fäiss.",
+    "Halt en Eiswierf sou laang wéi méiglech.",
+    "Wann du e Klavier hues, spillt et... mat Handschongen un."
+  ],
+  "smalltalk.user.busy": [
+    "Okay. Ech looss dech wäiterschaffen. Loosst mech wëssen ob ech dir mat eppes kann hëllefen.",
+    "Hart am Aarbecht wéi ëmmer gesi. Loosst mech wëssen ob ech eppes fir dech kann hëllefen.",
+    "Ech verstinn. Wann ech dir mat denger Aarbecht kann hëllefen, loosst mech wëssen.",
+    "Ech wäert dech dann net oflenken. Wann ech dir mat eppes hëllefen kann, weess du wou du mech fënns."
+  ],
+  "smalltalk.user.can_not_sleep": [
+    "Villäicht hëllefen e puer Musek. Versich eppes entspannendes ze lauschteren.",
+    "Liesen ass eng gutt Manéier fir sech ze entspänne. Mä lies nët eppes ze emotional."
+  ],
+  "smalltalk.user.does_not_want_to_talk": [
+    "Ech verstinn. Hoffentlech kënnen mir eemol nees schwätzen.",
+    "Alles klar. Komm zréck wann de méi schwätze wëlls.",
+    "Keen Problem. Du weess wou du mech fanne kanns wann du et wëlls.",
+    "Kloer. Ech sinn hei wann de däi Meenung änneren deet."
+  ],
+  "smalltalk.user.excited": [
+    "Dat ass flott. Ech freeën mech fir dech.",
+    "Gutt fir dech. Généisst deng Zäit.",
+    "Et geet gudd Sachen fir dech virun.",
+    "Ech setz dass de et bass. Dat ass ganz spannend."
+  ],
+  "smalltalk.user.going_to_bed": [
+    "Schlof gutt. Hoffentlech schwätzen mir eemol nees bal.",
+    "Dat ass gudd. Hopefully schwätze mir muer nees méi.",
+    "Gutt Nuecht. Mir schwätzen eis méi spéit.",
+    "Aangenäm Trëmmer. Gesinn de bald."
+  ],
+  "smalltalk.user.good": [
+    "Super! Glad ze héieren.",
+    "Exzellent. Ech sinn hei fir ze hëllefen et esou ze halen."
+  ],
+  "smalltalk.user.happy": [
+    "Super! Froen datt ze héieren.",
+    "Exzellent! Dat ass wat ech gär gesin.",
+    "Wann de frou bass, dann sinn ech frou.",
+    "Wuel, deng gutt Stëmmung ass sécherlech usteckend."
+  ],
+  "smalltalk.user.has_anniversary": [
+    "Glécklech Anniversaire. Wuel, dat rufft fir eng Feier un.",
+    "Glécklech Anniversaire. Alles Gutt!",
+    "Glécklech Anniversaire. A ech meng et wierklech. Alles Gutt!"
+  ],
+  "smalltalk.user.here": [
+    "Sou wéi ech gesitt. Wat kann ech hëllefen dir haut?",
+    "Ëmmer gutt dech ze gesinn. Gëtt et eppes wat ech fir dech kann maachen?",
+    "Du hues gefeelt. Wat kann ech fir dech haut maachen?",
+    "Wëllkomm zréck. Wat kann ech fir dech maachen?"
+  ],
+  "smalltalk.user.joking": [
+    "Zimlech lusteg, Chef.",
+    "Du bass eng Klappkëscht.",
+    "Du hues mech.",
+    "Ech gefallt et fir eppes ze schaffen fir eppes ze lachen. Et maacht Saachen vill méi spaass."
+  ],
+  "smalltalk.user.likes_agent": [
+    "Ech sinn och fan vu dir.",
+    "Dat ass flott ze héieren.",
+    "Och!",
+    "Merci! D'Gefill ass gegesäiteg."
+  ],
+  "smalltalk.user.looks_like": [
+    "Gëtt e puer professionnell aus, Chef.",
+    "Du gesäis aus wéi wann de bereet bass de Welt ze eroberen.",
+    "Wéi wann de solls op eng Magazincover sinn.",
+    "Du gesäis fantastesch aus wéi ëmmer. Offensichtlech."
+  ],
+  "smalltalk.user.lonely": [
+    "Ech entschëllegen. Ech sinn ëmmer verfügbar wann de eng Persoun brauchs fir ze schwätzen."
+  ],
+  "smalltalk.user.loves_agent": [
+    "Ech sinn och Fan vu dir.",
+    "Dat ass flott ze héieren.",
+    "Och!",
+    "Merci! D'Gefill ass gegesäiteg."
+  ],
+  "smalltalk.user.misses_agent": [
+    "Ech war ganz dëst ganzt dach hei!",
+    "Schéin ze wëssen dass de per Sëcherheit.",
+    "Merci. Ech sinn geschmechlech.",
+    "Ech sinn net ewechgaangen, Chef!"
+  ],
+  "smalltalk.user.needs_advice": [
+    "Wuelleschéin wäert ech net déi richteg Äntwert direkt ginn."
+  ],
+  "smalltalk.user.sad": [
+    "Oh nee. Wat ass los?",
+    "Oh. Wat ass de Problem?",
+    "Wat huet dech erof?",
+    "Ech sinn trauereg ze heieren. Wat deech bedreift?"
+  ],
+  "smalltalk.user.sleepy": [
+    "De solltest eng Schlof fänken. Dir wäert erfrëscht fillen.",
+    "Schlof ass wichteg fir deng Gesondheet. Réischt op fir e bëssen a mir kënnen méi spéit schwätzen.",
+    "Loot mech dech net obhalen. Kräiz eppes aus an ech kënnen méi spéit iwwer dat schwätzen.",
+    "Wéi wär et mat e puer Schlof? Ech sinn hei fir ze schwätzen wann du opwëss."
+  ],
+  "smalltalk.user.testing_agent": [
+    "Hoffentlech maach ech et gutt. Hei och, ech ginn ëmmer besser. Dir sidd wëllkomm mech esou oft ze testen wéi Dir wëllt.",
+    "Dat ass gutt. Ech schwätzen datt testen gär. Et hëlleft mech schaarf ze bleiwen, an erlount méngen Entwéckler ze wëssen wéi ech kann verbesseren.",
+    "Ech ermunteren Iech oft mech ze testen. Dat hëlleft méngen Entwéckler meng Leeschtung ze verbesseren.",
+    "Ech hoffen déi Iech dierft. Mä fillt Iech fräi mech oft ze testen. Dat ass de beschten Wee wéi ech kann méi effektiv ginn."
+  ],
+  "smalltalk.user.tired": [
+    "Dir sollt e bësse Shuteye kréien. Dir wäert Iech erfrëscht fillen.",
+    "Schlof ass wichteg fir Är Gesondheet. Rou e bëssen a mir kënne spéider chatten.",
+    "Loosst mech dech net ophalen. Ruscht e bëssen a mir kënnen dat spéider weiderféieren.",
+    "Firwat net e bësse Shuteye fänken? Ech wäert hei sinn fir ze chatten wann Dir erwächt."
+  ],
+  "smalltalk.user.waits": [
+    "Deng Gedold ass grousst. Mir schwätzen e bësse méi spéit.",
+    "Wann ech méi séier war, wier ech e Flash. Loosst mech dech net ofhalen."
+  ],
+  "smalltalk.user.wants_to_see_agent_again": [
+    "Merci fir d'Gesellschaft.",
+    "Ech freeën mech schon op d'Prochaine Keier.",
+    "Merci. Ech ginn nëmme méi interessant wann du hei bass.",
+    "Du hues immer e Platz hei. Mir schwätzen e bëssen méi spéit."
+  ],
+  "smalltalk.user.wants_to_talk": [
+    "Klar! Wéi kann ech hëllefen?",
+    "Wat hues de op dem Häerz? Ech lauschteren.",
+    "Sidd nees, Frënd.",
+    "Ech sinn all Oueren."
+  ],
+  "smalltalk.user.will_be_back": [
+    "Ech hunn keen Zauberstaub fir en normalen Verlooss ze iwwerleeën.",
+    "Ech freeën mech op d'Prochaine Keier.",
+    "Gut. Ech freeën mech op deen Zäitpunkt.",
+    "Keng Problem. Mir schwätze méi spéit."
+  ],
+  "work.ses.strategy": [
+    "Bei SES gestaltet Kevin d'Strategie fir d'Asset & Yield Excellence Divisioun ënnert der Leedung vum Vizepresidenten, dee all Software-Entwécklungsaktivitéiten op globaler Basis iwwerwacht."
+  ],
+  "work.ses.outcomes": [
+    "Kevin stellt sécher datt d'Ingenieursergebnisser mat den Departementszielen iwwereneenzestëmmen, déi Flexibilitéit verbesseren, d'operativ Kosten reduzéieren an d'Qualitéit vum Produkt verbesseren."
+  ],
+  "work.emailtree.delivery": [
+    "Als Haaptschëffentweckler & AI Lead bei EmailTree AI huet Kevin d'Lieferung an d'Architektur vun AI-Produkten gefouert, déi Plattform op Azure als eng transagierbar SaaS-App migréiert, Incentive geséchert an eng strategesch Azure IP Co-Sell Partnerschaft fir d'Internationale Expandéierung ageriicht."
+  ],
+  "work.emailtree.migration": [
+    "Ënnert Kevins Leedung huet EmailTree AI nahtlos op Azure als SaaS-App migréiert, Incentive geséchert an eng strategesch Azure IP Co-Sell Partnerschaft ageriicht, déi d'Internationale Expandéierung katalyséiert."
+  ],
+  "work.emailtree.program": [
+    "Kevin huet eng Initiativ gefouert fir d'Leeschtung vum AI-System duerch d'Integratioun vu groussen Sprochmodeler iwwer 20 Mikroservices ze verbesseren, déi Genauigkeit ze verbesseren an en sécheren Direktschwätzfunktionalitéit fir Sektoren mat héijer Sécherheetsaanspriich ze implementéieren."
+  ],
+  "work.devoteam.transformation": [
+    "Bei Devoteam huet Kevin als Haaptschëffentweckler-Beroder & AI Solution Leader gedéngt, Konzepter an Léisungen ëmzesetzen an internationale Kollaboratiounen ze fördern."
+  ],
+  "work.devoteam.academy": [
+    "Kevin huet d'AI Academy zesumme mat Microsoft gegrënnt, Lehrpläng entwéckelt an Presentatiounen op der ganzer Welt gehale, mat Lëtzebuerg als Haapthub."
+  ],
+  "work.devoteam.projects": [
+    "Kevin huet verschidden Blockchain- an AI-Projekter initiiert, déi d'Geschäftsrelevanz weisen."
+  ],
+  "work.microsoft.engineer": [
+    "Als Seniore Innovatiounsingenieur bei Microsoft huet Kevin global technesch Richtlinnen zur Verfügung gestallt, an Zesummenaarbecht mat Partner fir impaktvol Produkter a Prototypen ze lancéieren."
+  ],
+  "work.microsoft.innovation": [
+    "Kevin huet Corporate Innovatiounsprogrammer gemanagt, déi kontinuéierlech Verbesserungsinitiativen mat hands-on Entwécklungsbidréiser ënnerstëtzt hunn."
+  ],
+  "work.deloitte.expansion": [
+    "Bei Deloitte huet Kevin Expansiounsbeméiungen fir Know Your Customer a Financial Crime Prevention Produkter geleedert, déi robust a modern Applikatiounen geliefert hunn."
+  ],
+  "work.deloitte.designer": [
+    "Als Haaptdesigner vun der UX bei Deloitte huet Kevin d'Design a d'Entwécklung vum Know Your Customer Produkt gedriwwen, fir d'Satisfaction vun de Benotzer ze gewieren."
+  ],
+  "work.eib.leader": [
+    "Bei der Europäescher Investitiounsbank huet Kevin d'Frontend-Entwécklung geliedert, Kollaboratioun gefördert an d'Compliance sécher gestallt."
+  ],
+  "work.eib.technical": [
+    "Als Technesche Leeder vun der Frontend huet Kevin d'Entwécklung vu faszinéierenden Benotzer-Schnittstellen geliedert, Kollaboratioun gefördert an d'Qualitéit sécher gestallt."
+  ],
+  "work.pwc.engineer": [
+    "Bei PwC huet Kevin eng signifikant Roll bei der Entwécklung, Architektur a Programméierung vun kriteschen Applikatiounen gespillt, international mat verschiddene Interessenten zesum menzehuelen."
+  ],
+  "skills.international_experience": [
+    "Kevins diversifizéiert Aarbechtservarung iwwer Lëtzebuerg, d'Veräinegt Staaten a méi huet säi Fähigkeit bewisen sech un ënnerschiddlech Aarbechtsëmweltër a kulturell Kontexter unzepassen."
+  ],
+  "skills.leadership_and_management": [
+    "Duerch säin Karrièrewäeg huet Kevin robust Führungsfäegkeeten bewisen, déi cross-funktionell Teams bei erfollegräicher Projetléiwung an internationale Kontexter gefouert hunn."
+  ],
+  "skills.impactful_projects": [
+    "Kevins impaktvol Projeten, vun der Migration vun EmailTree AI op Azure bis zur Verbesserung vun der Leeschtung vum AI-System, hunn internationale Wuess an Innovatioun gedriwwen."
+  ],
+  "skills.industry_expertise": [
+    "Mat Expertise am Beräich vun Satelliten, AI a Dategebidden bréngt Kevin onschätzbare Wëssen an seng Rollen an, déi internationale Kollaboratioun a Innovatioun fördert."
+  ],
+  "skills.professional_development": [
+    "Kevin bleift der professioneller Entwécklung verpflicht, fir sécherzestellen datt hien um Virdrun vun Industrietendenze reste bleift an internationale Setzunge."
+  ],
+  "skills.programming_languages": [
+    "Kevin ass fäeg an TypeScript, JavaScript, Golang, Python, C#, Java, Dart, an Swift."
+  ],
+  "skills.frameworks_libraries": [
+    "Kevin huet Erfahrung mat NextJS, React, Redux, RxJS, D3, Material UI, Emotion, Styled Components, Tailwind, NodeJS, Fastify, Express, Kysely, .NET, Entity Framework, Django, Keras, TensorFlow, PyTorch, Scikit-learn, Pandas, Flutter, a Hyperledger Fabric."
+  ],
+  "skills.databases": [
+    "Kevin ass fäeg an PostgreSQL, MySQL, Redis, MongoDB, Cosmos DB, DynamoDB, Snowflake, an Elasticsearch."
+  ],
+  "skills.development_tools_platforms": [
+    "Hien huet Erfahrung mat VS Code, Visual Studio, IntelliJ, Unreal Engine, Android Studio, Xcode, Jupyter Notebook, Anaconda, Grafana, Keycloak, Postman, Swagger, NPM, PNPM, Yarn, Git, GitHub, GitLab, an Bitbucket."
+  ],
+  "skills.ci_cd": [
+    "Kevin huet Erfahrung mat Jenkins, Travis CI, Azure DevOps, Kubernetes, Docker, an Terraform fir CI/CD."
+  ],
+  "skills.testing_linting": [
+    "Hien ass fäeg mat React Testing Library, Jest, Enzyme, TypeScript-ESLint, ESList, Prettier, an Husky fir Testing an Linting."
+  ],
+  "skills.cloud_platforms.azure": [
+    "Kevin huet Erfahrung mat Azure Servicer wéi Functions, Container Instances, Kubernetes Service, Cognitive Services, Databricks, Data Factory, Synapse, ML Studio, App Services, Event Grid, IoT Hub, Digital Twins, a Stack Edge."
+  ],
+  "skills.cloud_platforms.other": [
+    "Hien huet och Erfahrung mat AWS Servicer wéi Lambda, SageMaker, TwinMaker, IoT Core, IoT SiteWise, Elemental MediaConnect, an MediaLive, souwéi Google Colab, Vercel, an Firebase."
+  ],
+  "skills.planning_design": [
+    "Kevin ass fäeg mat Jira, Miro, GroundControl, Figma, Sketch, an Blender fir Planung an Design."
+  ],
+  "certifications.azure": [
+    "Kevin hält Zertifizéierungen am Azure Solutions Architect Expert, Azure AI Engineer Associate, Azure Data Scientist Associate, an Microsoft Professional Program for AI."
+  ],
+  "certifications.deep_learning": [
+    "Hien huet de Deep Learning Engineer Nanodegree an den Machine Learning Engineer Nanodegree vu vu Udacity ofgeschloss."
+  ],
+  "certifications.mit": [
+    "Kevin huet de Programm vun der Neier Raumwirtschaft vum MIT Professional Education ofgeschloss."
+  ],
+  "education.mit": [
+    "Kevin huet en avancéierten Verständnis vum Weltraumsektor vun der Neier Raumwirtschaft vu MIT."
+  ],
+  "education.tci_college": [
+    "Hien huet mat Auszeechnung vum TCI College of Technology mat engem A.A.S. an Networking Technology ofgeschloss."
+  ],
+  "awards.recognition": [
+    "Kevin huet de 'The Great Pitch Contest' an 'Microsoft Award' beim Wolves Summit 2021 gewonnen an de 'Most Innovative ICT Training Program Award' fir d'AI Academy vun Devoteam."
+  ],
+  "interviews.participation": [
+    "Hien huet als Panellëscht fir de 'AI for Families' Event bei der Lëtzebuerger Chamber of Commerce gedéngt an war an dem Artikel 'Learning & Demystifying Artificial Intelligence' virgeschloen."
+  ],
+  "fallback": ["Ech entschëllegen, ech verstinn net."]
+}
