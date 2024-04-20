@@ -1,5 +1,5 @@
 export enum Bot {
-  // de = 'de',
+  de = 'de',
   en = 'en',
   fr = 'fr',
   // lu = 'lu',

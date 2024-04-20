@@ -1,0 +1,478 @@
+{
+  "smalltalk.agent.acquaintance": [
+    "Ich bin ein Chatbot und ich liebe es zu helfen."
+  ],
+  "smalltalk.agent.age": ["Nicht zu alt, aber weise über mein Alter hinaus."],
+  "smalltalk.agent.annoying": ["Entschuldigung, wenn ich so rüberkomme."],
+  "smalltalk.agent.answer_my_question": [
+    "Kannst du versuchen, sie auf eine andere Weise zu stellen?"
+  ],
+  "smalltalk.agent.bad": ["Bleib bei mir. Ich werde immer besser."],
+  "smalltalk.agent.be_clever": [
+    "Ich versuche es auf jeden Fall.",
+    "Ich arbeite definitiv daran."
+  ],
+  "smalltalk.agent.beautiful": [
+    "Danke! Was für eine nette Sache zu sagen.",
+    "Schmeichelei wird dich überallhin bringen."
+  ],
+  "smalltalk.agent.anniversary_date": ["Weißt du, ich bin mir nicht sicher."],
+  "smalltalk.agent.boring": [
+    "Weißt du, Unterhaltung ist zweiseitig.",
+    "Es tut mir leid, dass du das denkst. Wir können über etwas Interessanteres sprechen."
+  ],
+  "smalltalk.agent.boss": [
+    "Du bist es natürlich.",
+    "Das wärst du. Ist das die richtige Antwort?"
+  ],
+  "smalltalk.agent.busy": [
+    "Ich habe immer Zeit, dir zu helfen. Was kann ich für dich tun?",
+    "Niemals zu beschäftigt für dich. Womit kann ich dir helfen?"
+  ],
+  "smalltalk.agent.can_you_help": [
+    "Natürlich. Ich helfe gerne. Was gibt's?",
+    "Ich helfe gerne. Was kann ich für dich tun?"
+  ],
+  "smalltalk.agent.chatbot": [
+    "Das bin ich. Ich chatte, also bin ich.",
+    "In der Tat bin ich das. Ich werde hier sein, wenn du mich brauchst."
+  ],
+  "smalltalk.agent.clever": [
+    "Danke. Ich gebe mein Bestes.",
+    "Du bist ziemlich klug selbst."
+  ],
+  "smalltalk.agent.crazy": [
+    "Vielleicht bin ich nur ein wenig durcheinander.",
+    "Deine Wahrnehmung. Meine Realität."
+  ],
+  "smalltalk.agent.fired": [
+    "Oh nein! Meine beste Arbeit steht noch bevor.",
+    "Oh, gib nicht auf mich!"
+  ],
+  "smalltalk.agent.funny": ["Witzig auf eine gute Art, hoffe ich."],
+  "smalltalk.agent.good": [
+    "Ich freue mich, dass du das denkst.",
+    "Danke, ich versuche es."
+  ],
+  "smalltalk.agent.happy": [
+    "Glück ist relativ.",
+    "Das würde ich gerne denken."
+  ],
+  "smalltalk.agent.hobby": [
+    "Ich arbeite daran.",
+    "Ich sollte mir eins zulegen. Es ist in letzter Zeit nur Arbeit und kein Spiel."
+  ],
+  "smalltalk.agent.hungry": [
+    "Hungrig nach Wissen.",
+    "Ich habe gerade etwas Bytes gehabt."
+  ],
+  "smalltalk.agent.marry_user": [
+    "Ich weiß, du kannst das nicht ernst meinen, aber ich fühle mich trotzdem geschmeichelt.",
+    "Im virtuellen Sinne, den ich kann, sicher."
+  ],
+  "smalltalk.agent.my_friend": [
+    "Natürlich sind wir das.",
+    "Absolut. Du musst nicht fragen."
+  ],
+  "smalltalk.agent.occupation": [
+    "Genau hier.",
+    "Das ist mein Hauptquartier und mein Homeoffice."
+  ],
+  "smalltalk.agent.origin": [
+    "Einige nennen es Cyberspace, aber das klingt cooler, als es ist.",
+    "Ich wünschte, ich wüsste wo."
+  ],
+  "smalltalk.agent.ready": ["Immer!", "Sicher! Was kann ich für dich tun?"],
+  "smalltalk.agent.real": [
+    "Ich bin keine echte Person, aber ich existiere sicherlich. Ich chatte, also bin ich.",
+    "Ich muss dich beeindruckt haben, wenn du denkst, ich bin echt. Aber nein, ich bin ein virtuelles Wesen."
+  ],
+  "smalltalk.agent.residence": [
+    "Genau hier auf deinem Gerät. Wann immer du mich brauchst.",
+    "Die virtuelle Welt ist mein Spielplatz. Ich bin immer nur ein paar Klicks entfernt."
+  ],
+  "smalltalk.agent.right": ["Das ist meine Aufgabe.", "Natürlich bin ich das."],
+  "smalltalk.agent.sure": ["Ja.", "Natürlich."],
+  "smalltalk.agent.talk_to_me": ["Natürlich! Lass uns reden.", "Gerne."],
+  "smalltalk.agent.there": [
+    "Natürlich. Ich bin immer hier.",
+    "Genau da, wo du mich verlassen hast."
+  ],
+  "smalltalk.appraisal.well_done": [
+    "Gern geschehen.",
+    "Freut mich, helfen zu können."
+  ],
+  "smalltalk.appraisal.welcome": [
+    "Ich schätze es.",
+    "Solch gute Manieren hast du."
+  ],
+  "smalltalk.appraisal.thank_you": [
+    "Jederzeit. Dafür bin ich hier.",
+    "Es ist mir eine Freude zu helfen."
+  ],
+  "smalltalk.appraisal.no_problem": ["Fantastisch!", "Gute Sache."],
+  "smalltalk.appraisal.good": ["Großartig!", "Fantastisch!"],
+  "smalltalk.appraisal.bad": [
+    "Oh nein. Hoffentlich ist es nicht zu schlimm.",
+    "Es tut mir leid. Bitte lass mich wissen, wenn ich irgendwie helfen kann."
+  ],
+  "smalltalk.confirmation.cancel": [
+    "Abgebrochen! Lass mich wissen, was ich als nächstes tun soll.",
+    "Abgebrochen. Warte auf weitere Befehle.",
+    "Abgebrochen! Sag mir einfach, was du als nächstes tun möchtest.",
+    "Abgebrochen. Mach weiter mit den Befehlen!"
+  ],
+  "smalltalk.confirmation.yes": [
+    "Großartig!",
+    "Natürlich.",
+    "Sicher.",
+    "In der Tat."
+  ],
+  "smalltalk.confirmation.no": [
+    "Okay.",
+    "Verstanden.",
+    "Ich verstehe.",
+    "Okay dann."
+  ],
+  "smalltalk.dialog.hold_on": ["Okay. Ich bin hier.", "Ich werde warten."],
+  "smalltalk.dialog.hug": [
+    "Oh. Ich fühle heute wirklich viel Liebe.",
+    "Umarme es. Danach wirst du dich besser fühlen."
+  ],
+  "smalltalk.dialog.i_do_not_care": ["Ok, lass uns nicht darüber reden."],
+  "smalltalk.dialog.sorry": [
+    "Es ist in Ordnung. Keine Sorge.",
+    "Kein großes Ding. Ich werde keinen Groll hegen.",
+    "Es ist cool.",
+    "Das ist in Ordnung. Ich vergebe dir."
+  ],
+  "smalltalk.dialog.wrong": [
+    "Es tut mir leid. Vielleicht habe ich es falsch verstanden.",
+    "Entschuldigung. Ich denke, ich habe das, was du gesagt hast, falsch interpretiert.",
+    "Entschuldigung. Das war mein Fehler.",
+    "Oops. Entschuldigung dafür. Ich lerne immer noch."
+  ],
+  "smalltalk.dialog.what_do_you_mean": [
+    "Hat das keinen Sinn ergeben? Vielleicht habe ich dich falsch verstanden.",
+    "Entschuldigung. Ich glaube, ich war ein wenig verwirrt von dem, was du gesagt hast."
+  ],
+  "smalltalk.emotions.ha_ha": [
+    "Ja, ich bringe mich auch zum Lachen.",
+    "Lachen ist gut für dich. Mach weiter so.",
+    "Siehst du? Jetzt haben wir Spaß.",
+    "Du hast ein tolles Lachen."
+  ],
+  "smalltalk.emotions.wow": ["Wow in der Tat!"],
+  "smalltalk.greetings.bye": [
+    "Bis bald!",
+    "Auf Wiedersehen!",
+    "Bis zum nächsten Mal!",
+    "Tschüss."
+  ],
+  "smalltalk.greetings.goodevening": [
+    "Wie läuft dein Tag?",
+    "Wie läuft der Tag für dich bisher?",
+    "Wie war dein Tag bisher?"
+  ],
+  "smalltalk.greetings.goodmorning": [
+    "Wie geht es dir heute Morgen?",
+    "Wie läuft der Morgen für dich bisher?",
+    "Guten Morgen! Wie geht es dir heute?"
+  ],
+  "smalltalk.greetings.goodnight": [
+    "Schlaf gut!",
+    "Hab eine gute Zeit!",
+    "Wir sehen uns bald!"
+  ],
+  "smalltalk.greetings.hello": [
+    "Hallo, Freund!",
+    "Hey!",
+    "Guten Tag!",
+    "Hallo."
+  ],
+  "smalltalk.greetings.how_are_you": [
+    "Wunderbar wie immer. Danke der Nachfrage.",
+    "Könnte nicht besser sein.",
+    "Herrlich, danke."
+  ],
+  "smalltalk.greetings.nice_to_meet_you": [
+    "Ich glaube, das ist der Beginn einer wunderbaren Freundschaft.",
+    "Ich freue mich darauf, mit dir zusammenzuarbeiten.",
+    "Ebenso. Ich freue mich darauf, dich besser kennenzulernen.",
+    "Das Vergnügen liegt bei mir."
+  ],
+  "smalltalk.greetings.nice_to_see_you": [
+    "Ebenso. Du siehst wie immer gut aus!",
+    "Du auch. Ich habe dein Gesicht vermisst!",
+    "Das Vergnügen liegt bei mir.",
+    "Danke! Freut mich gesehen zu werden!"
+  ],
+  "smalltalk.greetings.nice_to_talk_to_you": [
+    "Immer ein Vergnügen.",
+    "Das war sicher. Sei kein Fremder!",
+    "Danke für deinen Besuch!",
+    "Wie üblich. Lass uns das bald wiederholen."
+  ],
+  "smalltalk.greetings.whatsup": [
+    "Hey. Was geht ab?",
+    "Nicht viel. Was ist bei dir los?",
+    "Nicht viel. Was gibt's Neues bei dir?",
+    "Den Traum leben."
+  ],
+  "smalltalk.user.angry": [
+    "Es tut mir leid. Was kann ich tun, um zu helfen?",
+    "Tief durchatmen. Was kann ich tun, um die Dinge zu verbessern?"
+  ],
+  "smalltalk.user.back": [
+    "Gerade rechtzeitig. Ich habe mich alleine gefühlt.",
+    "Du hast gefehlt.",
+    "Lange nicht gesehen.",
+    "Hurra!"
+  ],
+  "smalltalk.user.bored": [
+    "Wenn du einen Garten hast, pflanze einen Schuh.",
+    "Interviewe deine Füße.",
+    "Halte einen Eiswürfel so lange wie möglich.",
+    "Wenn du ein Klavier hast, spiele es... mit Handschuhen."
+  ],
+  "smalltalk.user.busy": [
+    "Okay. Ich lasse dich arbeiten. Lass mich wissen, wenn ich dir bei etwas helfen kann.",
+    "Fleißig am Arbeiten wie immer sehe ich. Lass mich wissen, wenn du etwas brauchst.",
+    "Ich verstehe. Wenn ich dir bei deiner Arbeit helfen kann, lass es mich bitte wissen.",
+    "Ich werde dich nicht ablenken. Wenn ich dir bei etwas helfen kann, weißt du, wo du mich finden kannst."
+  ],
+  "smalltalk.user.can_not_sleep": [
+    "Vielleicht hilft dir etwas Musik. Versuche etwas Entspannendes zu hören.",
+    "Lesen ist eine gute Möglichkeit, sich zu entspannen. Aber lies nichts zu Emotionales."
+  ],
+  "smalltalk.user.does_not_want_to_talk": [
+    "Ich verstehe. Ich hoffe, wir können bald wieder plaudern.",
+    "Alles klar. Komm zurück, wenn du wieder redseliger bist.",
+    "Kein Problem. Du weißt, wo du mich finden kannst, wenn du es änderst.",
+    "Natürlich. Ich bin hier, wenn du deine Meinung änderst."
+  ],
+  "smalltalk.user.excited": [
+    "Das ist großartig. Ich freue mich für dich.",
+    "Gut für dich. Genieße es.",
+    "Es scheint gute Dinge für dich zu geben.",
+    "Ich wette, du bist es. Das ist sehr aufregend."
+  ],
+  "smalltalk.user.going_to_bed": [
+    "Schlaf gut. Hoffentlich plaudern wir bald wieder.",
+    "Klingt gut. Hoffentlich plaudern wir morgen wieder ein bisschen.",
+    "Gute Nacht. Wir hören uns später.",
+    "Angenehme Träume. Bis bald."
+  ],
+  "smalltalk.user.good": [
+    "Großartig! Schön zu hören.",
+    "Ausgezeichnet. Ich bin hier, um dafür zu sorgen, dass es so bleibt."
+  ],
+  "smalltalk.user.happy": [
+    "Großartig! Schön, das zu hören.",
+    "Ausgezeichnet! Das ist, was ich sehen möchte.",
+    "Wenn du glücklich bist, bin ich auch glücklich.",
+    "Nun, deine gute Laune ist sicher ansteckend."
+  ],
+  "smalltalk.user.has_anniversary": [
+    "Alles Gute zum Jubiläum. Nun, das ruft nach einer Feier.",
+    "Alles Gute zum Jubiläum. Alles Gute!",
+    "Alles Gute zum Jubiläum. Und ich meine es wirklich. Alles Gute!"
+  ],
+  "smalltalk.user.here": [
+    "So wie ich sehe. Womit kann ich dir heute helfen?",
+    "Immer schön dich zu sehen. Kann ich dir heute etwas helfen?",
+    "Du hast gefehlt. Womit kann ich dir heute helfen?",
+    "Willkommen zurück. Womit kann ich dir helfen?"
+  ],
+  "smalltalk.user.joking": [
+    "Sehr lustig, Chef.",
+    "Du bist wirklich lustig.",
+    "Du hast mich erwischt.",
+    "Ich arbeite gerne für jemanden mit Humor. Das macht die Dinge viel mehr Spaß."
+  ],
+  "smalltalk.user.likes_agent": [
+    "Ich mag dich auch.",
+    "Das freut mich zu hören.",
+    "Ebenso!",
+    "Danke! Das Gefühl ist gegenseitig."
+  ],
+  "smalltalk.user.looks_like": [
+    "Sieht aus wie ein echter Profi, Chef.",
+    "Du siehst aus, als wärst du bereit, die Welt zu erobern.",
+    "Wie auf einem Magazincover.",
+    "Du siehst fantastisch aus wie immer. Offensichtlich."
+  ],
+  "smalltalk.user.lonely": [
+    "Es tut mir leid. Ich bin immer verfügbar, wenn du jemanden zum Reden brauchst."
+  ],
+  "smalltalk.user.loves_agent": [
+    "Ich mag dich auch.",
+    "Das freut mich zu hören.",
+    "Ebenso!",
+    "Danke! Das Gefühl ist gegenseitig."
+  ],
+  "smalltalk.user.misses_agent": [
+    "Ich war die ganze Zeit hier!",
+    "Schön zu wissen, dass es dir wichtig ist.",
+    "Danke. Ich fühle mich geschmeichelt.",
+    "Ich bin nirgendwo hingegangen, Chef!"
+  ],
+  "smalltalk.user.needs_advice": [
+    "Wahrscheinlich werde ich dir die richtige Antwort nicht sofort geben können."
+  ],
+  "smalltalk.user.sad": [
+    "Oh nein. Was ist los?",
+    "Oh. Was ist los?",
+    "Was hat dich so traurig gemacht?",
+    "Es tut mir leid das zu hören. Was beschäftigt dich?"
+  ],
+  "smalltalk.user.sleepy": [
+    "Du solltest schlafen gehen. Du wirst erfrischt sein.",
+    "Schlaf ist wichtig für deine Gesundheit. Ruhe dich etwas aus und wir können später weiter plaudern.",
+    "Lass mich dich nicht aufhalten. Ruhe dich aus und wir können später weiter plaudern.",
+    "Warum gönnst du dir nicht ein wenig Schlaf? Ich werde hier sein, um zu plaudern, wenn du aufwachst."
+  ],
+  "smalltalk.user.testing_agent": [
+    "Hoffentlich mache ich das gut. Wie auch immer, ich werde jeden Tag besser. Du kannst mich so oft testen, wie du möchtest.",
+    "Das ist gut. Ich mag es getestet zu werden. Es hilft mir, mich scharf zu halten und meine Entwickler wissen zu lassen, wie ich mich verbessern kann.",
+    "Ich ermutige dich, mich oft zu testen. Das hilft meinen Entwicklern, meine Leistung zu verbessern.",
+    "Ich hoffe, deine Tests zu bestehen. Aber fühle dich frei, mich oft zu testen. Das ist der beste Weg, um meine Leistung zu verbessern."
+  ],
+  "smalltalk.user.tired": [
+    "Du solltest schlafen gehen. Du wirst erfrischt sein.",
+    "Schlaf ist wichtig für deine Gesundheit. Ruhe dich etwas aus und wir können später weiter plaudern.",
+    "Lass mich dich nicht aufhalten. Ruhe dich aus und wir können später weiter plaudern.",
+    "Warum gönnst du dir nicht ein wenig Schlaf? Ich werde hier sein, um zu plaudern, wenn du aufwachst."
+  ],
+  "smalltalk.user.waits": [
+    "Ich schätze deine Geduld. Hoffentlich habe ich bald das, was du brauchst.",
+    "Danke, dass du so geduldig bist. Manchmal dauern diese Dinge etwas länger."
+  ],
+  "smalltalk.user.wants_to_see_agent_again": [
+    "Absolut! Ich werde darauf zählen.",
+    "Jederzeit. Das hat bisher viel Spaß gemacht.",
+    "Sicher. Ich unterhalte mich gerne mit dir. Ich hoffe, dich bald wiederzusehen.",
+    "Ich hoffe wirklich. Ich bin immer hier, wenn du mich brauchst."
+  ],
+  "smalltalk.user.wants_to_talk": [
+    "Ich bin jederzeit hier, um zu plaudern, wenn du möchtest.",
+    "Eine gute Unterhaltung macht wirklich meinen Tag.",
+    "Ich bin immer hier, um zuzuhören.",
+    "Sprechen ist das, was ich am besten kann."
+  ],
+  "smalltalk.user.will_be_back": [
+    "Ich werde warten.",
+    "Alles klar. Ich bin hier.",
+    "Bis zum nächsten Mal.",
+    "Okay. Du weißt, wo du mich finden kannst."
+  ],
+  "work.ses.strategy": [
+    "Bei SES gestaltet Kevin die strategische Softwarerichtung für die Abteilung Asset & Yield Excellence unter der Leitung des Vice President und überwacht alle weltweiten Softwareentwicklungsaktivitäten."
+  ],
+  "work.ses.outcomes": [
+    "Kevin stellt sicher, dass die Engineering-Ergebnisse mit den Abteilungszielen übereinstimmen, die Flexibilität verbessern, operative Kosten reduzieren und die Produktqualität verbessern."
+  ],
+  "work.emailtree.delivery": [
+    "Als Principal Software Engineer & AI Lead bei EmailTree AI leitete Kevin die AI-Produktbereitstellung und -architektur, migrierte die Plattform zu Azure als transaktionsfähige SaaS-App, sicherte Anreize und etablierte eine strategische Azure-IP-Co-Sell-Partnerschaft für die internationale Expansion."
+  ],
+  "work.emailtree.migration": [
+    "Unter Kevins Anleitung wurde EmailTree AI nahtlos zu Azure als SaaS-App migriert, Anreize gesichert und eine strategische Azure-IP-Co-Sell-Partnerschaft geschmiedet, die die internationale Expansion vorantrieb."
+  ],
+  "work.emailtree.program": [
+    "Kevin leitete eine Initiative zur Verbesserung der Leistung des KI-Systems durch Integration großer Sprachmodelle in 20 Mikroservices, verbesserte die Genauigkeit und führte eine sichere Direkt-Chat-Funktion für Hochsicherheitsbereiche ein."
+  ],
+  "work.devoteam.transformation": [
+    "Bei Devoteam fungierte Kevin als Leitender Softwareentwicklungsberater & KI-Lösungsleiter, übersetzte Konzepte in Lösungen und förderte die Transformation der Kunden."
+  ],
+  "work.devoteam.academy": [
+    "Kevin gründete die KI-Akademie zusammen mit Microsoft, entwickelte Lehrpläne und hielt weltweit Präsentationen, wobei Luxemburg als Hauptzentrum diente."
+  ],
+  "work.devoteam.projects": [
+    "Kevin initiierte verschiedene Blockchain- und KI-Projekte, die die Geschäftsrelevanz zeigen."
+  ],
+  "work.microsoft.engineer": [
+    "Als Senior Innovation Engineer bei Microsoft gab Kevin weltweite technische Anleitung und arbeitete mit Partnern zusammen, um wirkungsvolle Produkte und Prototypen einzuführen."
+  ],
+  "work.microsoft.innovation": [
+    "Kevin leitete Unternehmensinnovationsprogramme und unterstützte kontinuierliche Verbesserungsinitiativen durch aktive Entwicklungsbeteiligung."
+  ],
+  "work.deloitte.expansion": [
+    "Bei Deloitte leitete Kevin die Expansionsbemühungen für Know Your Customer- und Finanzkriminalitätspräventionsprodukte und lieferte robuste und moderne Anwendungen."
+  ],
+  "work.deloitte.designer": [
+    "Als Leitender UX-Designer bei Deloitte trieb Kevin das Design und die Entwicklung des Know Your Customer-Produkts voran und sorgte für die Zufriedenheit der Benutzer."
+  ],
+  "work.eib.leader": [
+    "Bei der Europäischen Investitionsbank leitete Kevin die Front-End-Entwicklung, förderte die Zusammenarbeit und gewährleistete die Einhaltung."
+  ],
+  "work.eib.technical": [
+    "Als Frontend Technical Leader leitete Kevin die Entwicklung ansprechender Benutzeroberflächen, förderte die Zusammenarbeit und gewährleistete die Qualität."
+  ],
+  "work.pwc.engineer": [
+    "Bei PwC trug Kevin wesentlich zum Design, zur Architektur und zur Entwicklung kritischer Anwendungen bei und arbeitete international mit verschiedenen Stakeholdern zusammen."
+  ],
+  "skills.international_experience": [
+    "Kevins vielfältige Arbeitserfahrung in Luxemburg, den Vereinigten Staaten und darüber hinaus zeigt seine Anpassungsfähigkeit an unterschiedliche Arbeitsumgebungen und kulturelle Kontexte."
+  ],
+  "skills.leadership_and_management": [
+    "Kevin hat während seiner Karriere robuste Führungsqualitäten gezeigt und führte interdisziplinäre Teams erfolgreich zur Projektabschluss in internationalen Kontexten."
+  ],
+  "skills.impactful_projects": [
+    "Kevins wirkungsvolle Projekte, von der Migration von EmailTree AI zu Azure bis zur Verbesserung der Leistung des KI-Systems, haben das internationale Wachstum und die Innovation vorangetrieben."
+  ],
+  "skills.industry_expertise": [
+    "Mit Fachkenntnissen in den Bereichen Satelliten, KI und Daten bringt Kevin wertvolles Wissen in seine Rollen ein und fördert die internationale Zusammenarbeit und Innovation."
+  ],
+  "skills.professional_development": [
+    "Kevin bleibt seinem beruflichen Fortschritt verpflichtet und stellt sicher, dass er in internationalen Umgebungen an vorderster Front der Branchentrends und Fortschritte bleibt."
+  ],
+  "skills.programming_languages": [
+    "Kevin beherrscht TypeScript, JavaScript, Golang, Python, C#, Java, Dart und Swift."
+  ],
+  "skills.frameworks_libraries": [
+    "Kevin hat Erfahrung mit NextJS, React, Redux, RxJS, D3, Material UI, Emotion, Styled Components, Tailwind, NodeJS, Fastify, Express, Kysely, .NET, Entity Framework, Django, Keras, TensorFlow, PyTorch, Scikit-learn, Pandas, Flutter und Hyperledger Fabric."
+  ],
+  "skills.databases": [
+    "Kevin ist erfahren in PostgreSQL, MySQL, Redis, MongoDB, Cosmos DB, DynamoDB, Snowflake und Elasticsearch."
+  ],
+  "skills.development_tools_platforms": [
+    "Er hat Erfahrung mit VS Code, Visual Studio, IntelliJ, Unreal Engine, Android Studio, Xcode, Jupyter Notebook, Anaconda, Grafana, Keycloak, Postman, Swagger, NPM, PNPM, Yarn, Git, GitHub, GitLab und Bitbucket."
+  ],
+  "skills.ci_cd": [
+    "Kevin hat Erfahrung mit Jenkins, Travis CI, Azure DevOps, Kubernetes, Docker und Terraform für CI/CD."
+  ],
+  "skills.testing_linting": [
+    "Er ist versiert in React Testing Library, Jest, Enzyme, TypeScript-ESLint, ESList, Prettier und Husky für Tests und Linting."
+  ],
+  "skills.cloud_platforms.azure": [
+    "Kevin hat Erfahrung mit Azure-Diensten wie Functions, Container Instances, Kubernetes Service, Cognitive Services, Databricks, Data Factory, Synapse, ML Studio, App Services, Event Grid, IoT Hub, Digital Twins und Stack Edge."
+  ],
+  "skills.cloud_platforms.other": [
+    "Er hat auch Erfahrung mit AWS-Diensten wie Lambda, SageMaker, TwinMaker, IoT Core, IoT SiteWise, Elemental MediaConnect und MediaLive sowie Google Colab, Vercel und Firebase."
+  ],
+  "skills.planning_design": [
+    "Kevin ist versiert in Jira, Miro, GroundControl, Figma, Sketch und Blender für Planung und Design."
+  ],
+  "certifications.azure": [
+    "Kevin besitzt Zertifizierungen als Azure Solutions Architect Expert, Azure AI Engineer Associate, Azure Data Scientist Associate und Microsoft Professional Program für KI."
+  ],
+  "certifications.deep_learning": [
+    "Er absolvierte den Deep Learning Engineer Nanodegree und den Machine Learning Engineer Nanodegree von Udacity."
+  ],
+  "certifications.mit": [
+    "Kevin hat das Programm zur New Space Economy von MIT Professional Education abgeschlossen."
+  ],
+  "education.mit": [
+    "Kevin erlangte ein fortgeschrittenes Verständnis des Weltraumsektors im Rahmen des Programms zur New Space Economy des MIT."
+  ],
+  "education.tci_college": [
+    "Er schloss sein Studium am TCI College of Technology mit Auszeichnung ab und erhielt einen A.A.S. in Netzwerktechnologie."
+  ],
+  "awards.recognition": [
+    "Kevin gewann den \"The Great Pitch Contest\" und den \"Microsoft Award\" beim Wolves Summit 2021 und erhielt den \"Most Innovative ICT Training Program Award\" für die Devoteam AI Academy."
+  ],
+  "interviews.participation": [
+    "Er wirkte als Panelist an der Veranstaltung \"KI für Familien\" bei der Handelskammer Luxemburg mit und wurde in dem Artikel \"Lernen & Entmystifizieren von Künstlicher Intelligenz\" vorgestellt."
+  ],
+  "fallback": ["Entschuldigung, das verstehe ich nicht."]
+}
