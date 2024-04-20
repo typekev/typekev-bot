@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "build": "tsc",
-    "start": "node --loader ts-node/esm server.ts",
+    "start": "node --loader ts-node/esm src/server/server.ts",
     "suggestions": "node --loader ts-node/esm src/utils/generateSuggestions.ts",
     "train": "node --loader ts-node/esm src/utils/train.ts"
   },
