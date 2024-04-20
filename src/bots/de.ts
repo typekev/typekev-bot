@@ -3,7 +3,7 @@ import { BayesClassifier } from 'natural';
 import classifier from './de/classifier.json';
 import responses from './de/responses.json';
 import { suggestions } from './de/suggestions.json';
-import { getBotReply } from '../utils/getBotReply';Ï
+import { getBotReply } from '../utils/getBotReply';
 import { getChatSuggestion } from '../utils/getChatSuggestion';
 
 export const de = {
