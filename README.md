@@ -4,13 +4,13 @@ The second iteration of my personal chatbot, based on [botframework-smalltalk](h
 
 ## Training the bot
 
-Run the `train` script to generate a `classifier.json` for each bot within the `src/bots` directory. Training is performed on each bot's associated `knowledgebase.tsv` file. Each bot corresponds to a single language, such as `en` or `fr`.
+Run the `train` script to generate a `classifier.json` for each bot within the `src/bots` directory. Training is performed on each bot's associated `knowledgebase.csv` file. Each bot corresponds to a single language, such as `en` or `fr`.
 
-To support more languages, create a new folder (it's name should correspond to the language the bot will support) in the `src/bots` directory, and add the new bot/language to the `Bot` enum in `types.ts`. Remember to include a `knowledgebase.tsv` file in the new bot/language folder before running the `train` script.
+To support more languages, create a new folder (it's name should correspond to the language the bot will support) in the `src/bots` directory, and add the new bot/language to the `Bot` enum in `types.ts`. Remember to include a `knowledgebase.csv` file in the new bot/language folder before running the `train` script.
 
-Before testing a bot, make sure the bot's corresponding `responses.json` file exists and that all the possible `Answer`'s found in the bot's associated `knowledgebase.tsv` file are also included as keys in `responses.json`. 
+Before testing a bot, make sure the bot's corresponding `responses.json` file exists and that all the possible `Answer`'s found in the bot's associated `knowledgebase.csv` file are also included as keys in `responses.json`. 
 
-`responses.json` is of type `Record<string, string[]>`. This allows for each bot to have multiple responses for each `Answer` in `knowledgebase.tsv`.
+`responses.json` is of type `Record<string, string[]>`. This allows for each bot to have multiple responses for each `Answer` in `knowledgebase.csv`.
 
 ## Testing the chatbot
 

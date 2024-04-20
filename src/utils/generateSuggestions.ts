@@ -5,7 +5,7 @@ import { Bot, KB, Source } from '../types';
 import { getInputFile } from './getInputFile';
 
 Object.values(Bot).forEach(bot => {
-  const parser = parse({ delimiter: '\t' }, (_, kb: KB) => {
+  const parser = parse({ encoding: 'utf-8' }, (_, kb: KB) => {
     const personalQuestions = kb
       .slice(1)
       .filter(([, , source]) => source === Source.Personal)
@@ -16,6 +16,7 @@ Object.values(Bot).forEach(bot => {
     writeFile(
       `src/bots/${bot}/suggestions.json`,
       JSON.stringify({ suggestions: personalQuestions }),
+      'utf-8',
       err =>
         err
           ? console.error(err)
@@ -25,5 +26,5 @@ Object.values(Bot).forEach(bot => {
     );
   });
 
-  createReadStream(getInputFile(bot)).pipe(parser);
+  createReadStream(getInputFile(bot), 'utf-8').pipe(parser);
 });

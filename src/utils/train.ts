@@ -8,7 +8,7 @@ import { getInputFile } from './getInputFile';
 const classifier = new BayesClassifier();
 
 Object.values(Bot).forEach(bot => {
-  const parser = parse({ delimiter: '\t' }, (_, kb: KB) => {
+  const parser = parse({ encoding: 'utf-8' }, (_, kb: KB) => {
     kb.slice(1).forEach(([question, answer]) => {
       classifier.addDocument(question, answer);
     });
@@ -25,5 +25,5 @@ Object.values(Bot).forEach(bot => {
     );
   });
 
-  createReadStream(getInputFile(bot)).pipe(parser);
+  createReadStream(getInputFile(bot), 'utf-8').pipe(parser);
 });
