@@ -1472,9 +1472,13 @@ Bin in 5 Minuten zurück,smalltalk.user.will_be_back,Editorial.SmallTalk
 Ich komme wieder,smalltalk.user.will_be_back,Editorial.SmallTalk
 "Ich verspreche, wiederzukommen",smalltalk.user.will_be_back,Editorial.SmallTalk
 Ich bin in ein paar Minuten zurück,smalltalk.user.will_be_back,Editorial.SmallTalk
+Welche Arbeit macht Kevin?,work.ses.strategy,Editorial.Personal
+Welche Arbeit macht Kevin bei SES?,work.ses.strategy,Editorial.Personal
 Welche Arbeit hat Kevin bei SES im Zusammenhang mit Strategie geleistet?,work.ses.strategy,Editorial.Personal
 Welche strategischen Aufgaben hatte Kevin bei SES?,work.ses.strategy,Editorial.Personal
 Was hat Kevin bei SES in Bezug auf die Strategie erreicht?,work.ses.strategy,Editorial.Personal
+Welche Arbeit hat Kevin bei SES im Zusammenhang mit Innovation geleistet?,work.ses.innovation,Editorial.Personal
+Welche Aufgaben hatte Kevin bei SES im Zusammenhang mit Innovation?,work.ses.innovation,Editorial.Personal
 Welche Arbeit hat Kevin bei SES im Zusammenhang mit Ergebnissen geleistet?,work.ses.outcomes,Editorial.Personal
 Welche Aufgaben hatte Kevin bei SES in Bezug auf die Ergebnisse?,work.ses.outcomes,Editorial.Personal
 Was hat Kevin bei SES in Bezug auf die Ergebnisse erreicht?,work.ses.outcomes,Editorial.Personal
@@ -1486,12 +1490,6 @@ Welche Aufgaben hatte Kevin bei Devoteam?,work.devoteam.transformation,Editorial
 Was hat Kevin bei Devoteam erreicht?,work.devoteam.transformation,Editorial.Personal
 War Kevin Berater bei Devoteam?,work.devoteam.transformation,Editorial.Personal
 Hat Kevin als Berater bei Devoteam gearbeitet?,work.devoteam.transformation,Editorial.Personal
-Welche Arbeit hat Kevin bei Microsoft gemacht?,work.microsoft.engineer,Editorial.Personal
-Welche Aufgaben hatte Kevin bei Microsoft?,work.microsoft.engineer,Editorial.Personal
-Was hat Kevin bei Microsoft erreicht?,work.microsoft.engineer,Editorial.Personal
-Welche Arbeit hat Kevin bei MS gemacht?,work.microsoft.engineer,Editorial.Personal
-Welche Aufgaben hatte Kevin bei MS?,work.microsoft.engineer,Editorial.Personal
-Was hat Kevin bei MS erreicht?,work.microsoft.engineer,Editorial.Personal
 Hat Kevin an der AI Academy bei Microsoft gearbeitet?,work.microsoft.academy,Editorial.Personal
 War Kevin an der AI Academy bei Microsoft beteiligt?,work.microsoft.academy,Editorial.Personal
 Welche Arbeit hat Kevin bei Deloitte gemacht?,work.deloitte.expansion,Editorial.Personal
