@@ -1,4 +1,4 @@
-import { Bot } from '../types';
+import { Bot } from './types';
 import { de } from './de';
 import { en } from './en';
 import { fr } from './fr';
