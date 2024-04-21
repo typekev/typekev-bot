@@ -20,5 +20,6 @@ jobs:
           git checkout -B dist
           git rm -rf .
           git checkout main -- src/bots
+          git mv src/bots/* bots
           git commit -am "Update dist branch with latest changes from src/bots"
           git push origin dist
