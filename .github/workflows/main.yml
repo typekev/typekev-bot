@@ -13,7 +13,7 @@ jobs:
         uses: actions/checkout@v2
     
       - name: Setuo git user
-      - uses: fregante/setup-git-user@v2
+        uses: fregante/setup-git-user@v2
 
       - name: Copy bots folder to dist branch
         run: |
