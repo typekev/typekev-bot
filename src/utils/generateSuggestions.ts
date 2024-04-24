@@ -1,7 +1,8 @@
 import { createReadStream, writeFile } from 'fs';
 import { parse } from 'csv-parse';
 
-import { Bot, KB, Source } from '../types';
+import { Bot } from '../bots/types';
+import { KB, Source } from '../types';
 import { getInputFile } from './getInputFile';
 
 Object.values(Bot).forEach(bot => {

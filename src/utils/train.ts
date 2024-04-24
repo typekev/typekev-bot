@@ -2,7 +2,8 @@ import { createReadStream } from 'fs';
 import { BayesClassifier } from 'natural';
 import { parse } from 'csv-parse';
 
-import { Bot, KB } from '../types';
+import { Bot } from '../bots/types';
+import { KB } from '../types';
 import { getInputFile } from './getInputFile';
 
 const classifier = new BayesClassifier();
