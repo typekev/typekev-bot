@@ -1,4 +1,5 @@
 import { detect } from 'tinyld';
+
 import { Bot } from '../bots/types';
 
 const isLanguageSupported = (language: string): language is Bot =>

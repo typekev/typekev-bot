@@ -1,5 +1,5 @@
-import { createReadStream, writeFile } from 'fs';
 import { parse } from 'csv-parse';
+import { createReadStream, writeFile } from 'fs';
 
 import { Bot } from '../bots/types';
 import { KB, Source } from '../types';

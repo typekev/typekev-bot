@@ -1,8 +1,8 @@
 import Fastify from 'fastify';
 
-import { detectLanguage } from '../utils/detectLanguage';
 import { bots } from '../bots';
 import { Bot } from '../bots/types';
+import { detectLanguage } from '../utils/detectLanguage';
 
 const server = Fastify({ logger: true });
 const port = parseInt(process.env.PORT || '3000');
