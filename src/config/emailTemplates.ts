@@ -6,7 +6,7 @@ const templates: Record<string, EmailTemplate> = {
   hire: {
     to: EMAIL_ADDRESS,
     subject: 'Work Opportunity',
-    body: 'Hi Kevin,\n\nI visited keving.me and I\'m interested in discussing a potential opportunity.\n\n',
+    body: "Hi Kevin,\n\nI visited keving.me and I'm interested in discussing a potential opportunity.\n\n",
   },
   mentor: {
     to: EMAIL_ADDRESS,
@@ -16,7 +16,7 @@ const templates: Record<string, EmailTemplate> = {
   collaborate: {
     to: EMAIL_ADDRESS,
     subject: 'Collaboration Idea',
-    body: 'Hi Kevin,\n\nI visited your site and have a collaboration idea I\'d love to discuss.\n\n',
+    body: "Hi Kevin,\n\nI visited your site and have a collaboration idea I'd love to discuss.\n\n",
   },
 };
 
@@ -24,9 +24,5 @@ export function generateMailtoLink(templateId: string): string {
   const template = templates[templateId];
   if (!template) return `mailto:${EMAIL_ADDRESS}`;
 
-  const params = new URLSearchParams();
-  params.set('subject', template.subject);
-  params.set('body', template.body);
-
-  return `mailto:${template.to}?${params.toString()}`;
+  return `mailto:${template.to}?subject=${encodeURIComponent(template.subject)}&body=${encodeURIComponent(template.body)}`;
 }
