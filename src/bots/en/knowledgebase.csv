@@ -1472,8 +1472,21 @@ be back in 5 minutes,smalltalk.user.will_be_back,Editorial.SmallTalk
 I'll be back,smalltalk.user.will_be_back,Editorial.SmallTalk
 I promise to come back,smalltalk.user.will_be_back,Editorial.SmallTalk
 I'll be back in a few minutes,smalltalk.user.will_be_back,Editorial.SmallTalk
-What work does Kevin do?,work.ses.strategy,Editorial.Personal
+What work does Kevin do?,context.projects_overview,Editorial.Personal
+What kind of work does Kevin usually do?,context.projects_overview,Editorial.Personal
+What does Kevin work on?,context.projects_overview,Editorial.Personal
+What is Kevin working on right now?,ventures.symphonee,Editorial.Personal
+What is Kevin building at Symphonee AI?,ventures.symphonee,Editorial.Personal
+What does Symphonee AI do?,ventures.symphonee,Editorial.Personal
+What is Scale Tiny?,ventures.scaletiny,Editorial.Personal
+What does Kevin build at Scale Tiny?,ventures.scaletiny,Editorial.Personal
+What is react-mk?,ventures.react_mk,Editorial.Personal
+Can I see Kevin's open-source work?,context.open_source,Editorial.Personal
+What is Blob Game?,ventures.blob_game,Editorial.Personal
+What is Polls Exporter?,ventures.polls_exporter,Editorial.Personal
 What work does Kevin do at SES?,work.ses.strategy,Editorial.Personal
+What did Kevin work on at SES?,work.ses.strategy,Editorial.Personal
+What kind of systems did Kevin build at SES?,work.ses.strategy,Editorial.Personal
 What work did Kevin do at SES related to strategy?,work.ses.strategy,Editorial.Personal
 What were Kevin's responsibilities at SES related to strategy?,work.ses.strategy,Editorial.Personal
 What did Kevin achieve at SES related to strategy?,work.ses.strategy,Editorial.Personal
@@ -1601,3 +1614,112 @@ What involvement does Kevin have in promoting AI awareness?,interviews.participa
 Where did Kevin participate as a speaker?,interviews.participation,Editorial.Personal
 What notable events has Kevin contribute to concerning AI education?,interviews.participation,Editorial.Personal
 How has Kevin been recognized in the field of artificial intelligence?,interviews.participation,Editorial.Personal
+Does Kevin do consulting or fractional CTO work?,services.professional,Editorial.Personal
+What kind of problems does Kevin usually help with?,services.professional,Editorial.Personal
+When should a team bring Kevin in?,context.when_to_involve,Editorial.Personal
+What kind of work does Kevin usually do?,context.projects_overview,Editorial.Personal
+What kind of problems does Kevin usually work on?,context.when_to_involve,Editorial.Personal
+How does Kevin take an AI prototype to production?,context.prototype_to_production,Editorial.Personal
+How does Kevin help teams become more autonomous?,context.scaling_teams,Editorial.Personal
+How does Kevin work on large-scale systems?,context.enterprise_scale,Editorial.Personal
+What does Kevin mean by high-stakes software?,context.enterprise_scale,Editorial.Personal
+How does Kevin approach legacy code?,context.legacy_modernization,Editorial.Personal
+What is Kevin's take on modernization?,context.legacy_modernization,Editorial.Personal
+How does Kevin handle regulated environments?,context.fintech_and_compliance,Editorial.Personal
+How does Kevin balance speed and compliance?,context.fintech_and_compliance,Editorial.Personal
+What kind of KYC work did Kevin do at Deloitte?,context.deloitte_kyc,Editorial.Personal
+How did Kevin work on financial crime tools?,context.deloitte_kyc,Editorial.Personal
+What did Kevin do on the lending app at the EIB?,context.eib_lending,Editorial.Personal
+What was Kevin's frontend role there?,context.eib_lending,Editorial.Personal
+What did Kevin build at PwC?,context.pwc_architecture,Editorial.Personal
+How did Kevin think about frontend architecture there?,context.pwc_architecture,Editorial.Personal
+What did Kevin do at EmailTree AI?,context.emailtree_marketplace,Editorial.Personal
+How did Kevin help move EmailTree AI toward Azure Marketplace?,context.emailtree_marketplace,Editorial.Personal
+What does Kevin mean by hyper-automation?,context.hyperautomation,Editorial.Personal
+How does Kevin use language models in workflows?,context.hyperautomation,Editorial.Personal
+What is Kevin building with agentic workflows?,context.agentic_systems,Editorial.Personal
+How does Kevin use AI in real products?,context.agentic_systems,Editorial.Personal
+Does Kevin mentor engineers?,context.team_upskilling,Editorial.Personal
+What has Kevin done around AI training?,context.team_upskilling,Editorial.Personal
+What kind of consulting did Kevin do early on?,context.early_consulting,Editorial.Personal
+How did Kevin work with clients one-on-one?,context.early_consulting,Editorial.Personal
+How did Kevin get started?,context.networking_roots,Editorial.Personal
+What was Kevin doing before software?,context.networking_roots,Editorial.Personal
+What kind of small things does Kevin build?,context.rapid_prototyping,Editorial.Personal
+What side projects has Kevin made?,context.rapid_prototyping,Editorial.Personal
+Can I see Kevin's open-source work?,context.open_source,Editorial.Personal
+What has Kevin published publicly?,context.open_source,Editorial.Personal
+What cross-platform apps has Kevin built?,context.mobile_cross_platform,Editorial.Personal
+What did Kevin build with his son Casey?,context.mobile_cross_platform,Editorial.Personal
+What kind of work does Kevin usually do?,context.projects_overview,Editorial.Personal
+What is Kevin working on right now?,ventures.symphonee,Editorial.Personal
+What does Kevin build at Scale Tiny?,ventures.scaletiny,Editorial.Personal
+What does Kevin build at Symphonee?,ventures.symphonee,Editorial.Personal
+What is Kevin's approach to frontend architecture?,approach.frontend_architecture,Editorial.Personal
+How does Kevin think about UX?,approach.frontend_architecture,Editorial.Personal
+How does Kevin choose his tech stack?,approach.tech_stack_selection,Editorial.Personal
+What languages does Kevin use most?,approach.tech_stack_selection,Editorial.Personal
+How does Kevin use Claude and OpenAI?,approach.agentic_tools,Editorial.Personal
+What does Kevin build with LangChain and LangGraph?,approach.agentic_tools,Editorial.Personal
+How does Kevin ship software quickly?,approach.delivery_velocity,Editorial.Personal
+What is Kevin's approach to CI/CD?,approach.delivery_velocity,Editorial.Personal
+What databases does Kevin use?,approach.databases,Editorial.Personal
+How does Kevin choose a database?,approach.databases,Editorial.Personal
+What cloud platforms does Kevin know?,approach.cloud_platforms,Editorial.Personal
+How does Kevin work across Azure and AWS?,approach.cloud_platforms,Editorial.Personal
+Does Kevin also do design work?,approach.design_and_3d,Editorial.Personal
+What does Kevin use Figma and Blender for?,approach.design_and_3d,Editorial.Personal
+How does Kevin mentor people?,approach.delegation_and_mentorship,Editorial.Personal
+How does Kevin lead teams?,approach.delegation_and_mentorship,Editorial.Personal
+What has Kevin done in space tech?,domain.space_tech,Editorial.Personal
+How did Kevin get into satellites?,domain.space_tech,Editorial.Personal
+What training does Kevin have in AI and cloud?,domain.deep_tech_credentials,Editorial.Personal
+What formal credentials does Kevin hold?,domain.deep_tech_credentials,Editorial.Personal
+Where has Kevin worked?,skills.international_experience,Editorial.Personal
+How has Kevin worked across different countries?,skills.international_experience,Editorial.Personal
+How does Kevin lead teams?,skills.leadership_and_management,Editorial.Personal
+What kind of leadership does Kevin practice?,skills.leadership_and_management,Editorial.Personal
+What projects has Kevin worked on?,skills.impactful_projects,Editorial.Personal
+What kind of problems does Kevin like to solve?,skills.impactful_projects,Editorial.Personal
+What industries has Kevin worked in?,skills.industry_expertise,Editorial.Personal
+What domains does Kevin know well?,skills.industry_expertise,Editorial.Personal
+How does Kevin keep learning?,skills.professional_development,Editorial.Personal
+What does Kevin do to stay current?,skills.professional_development,Editorial.Personal
+What languages does Kevin use?,skills.programming_languages,Editorial.Personal
+What languages is Kevin strongest in?,skills.programming_languages,Editorial.Personal
+What frameworks does Kevin use?,skills.frameworks_libraries,Editorial.Personal
+What libraries does Kevin work with?,skills.frameworks_libraries,Editorial.Personal
+What databases does Kevin use?,skills.databases,Editorial.Personal
+How does Kevin choose a database?,skills.databases,Editorial.Personal
+What tools does Kevin use day to day?,skills.development_tools_platforms,Editorial.Personal
+What dev environments does Kevin work in?,skills.development_tools_platforms,Editorial.Personal
+What CI/CD tools does Kevin use?,skills.ci_cd,Editorial.Personal
+How does Kevin ship code?,skills.ci_cd,Editorial.Personal
+What testing tools does Kevin use?,skills.testing_linting,Editorial.Personal
+How does Kevin keep code quality up?,skills.testing_linting,Editorial.Personal
+What Azure services does Kevin know?,skills.cloud_platforms.azure,Editorial.Personal
+How deep is Kevin in Azure?,skills.cloud_platforms.azure,Editorial.Personal
+What other cloud platforms does Kevin use?,skills.cloud_platforms.other,Editorial.Personal
+How does Kevin work across AWS and Google Cloud?,skills.cloud_platforms.other,Editorial.Personal
+What planning and design tools does Kevin use?,skills.planning_design,Editorial.Personal
+Does Kevin also do visual design?,skills.planning_design,Editorial.Personal
+What Azure certifications does Kevin hold?,certifications.azure,Editorial.Personal
+What formal Microsoft certifications does Kevin have?,certifications.azure,Editorial.Personal
+What deep learning certifications does Kevin have?,certifications.deep_learning,Editorial.Personal
+What AI training has Kevin completed?,certifications.deep_learning,Editorial.Personal
+What did Kevin study at MIT?,certifications.mit,Editorial.Personal
+What MIT program did Kevin complete?,certifications.mit,Editorial.Personal
+Where did Kevin study the New Space Economy?,education.mit,Editorial.Personal
+What did Kevin get from MIT?,education.mit,Editorial.Personal
+Where did Kevin go to college?,education.tci_college,Editorial.Personal
+What did Kevin study before software?,education.tci_college,Editorial.Personal
+What awards has Kevin received?,awards.recognition,Editorial.Personal
+What has Kevin been recognized for?,awards.recognition,Editorial.Personal
+What GitHub achievements does Kevin have?,reputation.github_achievements,Editorial.Personal
+Can I see Kevin's GitHub profile?,reputation.github_achievements,Editorial.Personal
+Has Kevin spoken at events?,interviews.participation,Editorial.Personal
+Where has Kevin talked about AI?,interviews.participation,Editorial.Personal
+Hi Kevin,smalltalk.greetings.hello,Editorial.Personal
+Hello Kevin,smalltalk.greetings.hello,Editorial.Personal
+I'm not sure what to ask,fallback,Editorial.Personal
+I need help figuring out what Kevin does,fallback,Editorial.Personal

@@ -2,43 +2,43 @@ import type { ActionDefinition } from '../types';
 
 export const actions: Record<string, ActionDefinition> = {
   'email.hire': {
-    label: 'Work with Kevin',
+    label: 'Work together',
     type: 'email',
     icon: 'mail',
     emailTemplateId: 'hire',
   },
   'email.mentor': {
-    label: 'Request Mentorship',
+    label: 'Ask about mentorship',
     type: 'email',
     icon: 'mail',
     emailTemplateId: 'mentor',
   },
   'email.collaborate': {
-    label: 'Collaborate',
+    label: 'Discuss collaboration',
     type: 'email',
     icon: 'mail',
     emailTemplateId: 'collaborate',
   },
   'link.github': {
-    label: 'View GitHub',
+    label: 'GitHub',
     type: 'link',
     payload: 'https://github.com/typekev',
     icon: 'github',
   },
   'link.linkedin': {
-    label: 'Connect on LinkedIn',
+    label: 'LinkedIn',
     type: 'link',
     payload: 'https://linkedin.com/in/typekev',
     icon: 'linkedin',
   },
   'link.symphonee': {
-    label: 'Visit Symphonee AI',
+    label: 'Symphonee AI',
     type: 'link',
     payload: 'https://symphonee.ai/',
     icon: 'external-link',
   },
   'link.scaletiny': {
-    label: 'Visit Scale Tiny',
+    label: 'Scale Tiny',
     type: 'link',
     payload: 'https://scaletiny.com/',
     icon: 'external-link',
@@ -50,13 +50,20 @@ export const actions: Record<string, ActionDefinition> = {
     icon: 'package',
   },
   'link.blobgame': {
-    label: 'Play Blob Game',
+    label: 'Blob Game',
     type: 'link',
     payload: 'https://blob-game.vercel.app/',
     icon: 'gamepad',
   },
+  'link.pollsexporter': {
+    label: 'Polls Exporter',
+    type: 'link',
+    payload:
+      'https://chromewebstore.google.com/detail/plhhcimiiomhjmdamdodhihhglifdpem?utm_source=item-share-cb',
+    icon: 'external-link',
+  },
   'link.site.source': {
-    label: 'Site Source Code',
+    label: 'Site source',
     type: 'link',
     payload: 'https://github.com/typekev/typekev-site',
     icon: 'code',
@@ -68,13 +75,13 @@ export const actions: Record<string, ActionDefinition> = {
     icon: 'rocket',
   },
   'internal.career': {
-    label: 'View Career',
+    label: 'View Career History',
     type: 'internal',
     payload: '#career-heading',
     icon: 'briefcase',
   },
   'internal.connect': {
-    label: 'Get in Touch',
+    label: 'Connect with Kevin',
     type: 'internal',
     payload: '#connect-heading',
     icon: 'send',

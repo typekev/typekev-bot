@@ -4,6 +4,7 @@ import {
   fallbackActions,
   intentActionMappings,
   MAX_ACTIONS,
+  MAX_SUGGESTIONS,
   persistentSuggestions,
 } from '../config/intentActions';
 import type { Action, StructuredResponse } from '../types';
@@ -49,13 +50,21 @@ function resolveActions(actionIds: string[]): Action[] {
     .slice(0, MAX_ACTIONS);
 }
 
+function resolveSuggestions(suggestions: string[] | undefined): string[] {
+  return Array.from(
+    new Set((suggestions ?? persistentSuggestions).map((suggestion) => suggestion.trim())),
+  )
+    .filter(Boolean)
+    .slice(0, MAX_SUGGESTIONS);
+}
+
 export function injectActions(
   intent: string,
   baseText: string,
 ): StructuredResponse {
   const mapping = findMapping(intent);
   const actionIds = mapping?.actions ?? fallbackActions;
-  const suggestions = mapping?.suggestions ?? persistentSuggestions;
+  const suggestions = resolveSuggestions(mapping?.suggestions);
 
   return {
     type: 'response',
