@@ -1,5 +1,7 @@
 import { BayesClassifier } from 'natural';
 
+import { injectActions } from '../../actions/injectActions';
+import type { StructuredResponse } from '../../types';
 import responses from '../en/responses.json';
 
 type Responses = typeof responses;
@@ -23,11 +25,16 @@ interface GetBotReply {
   responses: Responses;
 }
 
-export function getBotReply(this: GetBotReply, text: string) {
+export function getBotReply(
+  this: GetBotReply,
+  text: string,
+): StructuredResponse | undefined {
   const intent = getIntent(text, this.classifier, this.responses);
 
   if (intent) {
     const responseOptions = this.responses[intent];
-    return responseOptions[Math.floor(Math.random() * responseOptions.length)];
+    const baseText =
+      responseOptions[Math.floor(Math.random() * responseOptions.length)];
+    return injectActions(intent, baseText);
   }
 }

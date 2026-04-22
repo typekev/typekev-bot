@@ -93,8 +93,8 @@
     "Such nice manners you have."
   ],
   "smalltalk.appraisal.thank_you": [
-    "Anytime. That's what I'm here for.",
-    "It's my pleasure to help."
+    "Anytime. That's what I'm here for. What else can I do for you?",
+    "It's my pleasure to help, what else can I do for you?"
   ],
   "smalltalk.appraisal.no_problem": ["Terrific!", "Good deal."],
   "smalltalk.appraisal.good": ["Great!", "Terrific!"],
@@ -166,10 +166,7 @@
     "Talk to you soon!"
   ],
   "smalltalk.greetings.hello": [
-    "Hi there, friend!",
-    "Hey!",
-    "Good day!",
-    "Howdy."
+    "Hi! I'm Kevin AI. Ask me about Kevin's work and ventures."
   ],
   "smalltalk.greetings.how_are_you": [
     "Wonderful as always. Thanks for asking.",
@@ -347,110 +344,216 @@
     "Till next time.",
     "Okay. You know where to find me."
   ],
+  "services.professional": [
+    "Kevin sometimes does fractional CTO and consulting work. People usually bring him in when the engineering needs to scale, legacy code is slowing things down, or an AI prototype needs a path to production."
+  ],
+  "ventures.symphonee": [
+    "Right now, Kevin is building Symphonee AI. It is an AI-first CRM + ATS for recruitment work, with agents handling recruitment admin so teams can focus on the work that matters."
+  ],
+  "ventures.scaletiny": [
+    "Scale Tiny is Kevin's micro-SaaS studio, where he ships small products and experiments, like Polls Exporter for WhatsApp Web."
+  ],
+  "ventures.react_mk": [
+    "react-mk is a lightweight, zero-dependency React typewriter component with realistic typing animations."
+  ],
+  "ventures.blob_game": ["Blob Game is a small game Kevin built for fun."],
+  "ventures.polls_exporter": [
+    "Polls Exporter is a Chrome extension Kevin built to export WhatsApp poll results to Excel or CSV."
+  ],
   "work.ses.strategy": [
-    "At SES, Kevin shapes strategic software direction for the Asset & Yield Excellence division under the direction of the Vice President, overseeing all software development activities globally."
+    "At SES, Kevin helped shape software direction for the Yield Excellence side of the business, with a focus on the systems that keep the satellite portfolio running smoothly."
   ],
   "work.ses.innovation": [
-    "As Senior Innovation Engineer at SES, Kevin provided global technical guidance, collaborating with partners to launch impactful products and prototypes."
+    "He also worked on greenfield AI and innovation projects, and got to show some of that work at events like MWC Barcelona."
   ],
   "work.ses.outcomes": [
-    "Kevin ensures engineering outcomes align with departmental objectives, enhancing flexibility, reducing operational costs, and improving product quality."
+    "The point was to make the engineering more flexible, lower the operational drag, and improve the product."
   ],
   "work.emailtree.delivery": [
-    "As Principal Software Engineer & AI Lead at EmailTree AI, Kevin led AI product delivery and architecture, migrating the platform to Azure as a transactable SaaS app, securing incentives, and establishing an Azure IP Co-Sell partnership for international expansion."
+    "At EmailTree AI, Kevin led AI product delivery and architecture, helped move the platform onto Azure, and worked through the marketplace and co-sell side of things."
   ],
   "work.emailtree.migration": [
-    "Under Kevin's guidance, EmailTree AI seamlessly transitioned to Azure as a SaaS app, securing incentives and forging a strategic Azure IP Co-Sell partnership, catalyzing international expansion."
+    "He reworked EmailTree AI for Azure Marketplace and helped push the platform toward a more scalable SaaS setup."
   ],
   "work.emailtree.program": [
-    "Kevin led an initiative to improve AI system performance by integrating large language models across 20 microservices, enhancing accuracy and introducing a secure direct chat feature for high-security sectors."
+    "He also spent time on the AI side, improving natural language features, encryption, and chat experiences."
   ],
   "work.devoteam.transformation": [
-    "At Devoteam, Kevin served as Lead Software Engineer Consultant & AI Solution Leader, translating concepts into solutions and fostering global collaborations."
+    "At Devoteam, Kevin helped modernize financial auditing and crime prevention products, while acting as a bridge between clients and engineering."
   ],
   "work.devoteam.academy": [
-    "Kevin co-founded the AI Academy with Microsoft, developing curriculums and delivering presentations worldwide, with Luxembourg as the primary hub."
-  ],
-  "work.devoteam.projects": [
-    "Kevin initiated various blockchain and AI projects showcasing business relevance."
+    "He co-founded the AI Academy with Microsoft, which turned into a lot of training, talks, and a few nice awards."
   ],
   "work.deloitte.expansion": [
-    "At Deloitte, Kevin led expansion efforts for Know Your Customer and Financial Crime Prevention products, delivering robust and modern applications."
-  ],
-  "work.deloitte.designer": [
-    "As Lead UX Designer at Deloitte, Kevin drove design and development of the Know Your Customer product, ensuring user satisfaction."
+    "At Deloitte, Kevin worked on Know Your Customer and financial crime prevention products, with an eye on making them more usable and more modern."
   ],
   "work.eib.leader": [
-    "At the European Investment Bank, Kevin led front-end development, fostering collaboration and ensuring compliance."
+    "At the European Investment Bank, Kevin led frontend work on a large lending application."
   ],
   "work.eib.technical": [
-    "As Frontend Technical Leader, Kevin led the development of engaging user interfaces, fostering collaboration and ensuring quality."
+    "He spent a lot of time on the UI and frontend side there, making complex data feel less painful to use."
   ],
   "work.pwc.engineer": [
-    "At PwC, Kevin contributed significantly to the design, architecture, and development of critical applications, collaborating internationally with various stakeholders."
+    "At PwC, Kevin worked on frontend architecture for global teams that needed something flexible from the start."
+  ],
+  "context.projects_overview": [
+    "Kevin works across satellites, AI products, small tools, and the occasional game."
+  ],
+  "context.when_to_involve": [
+    "Kevin usually gets involved when things start getting messy, the team needs clearer technical direction, or an idea needs to move from prototype to something real."
+  ],
+  "context.prototype_to_production": [
+    "A lot of Kevin's work is taking early ideas and making them real. That usually means cleaning up architecture, sorting out the data, and putting a practical roadmap in place."
+  ],
+  "context.scaling_teams": [
+    "When a team starts to outgrow its early setup, things can get messy. Kevin helps bring more structure so the team can move on its own."
+  ],
+  "context.enterprise_scale": [
+    "Kevin works on high-stakes systems, including software tied to a $10B+ satellite portfolio. In that kind of work, reliability and good judgment matter."
+  ],
+  "context.legacy_modernization": [
+    "Kevin helps teams untangle old systems and move them toward something cleaner and easier to work with."
+  ],
+  "context.fintech_and_compliance": [
+    "In regulated environments, Kevin tends to balance speed with security and compliance."
+  ],
+  "context.deloitte_kyc": [
+    "At Deloitte, Kevin helped build Know Your Customer and financial crime prevention tools that had to handle sensitive data without making the experience painful to use."
+  ],
+  "context.eib_lending": [
+    "At the European Investment Bank, Kevin led frontend work on a big internal lending application, using React and RxJS to keep complex states manageable."
+  ],
+  "context.pwc_architecture": [
+    "At PwC, Kevin worked on a flexible frontend architecture that needed to hold up across global branches."
+  ],
+  "context.emailtree_marketplace": [
+    "At EmailTree AI, Kevin helped rearchitect the platform for Azure Marketplace, secure $100K+ in Microsoft-backed funding, and push the company into Azure IP Co-Sell."
+  ],
+  "context.hyperautomation": [
+    "Kevin has worked a lot with hyper-automation, connecting language models to everyday workflows so repetitive tasks can get handled quietly in the background."
+  ],
+  "context.agentic_systems": [
+    "Lately, Kevin has been building more agentic systems, where AI does more than chat and actually helps carry out work across tools and workflows."
+  ],
+  "context.team_upskilling": [
+    "Kevin has spent a lot of time mentoring engineers. He co-founded an AI Academy with Microsoft and Devoteam to help teams get comfortable with AI and modern development."
+  ],
+  "context.early_consulting": [
+    "Earlier in his career, Kevin did a lot of one-on-one consulting. He would guide clients through the full software lifecycle, from sketch to deployment."
+  ],
+  "context.networking_roots": [
+    "Kevin started out in IT and network engineering, wiring up medical offices and small businesses before moving deeper into software."
+  ],
+  "context.rapid_prototyping": [
+    "Kevin still likes to build small experiments when a problem seems worth poking at. That is how a few of his side projects happened."
+  ],
+  "context.open_source": [
+    "Kevin keeps some of his work public, including GitHub repos and packages like react-mk."
+  ],
+  "context.mobile_cross_platform": [
+    "Kevin also likes to build cross-platform apps. Blob Game is one example, and Mlem: A Blob Farm Game was a fun one he made with his son Casey."
+  ],
+  "approach.tech_stack_selection": [
+    "Kevin does not pick a stack just to pick one. He usually chooses the tool that fits the problem."
+  ],
+  "approach.agentic_tools": [
+    "Kevin has been building with Claude, OpenAI, LangChain, and LangGraph. He likes workflows where the AI actually gets things done."
+  ],
+  "approach.delivery_velocity": [
+    "Kevin leans on Docker, Kubernetes, and Terraform so teams can ship without making a mess of the system."
+  ],
+  "approach.frontend_architecture": [
+    "Kevin still cares a lot about frontend architecture and UX. He likes complex systems to feel easy to use."
+  ],
+  "approach.databases": [
+    "Kevin has worked with PostgreSQL, MySQL, MongoDB, DynamoDB, Redis, and Elasticsearch. He just picks the one that makes sense."
+  ],
+  "approach.cloud_platforms": [
+    "Kevin spends most of his time in Azure, but he is comfortable in AWS and Google Cloud too."
+  ],
+  "approach.design_and_3d": [
+    "Kevin also uses Figma, Blender, and Three.js when the product needs a visual side."
+  ],
+  "approach.delegation_and_mentorship": [
+    "As a leader, Kevin tries to delegate well and help other engineers take on more."
+  ],
+  "domain.space_tech": [
+    "Kevin has spent a lot of time in space tech. Before SES, he took MIT's New Space Economy program to get closer to the domain."
+  ],
+  "domain.deep_tech_credentials": [
+    "Kevin has a mix of hands-on experience and formal training in AI, cloud, and space tech."
   ],
   "skills.international_experience": [
-    "Kevin's diverse work experience across Luxembourg, the United States, and beyond demonstrates his adaptability to varied work environments and cultural contexts."
+    "Kevin has worked in Luxembourg, the United States, and a few other places, so he is used to different teams and different ways of working."
   ],
   "skills.leadership_and_management": [
-    "Throughout his career, Kevin has demonstrated robust leadership skills, leading cross-functional teams to successful project delivery in international contexts."
+    "Kevin has led teams, mentored people, and usually tries to leave teams more autonomous than he found them."
   ],
   "skills.impactful_projects": [
-    "Kevin's impactful projects, from migrating EmailTree AI to Azure to enhancing AI system performance, have driven international growth and innovation."
+    "Kevin tends to work on things that affect real users or real operations, not just demo code."
   ],
   "skills.industry_expertise": [
-    "With expertise in satellites, AI, and data domains, Kevin brings invaluable knowledge to his roles, fostering international collaboration and innovation."
+    "Kevin has spent time in satellites, AI, fintech, and enterprise software. It is a strange mix, but it is useful."
   ],
   "skills.professional_development": [
-    "Kevin remains committed to professional development, ensuring he stays at the forefront of industry trends and advancements in international settings."
+    "Kevin keeps learning. The AI stuff changed fast, so he keeps up by building."
   ],
   "skills.programming_languages": [
-    "Kevin is proficient in TypeScript, JavaScript, Golang, Python, C#, Java, Dart, and Swift."
+    "Kevin uses TypeScript, JavaScript, Python, Go, C#, Dart, SQL, and GraphQL."
   ],
   "skills.frameworks_libraries": [
-    "Kevin has experience with NextJS, React, Redux, RxJS, D3, Material UI, Emotion, Styled Components, Tailwind, NodeJS, Fastify, Express, Kysely, .NET, Entity Framework, Django, Keras, TensorFlow, PyTorch, Scikit-learn, Pandas, Flutter, and Hyperledger Fabric."
+    "Kevin has worked with React, Next.js, Node.js, Bun, Deno, .NET, Flutter, Kysely, Prisma, LangChain, LangGraph, PyTorch, and TensorFlow."
   ],
   "skills.databases": [
-    "Kevin is skilled in PostgreSQL, MySQL, Redis, MongoDB, Cosmos DB, DynamoDB, Snowflake, and Elasticsearch."
+    "Kevin has used PostgreSQL, MySQL, InfluxDB, MongoDB, DynamoDB, Redis, and Elasticsearch."
   ],
   "skills.development_tools_platforms": [
-    "He is experienced with VS Code, Visual Studio, IntelliJ, Unreal Engine, Android Studio, Xcode, Jupyter Notebook, Anaconda, Grafana, Keycloak, Postman, Swagger, NPM, PNPM, Yarn, Git, GitHub, GitLab, and Bitbucket."
+    "Kevin has worked with VS Code, Visual Studio, IntelliJ, Jupyter Notebook, Grafana, Keycloak, Postman, Swagger, GitHub, GitLab, and Bitbucket."
   ],
   "skills.ci_cd": [
-    "Kevin has experience with Jenkins, Travis CI, Azure DevOps, Kubernetes, Docker, and Terraform for CI/CD."
+    "Kevin has used Jenkins, Travis CI, Azure DevOps, Docker, Kubernetes, and Terraform."
   ],
   "skills.testing_linting": [
-    "He is proficient with React Testing Library, Jest, Enzyme, TypeScript-ESLint, ESList, Prettier, and Husky for testing and linting."
+    "Kevin has used React Testing Library, Jest, TypeScript-ESLint, ESLint, Prettier, and Husky."
   ],
   "skills.cloud_platforms.azure": [
-    "Kevin has experience with Azure services like Functions, Container Instances, Kubernetes Service, Cognitive Services, Databricks, Data Factory, Synapse, ML Studio, App Services, Event Grid, IoT Hub, Digital Twins, and Stack Edge."
+    "Kevin has worked with Azure Functions, Container Instances, Kubernetes Service, Cognitive Services, Databricks, Data Factory, Synapse, Azure ML, App Services, Event Grid, IoT Hub, Digital Twins, and Stack Edge."
   ],
   "skills.cloud_platforms.other": [
-    "He also has experience with AWS services including Lambda, SageMaker, TwinMaker, IoT Core, IoT SiteWise, Elemental MediaConnect, and MediaLive, as well as Google Colab, Vercel, and Firebase."
+    "Kevin has also used AWS Lambda, SageMaker, TwinMaker, IoT Core, SiteWise, Elemental MediaConnect, MediaLive, Google Colab, Vercel, and Firebase."
   ],
   "skills.planning_design": [
-    "Kevin is proficient with Jira, Miro, GroundControl, Figma, Sketch, and Blender for planning and design."
+    "Kevin has used Jira, Miro, Figma, Sketch, GroundControl, and Blender for planning and design."
   ],
   "certifications.azure": [
-    "Kevin holds certifications in Azure Solutions Architect Expert, Azure AI Engineer Associate, Azure Data Scientist Associate, and Microsoft Professional Program for AI."
+    "Kevin holds Azure Solutions Architect Expert, Azure AI Engineer Associate, and Azure Data Scientist Associate certifications."
   ],
   "certifications.deep_learning": [
-    "He completed the Deep Learning Engineer Nanodegree and Machine Learning Engineer Nanodegree from Udacity."
+    "Kevin completed Udacity's Deep Learning Engineer Nanodegree and Machine Learning Engineer Nanodegree."
   ],
-  "certifications.mit": [
-    "Kevin completed the New Space Economy program from MIT Professional Education."
-  ],
+  "certifications.mit": ["Kevin completed MIT's New Space Economy program."],
   "education.mit": [
-    "Kevin gained advanced understanding of the space sector from MIT's New Space Economy program."
+    "Kevin completed MIT's New Space Economy program and spent more time thinking about the space industry than he had before."
   ],
   "education.tci_college": [
-    "He graduated Cum Laude from TCI College of Technology with an A.A.S. in Networking Technology."
+    "Kevin graduated from TCI College of Technology with an A.A.S. in Networking Technology."
   ],
   "awards.recognition": [
-    "Kevin won “The Great Pitch Contest” and “Microsoft Award” at Wolves Summit 2021 and received the “Most Innovative ICT Training Program Award” for the Devoteam AI Academy."
+    "Kevin has picked up a few awards, including the Wolves Summit Microsoft Award, The Great Pitch Contest, and the ICT Luxembourg Most Innovative ICT Training Program award."
+  ],
+  "reputation.recognition": [
+    "Kevin has picked up a few awards, including the Wolves Summit Microsoft Award, The Great Pitch Contest, and the ICT Luxembourg Most Innovative ICT Training Program award."
+  ],
+  "reputation.github_achievements": [
+    "Kevin has a few GitHub achievements, including Arctic Code Vault Contributor."
   ],
   "interviews.participation": [
-    "He served as a panelist for the “AI for Families” event at the Luxembourg Chamber of Commerce and was featured in the article “Learning & Demystifying Artificial Intelligence”."
+    "Kevin was a panelist for the AI for Families event at the Luxembourg Chamber of Commerce and was featured in Learning & Demystifying Artificial Intelligence."
   ],
-  "fallback": ["I'm sorry, I don't understand."]
+  "smalltalk.greetings.hello": [
+    "Hi, I am Kevin AI. Ask me about Kevin's work, what he is building, or the kinds of problems he tends to work on."
+  ],
+  "fallback": [
+    "Not sure I got that. Ask me about Kevin's work, current projects, skills, or the kinds of problems he tends to work on."
+  ]
 }
