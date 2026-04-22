@@ -32,13 +32,13 @@ export const actions: Record<string, ActionDefinition> = {
     icon: 'linkedin',
   },
   'link.symphonee': {
-    label: 'Explore Symphonee',
+    label: 'Visit Symphonee AI',
     type: 'link',
     payload: 'https://symphonee.ai/',
     icon: 'external-link',
   },
   'link.scaletiny': {
-    label: 'Explore Scale Tiny',
+    label: 'Visit Scale Tiny',
     type: 'link',
     payload: 'https://scaletiny.com/',
     icon: 'external-link',
